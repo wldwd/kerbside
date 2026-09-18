@@ -1,0 +1,640 @@
+# Urbanist News Australia - settings
+# Edit this file to add sources or change keywords. No code changes needed.
+
+site:
+  title: Kerbside
+  keep_days: 365 # remove saved stories older than this
+  max_items: 5000 # maximum stories kept in the archive
+  google_news_days: 30 # Google News searches only return stories this recent
+
+# ---------------------------------------------------------------
+# DIRECT FEEDS
+# filter: true  -> general news; keep only stories matching relevance_keywords
+# filter: false -> source is already on-topic; keep everything
+# region        -> optional; always tag stories from this feed with this region
+# ---------------------------------------------------------------
+feeds:
+  - name: ABC News NSW
+    url: https://www.abc.net.au/news/feed/5555986/rss.xml
+    source_type: News
+    filter: true
+    region: NSW
+
+  - name: ABC News VIC
+    url: https://www.abc.net.au/news/feed/5470430/rss.xml
+    source_type: News
+    filter: true
+    region: VIC
+
+  - name: ABC News QLD
+    url: https://www.abc.net.au/news/feed/5555988/rss.xml
+    source_type: News
+    filter: true
+    region: QLD
+
+  - name: ABC News WA
+    url: https://www.abc.net.au/news/feed/5313390/rss.xml
+    source_type: News
+    filter: true
+    region: WA
+
+  - name: ABC News SA
+    url: https://www.abc.net.au/news/feed/5633084/rss.xml
+    source_type: News
+    filter: true
+    region: SA
+
+  - name: ABC News TAS
+    url: https://www.abc.net.au/news/feed/5512674/rss.xml
+    source_type: News
+    filter: true
+    region: TAS
+
+  - name: ABC News ACT
+    url: https://www.abc.net.au/news/feed/5512668/rss.xml
+    source_type: News
+    filter: true
+    region: ACT
+
+  - name: ABC News NT
+    url: https://www.abc.net.au/news/feed/5555990/rss.xml
+    source_type: News
+    filter: true
+    region: NT
+
+  - name: WAtoday
+    url: https://www.watoday.com.au/rss/feed.xml
+    source_type: News
+    filter: true
+    region: WA
+
+  - name: WestCycle
+    url: https://westcycle.org.au/category/news/feed/
+    source_type: Advocacy
+    filter: false
+    region: WA
+
+  # ----- Advocacy groups and peak bodies -----
+  # No working feed found yet (covered by the "mentions" searches instead):
+  #   Better Streets, Victoria Walks, Pedal Power ACT, Amy Gillett Foundation,
+  #   Bike SA, Committee for Perth, Planning Institute of Australia, PATREC,
+  #   AUDRC, RMIT Centre for Urban Research, Lab of Thought, AusCycling,
+  #   Heart Foundation. Use find_feeds.py to look for their feeds later.
+
+  - name: Queensland Walks
+    url: https://queenslandwalks.org.au/feed/
+    source_type: Advocacy
+    filter: false
+    region: QLD
+
+  - name: Bicycle Network
+    url: https://www.bicyclenetwork.com.au/feed/
+    source_type: Advocacy
+    filter: false
+
+  - name: Bicycle NSW
+    url: https://bicyclensw.org.au/feed/
+    source_type: Advocacy
+    filter: false
+    region: NSW
+
+  - name: WeRide Australia
+    url: https://www.weride.org.au/feed/
+    source_type: Advocacy
+    filter: false
+
+  - name: Bicycle Queensland
+    url: https://www.bq.org.au/feed/
+    source_type: Advocacy
+    filter: false
+    region: QLD
+
+  - name: Micromobility Report
+    url: https://micromobilityreport.com.au/feed/
+    source_type: News
+    filter: false
+
+  # ----- Urban policy and planning bodies -----
+  - name: Committee for Sydney
+    url: https://sydney.org.au/feed/
+    source_type: Advocacy
+    filter: false
+    region: NSW
+
+  # ----- Research centres -----
+  - name: iMOVE
+    url: https://imoveaustralia.com/feed/
+    source_type: Research
+    filter: false
+
+  # ----- International -----
+  - name: Urban Cycling Institute
+    url: https://urbancyclinginstitute.substack.com/feed
+    source_type: Research
+    filter: false
+    region: International
+
+  - name: Reddit r/perth
+    url: "https://www.reddit.com/r/perth/search.rss?q=bike+lane&restrict_sr=1&sort=new"
+    source_type: Community
+    filter: false
+    region: WA
+
+# ---------------------------------------------------------------
+# GOOGLE NEWS SEARCHES (Australian edition)
+# Write queries as you would in Google News. The script builds the feed link.
+# tag -> every story found by this search gets this topic tag.
+# Only stories from Australian publishers are kept (see australian_sources).
+# ---------------------------------------------------------------
+google_news:
+  - name: Walking
+    query: 'walkability OR pedestrians OR footpaths OR "pedestrian crossing" OR "wombat crossing"'
+    tag: Walking
+  - name: Cycling
+    query: '"bike lane" OR cycleway OR "shared path" OR "bike parking" -race -championships'
+    tag: Cycling
+  - name: Micromobility
+    query: "e-scooter OR e-bike OR micromobility"
+    tag: Micromobility
+  - name: Public transport
+    query: '"public transport" OR "light rail" OR "bus network" OR "train station"'
+    tag: Public Transport
+  - name: Road safety
+    query: '"road safety" OR "speed limit" OR "30km/h" OR "Vision Zero"'
+    tag: Road Safety
+  - name: Roads
+    query: '"induced demand" OR "road widening" OR "freeway expansion" OR tollway'
+    tag: Roads
+  - name: Parking
+    query: '"parking minimums" OR "parking reform" OR "parking requirements"'
+    tag: Parking
+  - name: Streets
+    query: '"street design" OR "school streets" OR "road space" OR "Healthy Streets" OR "modal filter" OR "low traffic neighbourhood"'
+    tag: Streets
+  - name: Public space
+    query: 'placemaking OR "public space" OR laneway OR "pedestrian mall"'
+    tag: Public Space
+  - name: High streets
+    query: '"high street" OR "main street" OR "town centre" OR "shopping strip"'
+    tag: High Streets
+  - name: Greening
+    query: '"tree canopy" OR "street trees" OR "urban forest" OR "urban greening"'
+    tag: Greening
+  - name: Climate
+    query: '"urban heat" OR "heat island" OR "climate adaptation" OR "urban flooding"'
+    tag: Climate
+  - name: Planning
+    query: '"planning reform" OR "planning approval" OR "planning scheme" OR "development application"'
+    tag: Planning
+  - name: Zoning
+    query: 'rezoning OR upzoning OR "height limits" OR "zoning rules"'
+    tag: Zoning
+  - name: Housing
+    query: '"missing middle" OR infill OR "medium density" OR "housing density"'
+    tag: Housing
+  - name: Urban growth
+    query: '"urban sprawl" OR greenfield OR "growth boundary" OR "outer suburbs"'
+    tag: Urban Growth
+  - name: Council finance
+    query: '"council rates" OR "infrastructure backlog" OR "asset renewal" OR "financial sustainability" council'
+    tag: Council Finance
+  - name: Accessibility
+    query: '"disability access" OR wheelchair OR "universal design" OR "age-friendly"'
+    tag: Accessibility
+  - name: Geospatial
+    query: '(geospatial OR "digital twin" OR "spatial data" OR GIS OR LiDAR) (urban OR city OR council OR planning OR transport)'
+    tag: Geospatial
+  - name: Research
+    query: '("new research" OR "study finds" OR researchers OR "new report") (walking OR cycling OR "public transport" OR housing OR "urban planning" OR streets)'
+    tag: Research
+  # Media coverage that mentions these organisations by name.
+  # Useful for groups without their own feed (most university centres).
+  - name: Advocacy mentions
+    query: '"Bicycle Queensland" OR "Bike SA" OR "Bicycle SA" OR "Pedal Power ACT" OR "Committee for Sydney" OR "Committee for Perth" OR "Planning Institute of Australia" OR "Better Streets" OR "Victoria Walks" OR "Amy Gillett Foundation"'
+  - name: Research centre mentions
+    query: '"Centre for Urban Research" OR "Healthy Active Cities" OR "Henry Halloran" OR "Micromobility Research Cluster" OR PATREC OR "Australian Urban Design Research Centre" OR iMOVE OR "School of Design and the Built Environment" OR "Urban Cycling Institute" OR "Lab of Thought"'
+    tag: Research
+  - name: Urbanism
+    query: 'urbanism OR urbanist OR liveability OR "urban design"'
+
+# Google News stories are kept only if the publisher's website ends in .au
+# or matches the list below. International stories still appear when
+# these outlets cover them.
+australian_sources:
+  extra_domains:
+    # Australian editions of global sites
+    - theguardian.com
+    - theconversation.com
+    # Australian design and property media
+    - theurbandeveloper.com
+    - architectureau.com
+    - landscapeaustralia.com
+    # International urbanist media
+    - theurbanist.org
+    - nextcity.org
+    - cnu.org
+    - archdaily.com
+
+# Stories from these publishers are always tagged with that region
+publisher_regions:
+  NSW:
+    [
+      dailytelegraph.com.au,
+      smh.com.au,
+      newcastleherald.com.au,
+      illawarramercury.com.au,
+    ]
+  VIC: [heraldsun.com.au, theage.com.au, geelongadvertiser.com.au]
+  QLD:
+    [
+      couriermail.com.au,
+      brisbanetimes.com.au,
+      goldcoastbulletin.com.au,
+      townsvillebulletin.com.au,
+      cairnspost.com.au,
+      inqld.com.au,
+    ]
+  WA: [perthnow.com.au, thewest.com.au, watoday.com.au, businessnews.com.au]
+  SA: [adelaidenow.com.au, indaily.com.au]
+  TAS: [themercury.com.au, examiner.com.au, pulsetasmania.com.au]
+  ACT: [canberratimes.com.au]
+  NT: [ntnews.com.au]
+  International: [theurbanist.org, nextcity.org, cnu.org, archdaily.com]
+
+# Stories from publishers whose name contains any of these are always dropped
+blocked_publishers:
+  - Kalkine
+
+# ---------------------------------------------------------------
+# FILTERING
+# ---------------------------------------------------------------
+
+# Stories from filter: true feeds are kept only if they mention one of these
+relevance_keywords:
+  - urbanism
+  - urban design
+  - liveability
+  - Healthy Streets
+  - walkability
+  - pedestrian
+  - pedestrians
+  - footpath
+  - cycling
+  - cyclist
+  - cyclists
+  - bike lane
+  - cycleway
+  - shared path
+  - e-scooter
+  - e-bike
+  - micromobility
+  - public transport
+  - light rail
+  - Metronet
+  - road safety
+  - speed limit
+  - parking
+  - street design
+  - school streets
+  - wombat crossing
+  - modal filter
+  - low traffic neighbourhood
+  - public space
+  - placemaking
+  - laneway
+  - high street
+  - main street
+  - town centre
+  - tree canopy
+  - street trees
+  - urban forest
+  - urban heat
+  - heat island
+  - planning reform
+  - planning rules
+  - planning approval
+  - development application
+  - zoning
+  - rezoning
+  - infill
+  - density
+  - missing middle
+  - housing supply
+  - urban sprawl
+  - greenfield
+  - council rates
+  - infrastructure backlog
+  - disability access
+  - wheelchair
+  - universal design
+  - geospatial
+  - digital twin
+  - spatial data
+
+# Stories mentioning any of these are dropped from every source
+exclude_keywords:
+  # Unrelated vehicles and fitness
+  - motorcycle
+  - motorbike
+  - dirt bike
+  - spin class
+  # Mining and share market news (e.g. "infill drilling")
+  - ASX
+  - drilling
+  # Cycling sport and events
+  - Tour de France
+  - Tour Down Under
+  - world championships
+  - world titles
+  - Gravel Worlds
+  - UCI
+  - Olympic
+  - Olympics
+  - Commonwealth Games
+  - velodrome
+  - peloton
+  - road race
+
+# ---------------------------------------------------------------
+# TAGS
+# A story gets a tag if it mentions any listed word.
+# ---------------------------------------------------------------
+tag_groups:
+  Movement:
+    Walking:
+      [
+        walking,
+        walkable,
+        walkability,
+        pedestrian,
+        pedestrians,
+        footpath,
+        footpaths,
+        pedestrian crossing,
+        zebra crossing,
+        wombat crossing,
+        wombat crossings,
+        raised crossing,
+      ]
+    Cycling:
+      [
+        cycling,
+        cyclist,
+        cyclists,
+        bike,
+        bikes,
+        bicycle,
+        bicycles,
+        bike lane,
+        bike lanes,
+        cycleway,
+        cycleways,
+        shared path,
+        shared paths,
+        rail trail,
+      ]
+    Micromobility:
+      [
+        e-scooter,
+        e-scooters,
+        escooter,
+        e-bike,
+        e-bikes,
+        ebike,
+        eRideable,
+        eRideables,
+        micromobility,
+      ]
+    Public Transport:
+      [
+        public transport,
+        light rail,
+        tram,
+        trams,
+        bus,
+        buses,
+        bus network,
+        train station,
+        railway,
+        rail line,
+        metro,
+        Metronet,
+      ]
+    Road Safety:
+      [
+        road safety,
+        crash,
+        collision,
+        killed,
+        injured,
+        speed limit,
+        30km/h,
+        40km/h,
+        road toll,
+        Vision Zero,
+        close pass,
+      ]
+    Roads:
+      [
+        congestion,
+        road widening,
+        freeway,
+        motorway,
+        tollway,
+        induced demand,
+        road project,
+        level crossing,
+      ]
+    Parking: [parking, car park, car parks]
+
+  Places:
+    Streets:
+      [
+        street design,
+        road space,
+        school streets,
+        living streets,
+        Healthy Streets,
+        shared zone,
+        road diet,
+        modal filter,
+        modal filters,
+        modal filtering,
+        filtered permeability,
+        low traffic neighbourhood,
+        low traffic neighbourhoods,
+      ]
+    Public Space:
+      [public space, placemaking, plaza, laneway, laneways, pedestrian mall]
+    High Streets:
+      [high street, main street, town centre, shopping strip, local shops]
+    Greening:
+      [
+        tree canopy,
+        street trees,
+        urban forest,
+        urban greening,
+        green space,
+        parkland,
+        pocket park,
+      ]
+    Climate:
+      [
+        urban heat,
+        heat island,
+        extreme heat,
+        flooding,
+        climate adaptation,
+        transport emissions,
+      ]
+    Accessibility:
+      [
+        disability access,
+        disability,
+        wheelchair,
+        mobility aid,
+        mobility aids,
+        kerb ramp,
+        kerb ramps,
+        tactile,
+        universal design,
+        Disability Discrimination Act,
+        age-friendly,
+        older pedestrians,
+        mobility scooter,
+      ]
+
+  Development:
+    Planning:
+      [
+        planning reform,
+        planning rules,
+        planning approval,
+        planning scheme,
+        planning panel,
+        development application,
+        strategic plan,
+        planning minister,
+      ]
+    Zoning:
+      [
+        zoning,
+        rezoning,
+        upzoning,
+        height limit,
+        height limits,
+        planning controls,
+      ]
+    Housing:
+      [
+        housing supply,
+        infill,
+        medium density,
+        missing middle,
+        density,
+        townhouses,
+        apartments,
+        social housing,
+        housing affordability,
+      ]
+    Urban Growth:
+      [
+        urban sprawl,
+        greenfield,
+        growth boundary,
+        outer suburbs,
+        new estate,
+        housing estate,
+      ]
+
+  Money and decisions:
+    Council Finance:
+      [
+        council rates,
+        rate rise,
+        infrastructure backlog,
+        asset renewal,
+        maintenance backlog,
+        council budget,
+        financial sustainability,
+      ]
+    Funding: [funding, grant, grants, budget, investment]
+    Policy:
+      [policy, strategy, inquiry, legislation, reform, new laws, parliament]
+
+  Data and research:
+    Research:
+      [
+        research,
+        researchers,
+        study,
+        new report,
+        report finds,
+        survey,
+        evidence,
+        university,
+        academic,
+        peer-reviewed,
+        working paper,
+        census data,
+      ]
+    Geospatial:
+      [
+        geospatial,
+        GIS,
+        spatial data,
+        spatial analysis,
+        digital twin,
+        mapping,
+        LiDAR,
+        satellite,
+        aerial imagery,
+        heat map,
+        open data,
+        OpenStreetMap,
+        location data,
+      ]
+
+# ---------------------------------------------------------------
+# REGIONS
+# Stories are tagged with any region whose places they mention.
+# Avoid short words that are also common English (e.g. ACT, SA).
+# ---------------------------------------------------------------
+regions:
+  NSW:
+    [
+      New South Wales,
+      NSW,
+      Sydney,
+      Parramatta,
+      Newcastle,
+      Wollongong,
+      Central Coast,
+    ]
+  VIC: [Victoria, Melbourne, Geelong, Ballarat, Bendigo]
+  QLD:
+    [Queensland, QLD, Brisbane, Gold Coast, Sunshine Coast, Townsville, Cairns]
+  WA: [Western Australia, WA, Perth, Fremantle, Mandurah, Bunbury, Joondalup]
+  SA: [South Australia, Adelaide]
+  TAS: [Tasmania, Hobart, Launceston]
+  ACT: [Canberra, Australian Capital Territory]
+  NT: [Northern Territory, Darwin, Alice Springs]
+  International:
+    [
+      New Zealand,
+      Auckland,
+      Wellington,
+      Christchurch,
+      London,
+      Paris,
+      Amsterdam,
+      Copenhagen,
+      Barcelona,
+      New York,
+      Montreal,
+      Vancouver,
+      Netherlands,
+      Europe,
+      United States,
+      United Kingdom,
+    ]

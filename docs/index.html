@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="dark" />
+    <title>Kerbside</title>
+    <meta
+      name="description"
+      content="Curated daily news collection for Australian urban nerds."
+    />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' shape-rendering='crispEdges'><rect width='8' height='8' fill='%231D2B53'/><rect x='1' y='1' width='6' height='1' fill='%23FFEC27'/><rect x='1' y='3' width='6' height='1' fill='%23FF77A8'/><rect x='1' y='5' width='4' height='1' fill='%2329ADFF'/></svg>"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Nunito:wght@400;600;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        /* 8-bit console palette */
+        --night: #1d2b53;
+        --panel: #111a38;
+        --ink: #fff1e8;
+        --muted: #c2c3c7;
+        --line: #83769c;
+        --green: #00e436; /* Movement */
+        --blue: #29adff; /* Places */
+        --orange: #ffa300; /* Development */
+        --yellow: #ffec27; /* Money and decisions */
+        --pink: #ff77a8; /* Data and research */
+        --red: #ff004d;
+
+        --pixel: "Press Start 2P", "Courier New", monospace;
+        --sans: "Nunito", ui-rounded, "Segoe UI", system-ui, sans-serif;
+        --px: 4px;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+      [hidden] {
+        display: none !important;
+      }
+
+      html {
+        background: var(--night);
+      }
+      body {
+        margin: 0;
+        color: var(--ink);
+        font-family: var(--sans);
+        font-size: 1rem;
+        line-height: 1.55;
+        background: radial-gradient(
+              circle,
+              rgba(255, 241, 232, 0.05) 1px,
+              transparent 1.6px
+            )
+            0 0 / 10px 10px,
+          var(--night);
+      }
+
+      .wrap {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 1.5rem 1.25rem 2rem;
+      }
+
+      /* Soft edges with a flat drop shadow */
+      .pixel-box {
+        --c: var(--line);
+        border: 2px solid var(--c);
+        border-radius: 14px;
+        box-shadow: 5px 5px 0 0 rgba(8, 12, 32, 0.55);
+      }
+
+      :focus-visible {
+        outline: 3px solid var(--yellow);
+        outline-offset: 3px;
+      }
+
+      /* ---------- Header: arcade marquee ---------- */
+      .marquee {
+        --c: var(--pink);
+        background: radial-gradient(
+              circle,
+              rgba(255, 119, 168, 0.22) 1.2px,
+              transparent 1.8px
+            )
+            0 0 / 6px 6px,
+          var(--panel);
+        padding: 1.75rem 1.75rem 1.5rem;
+        margin: var(--px) var(--px) 2rem;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-end;
+        justify-content: space-between;
+        gap: 1.25rem 2rem;
+      }
+      .marquee h1 {
+        margin: 0;
+        font-family: var(--pixel);
+        font-weight: 400;
+        font-size: clamp(1.05rem, 2.6vw, 1.9rem);
+        line-height: 1.55;
+        color: var(--yellow);
+        text-shadow: 3px 3px 0 var(--red);
+        max-width: 18ch;
+      }
+      .marquee p {
+        margin: 1rem 0 0;
+        font-size: 1.05rem;
+        color: var(--ink);
+        max-width: 36ch;
+      }
+      .scoreboard {
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 0.35rem 1rem;
+        font-family: var(--pixel);
+        font-size: 0.68rem;
+        line-height: 1.9;
+        align-items: baseline;
+      }
+      .scoreboard dt {
+        color: var(--pink);
+      }
+      .scoreboard dd {
+        margin: 0;
+        color: var(--ink);
+        text-align: right;
+        font-variant-numeric: tabular-nums;
+      }
+
+      /* One glitch burst when the page loads (and on hover) */
+      .glitch {
+        position: relative;
+      }
+      .glitch::before,
+      .glitch::after {
+        content: attr(data-text);
+        position: absolute;
+        inset: 0;
+        opacity: 0;
+        pointer-events: none;
+        text-shadow: none;
+      }
+      .glitch::before {
+        color: var(--blue);
+      }
+      .glitch::after {
+        color: var(--green);
+      }
+      @media (prefers-reduced-motion: no-preference) {
+        .glitch:hover::before {
+          animation: glitch-a 0.5s steps(1) 1;
+        }
+        .glitch:hover::after {
+          animation: glitch-b 0.5s steps(1) 1;
+        }
+      }
+      @keyframes glitch-a {
+        0% {
+          opacity: 1;
+          transform: translate(-6px, 0);
+          clip-path: inset(0 0 70% 0);
+        }
+        20% {
+          opacity: 1;
+          transform: translate(5px, 0);
+          clip-path: inset(40% 0 35% 0);
+        }
+        40% {
+          opacity: 1;
+          transform: translate(-3px, 0);
+          clip-path: inset(75% 0 5% 0);
+        }
+        60% {
+          opacity: 1;
+          transform: translate(8px, 0);
+          clip-path: inset(10% 0 60% 0);
+        }
+        80% {
+          opacity: 1;
+          transform: translate(-2px, 0);
+          clip-path: inset(55% 0 20% 0);
+        }
+        100% {
+          opacity: 0;
+        }
+      }
+      @keyframes glitch-b {
+        0% {
+          opacity: 1;
+          transform: translate(6px, 0);
+          clip-path: inset(60% 0 10% 0);
+        }
+        25% {
+          opacity: 1;
+          transform: translate(-7px, 0);
+          clip-path: inset(15% 0 65% 0);
+        }
+        50% {
+          opacity: 1;
+          transform: translate(3px, 0);
+          clip-path: inset(45% 0 30% 0);
+        }
+        75% {
+          opacity: 1;
+          transform: translate(-5px, 0);
+          clip-path: inset(0 0 80% 0);
+        }
+        100% {
+          opacity: 0;
+        }
+      }
+
+      /* ---------- Controls ---------- */
+      .controls {
+        display: grid;
+        gap: 1.25rem;
+        margin-bottom: 1.75rem;
+      }
+      .search-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem 1.5rem;
+        align-items: center;
+      }
+      .prompt {
+        flex: 1 1 280px;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        background: var(--panel);
+        padding: 0.5rem 0.9rem;
+        margin: 0 0 2px;
+      }
+      .prompt::before {
+        content: ">";
+        color: var(--green);
+        font-weight: 800;
+        font-size: 1.2rem;
+      }
+      .search {
+        flex: 1;
+        min-width: 0;
+        font: inherit;
+        font-size: 1rem;
+        color: var(--ink);
+        background: transparent;
+        border: 0;
+        padding: 0.2rem 0;
+        caret-color: var(--green);
+      }
+      .search::placeholder {
+        color: var(--muted);
+        opacity: 0.8;
+      }
+      .search:focus-visible {
+        outline: none;
+      }
+      .prompt:focus-within {
+        --c: var(--green);
+      }
+
+      .topics summary {
+        font-family: var(--pixel);
+        font-size: 0.68rem;
+        color: var(--yellow);
+        cursor: pointer;
+        width: fit-content;
+        margin-bottom: 1rem;
+        list-style: none;
+      }
+      .topics summary::-webkit-details-marker {
+        display: none;
+      }
+      .topics summary::before {
+        content: "\25B6\00a0";
+      }
+      .topics[open] summary::before {
+        content: "\25BC\00a0";
+      }
+
+      .groups {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 1.25rem 2rem;
+      }
+      fieldset {
+        border: 0;
+        margin: 0;
+        padding: 0;
+        min-width: 0;
+      }
+      legend {
+        font-weight: 800;
+        font-size: 0.95rem;
+        margin-bottom: 0.5rem;
+        padding: 0;
+        color: var(--muted);
+      }
+      .chips {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+      }
+
+      .chip {
+        --c: var(--line);
+        font: inherit;
+        font-weight: 600;
+        font-size: 0.9rem;
+        line-height: 1.2;
+        padding: 0.3rem 0.7rem;
+        border: 2px solid var(--c);
+        border-radius: 999px;
+        background: var(--panel);
+        color: var(--ink);
+        cursor: pointer;
+      }
+      .chip .count {
+        color: var(--muted);
+        margin-left: 0.35rem;
+      }
+      .chip[aria-pressed="true"] {
+        background: var(--c);
+        color: var(--panel);
+      }
+      .chip[aria-pressed="true"] .count {
+        color: inherit;
+      }
+      .chip:not(:disabled):hover {
+        background: color-mix(in srgb, var(--c) 25%, var(--panel));
+      }
+      .chip[aria-pressed="true"]:hover {
+        background: var(--c);
+      }
+      .chip:disabled {
+        opacity: 0.35;
+        cursor: default;
+      }
+
+      .g0 {
+        --c: var(--green);
+      }
+      .g1 {
+        --c: var(--blue);
+      }
+      .g2 {
+        --c: var(--orange);
+      }
+      .g3 {
+        --c: var(--yellow);
+      }
+      .g4 {
+        --c: var(--pink);
+      }
+
+      .status {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem 1.25rem;
+        align-items: baseline;
+        font-weight: 600;
+        padding-top: 0.9rem;
+        border-top: 2px dashed var(--line);
+      }
+      .link-button {
+        font: inherit;
+        background: none;
+        border: 0;
+        padding: 0;
+        color: var(--yellow);
+        text-decoration: underline;
+        text-underline-offset: 4px;
+        cursor: pointer;
+      }
+
+      /* ---------- Story cards ---------- */
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+        gap: 1.25rem;
+        margin: 0;
+        padding: 0 5px 5px 0;
+        list-style: none;
+      }
+      .card {
+        background: var(--panel);
+        padding: 1rem 1.1rem 1.1rem;
+        border-radius: 16px;
+        display: flex;
+        flex-direction: column;
+        gap: 0.6rem;
+      }
+      .card-meta {
+        display: flex;
+        justify-content: space-between;
+        gap: 0.75rem;
+        font-size: 0.85rem;
+        color: var(--muted);
+      }
+      .card-meta .source {
+        color: var(--c);
+        font-weight: 800;
+      }
+      .card h2 {
+        margin: 0;
+        font-weight: 800;
+        font-size: 1.15rem;
+        line-height: 1.35;
+      }
+      .card h2 a {
+        color: var(--ink);
+        text-decoration: none;
+      }
+      .card h2 a:hover {
+        color: var(--yellow);
+        text-decoration: underline;
+        text-underline-offset: 4px;
+      }
+      .snippet {
+        margin: 0;
+        color: var(--muted);
+        font-size: 0.95rem;
+      }
+      .card-tags {
+        margin-top: auto;
+        padding-top: 0.4rem;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.4rem;
+      }
+      .card-tags .chip {
+        cursor: default;
+        font-size: 0.8rem;
+        background: var(--c);
+        color: var(--panel);
+        padding: 0.2rem 0.6rem;
+      }
+      .card-tags .region {
+        background: var(--panel);
+        color: var(--ink);
+      }
+
+      .new {
+        display: inline-block;
+        font-weight: 800;
+        font-size: 0.7rem;
+        line-height: 1.2;
+        padding: 0.15rem 0.5rem;
+        margin-right: 0.45rem;
+        vertical-align: 0.15rem;
+        border-radius: 999px;
+        background: var(--red);
+        color: var(--ink);
+      }
+
+      .more {
+        --c: var(--yellow);
+        display: block;
+        margin: 2.5rem auto 0;
+        font-family: var(--pixel);
+        font-size: 0.7rem;
+        line-height: 1.8;
+        padding: 0.9rem 1.4rem;
+        border: 0;
+        background: var(--panel);
+        color: var(--yellow);
+        cursor: pointer;
+        text-align: center;
+      }
+      .more small {
+        display: block;
+        font-family: var(--sans);
+        font-size: 0.95rem;
+        color: var(--ink);
+      }
+      .more:hover {
+        background: var(--yellow);
+        color: var(--panel);
+      }
+      .more:hover small {
+        color: var(--panel);
+      }
+
+      .message {
+        --c: var(--red);
+        background: var(--panel);
+        padding: 1.5rem;
+        margin: 0 5px 5px 0;
+      }
+      .message code {
+        font-family: inherit;
+        color: var(--green);
+      }
+
+      footer {
+        margin-top: 3rem;
+        padding-top: 1rem;
+        border-top: 2px dashed var(--line);
+        color: var(--muted);
+        font-size: 0.9rem;
+      }
+      footer p {
+        margin: 0 0 0.6rem;
+        max-width: 70ch;
+      }
+      footer a {
+        color: var(--blue);
+      }
+      footer a:hover {
+        color: var(--yellow);
+      }
+      .credits {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.4rem 1.25rem;
+        font-weight: 600;
+      }
+
+      .visually-hidden {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+        clip: rect(0 0 0 0);
+        white-space: nowrap;
+      }
+
+      @media (max-width: 600px) {
+        .marquee {
+          padding: 1.25rem;
+        }
+        .scoreboard dd {
+          text-align: left;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <header class="marquee pixel-box">
+        <div>
+          <h1 id="site-title" class="glitch" data-text="Kerbside">Kerbside</h1>
+          <p>Curated daily news collection for Australian urban nerds</p>
+        </div>
+        <dl class="scoreboard" id="stats" aria-live="polite"></dl>
+      </header>
+
+      <section class="controls" aria-label="Filter stories">
+        <div class="search-row">
+          <div class="prompt pixel-box">
+            <label class="visually-hidden" for="search">Search stories</label>
+            <input
+              class="search"
+              id="search"
+              type="search"
+              placeholder="search stories"
+            />
+          </div>
+          <fieldset>
+            <legend class="visually-hidden">Region</legend>
+            <div class="chips" id="regions"></div>
+          </fieldset>
+        </div>
+        <details class="topics" id="topics">
+          <summary>Filter by topic</summary>
+          <div class="groups" id="groups"></div>
+        </details>
+        <div class="status">
+          <span id="result-count"></span>
+          <button class="link-button" id="clear" type="button" hidden>
+            Clear filters
+          </button>
+        </div>
+      </section>
+
+      <main>
+        <ul class="grid" id="stories"></ul>
+        <div id="empty" class="message pixel-box" hidden>
+          No stories match these filters.
+          <button class="link-button" type="button" id="empty-clear">
+            Clear filters
+          </button>
+          and try again.
+        </div>
+        <button class="more pixel-box" id="more" type="button" hidden>
+          Continue?<small>Load more stories</small>
+        </button>
+      </main>
+
+      <footer>
+        <p>
+          Headlines link to the original publishers. Stories are collected
+          automatically from public news feeds and tagged by keyword, so the
+          occasional tag may be off.
+        </p>
+        <div class="credits">
+          <span
+            >Made by
+            <a href="https://www.linkedin.com/in/drgeorgiascott/" rel="noopener"
+              >Georgia Scott</a
+            ></span
+          >
+          <a href="https://github.com/wldwd/kerbside" rel="noopener"
+            >How it works</a
+          >
+          <a href="https://github.com/wldwd/kerbside/issues/new" rel="noopener"
+            >Suggest a source</a
+          >
+        </div>
+      </footer>
+    </div>
+    <script>
+      const PAGE_SIZE = 60;
+      const NEW_HOURS = 48;
+
+      const state = {
+        tags: new Set(),
+        regions: new Set(),
+        query: "",
+        shown: PAGE_SIZE,
+      };
+      let data = null;
+      let tagGroup = {}; // tag name -> group index (for colours)
+
+      const $ = (id) => document.getElementById(id);
+
+      function el(tag, attrs = {}, text) {
+        const node = document.createElement(tag);
+        for (const [key, value] of Object.entries(attrs))
+          node.setAttribute(key, value);
+        if (text !== undefined) node.textContent = text;
+        return node;
+      }
+
+      function formatDate(iso) {
+        if (!iso) return "";
+        const date = new Date(iso);
+        const opts = { day: "numeric", month: "short" };
+        if (date.getFullYear() !== new Date().getFullYear())
+          opts.year = "numeric";
+        return date.toLocaleDateString("en-AU", opts);
+      }
+
+      function isNew(iso) {
+        return (
+          iso && Date.now() - new Date(iso).getTime() < NEW_HOURS * 3600 * 1000
+        );
+      }
+
+      function safeLink(url) {
+        return /^https?:\/\//i.test(url) ? url : "#";
+      }
+
+      /* ---------- Filtering ---------- */
+
+      function matches(story, skip) {
+        if (
+          skip !== "tags" &&
+          state.tags.size &&
+          !story.tags.some((t) => state.tags.has(t))
+        )
+          return false;
+        if (
+          skip !== "regions" &&
+          state.regions.size &&
+          !story.regions.some((r) => state.regions.has(r))
+        )
+          return false;
+        if (state.query) {
+          const text =
+            `${story.title} ${story.summary} ${story.source}`.toLowerCase();
+          if (!text.includes(state.query)) return false;
+        }
+        return true;
+      }
+
+      /* ---------- Building the filter chips ---------- */
+
+      function makeChip(label, set, extraClass) {
+        const chip = el("button", {
+          type: "button",
+          class: `chip ${extraClass}`,
+          "aria-pressed": "false",
+        });
+        chip.dataset.value = label;
+        chip.append(label, el("span", { class: "count" }));
+        chip.addEventListener("click", () => {
+          set.has(label) ? set.delete(label) : set.add(label);
+          state.shown = PAGE_SIZE;
+          render();
+        });
+        return chip;
+      }
+
+      function buildFilters() {
+        data.groups.forEach((group, i) => {
+          const fieldset = el("fieldset");
+          fieldset.append(el("legend", {}, group.name));
+          const chips = el("div", { class: "chips" });
+          group.tags.forEach((tag) => {
+            tagGroup[tag] = i;
+            chips.append(makeChip(tag, state.tags, `g${i} tag-chip`));
+          });
+          fieldset.append(chips);
+          $("groups").append(fieldset);
+        });
+        data.regions.forEach((region) =>
+          $("regions").append(makeChip(region, state.regions, "region-chip"))
+        );
+      }
+
+      // Counts show how many stories each chip would add, given the other filters
+      function updateChips() {
+        const tagCounts = {},
+          regionCounts = {};
+        for (const story of data.stories) {
+          if (matches(story, "tags"))
+            story.tags.forEach((t) => (tagCounts[t] = (tagCounts[t] || 0) + 1));
+          if (matches(story, "regions"))
+            story.regions.forEach(
+              (r) => (regionCounts[r] = (regionCounts[r] || 0) + 1)
+            );
+        }
+        document.querySelectorAll(".tag-chip").forEach((chip) => {
+          const value = chip.dataset.value,
+            count = tagCounts[value] || 0;
+          chip.setAttribute("aria-pressed", state.tags.has(value));
+          chip.querySelector(".count").textContent = count;
+          chip.disabled = count === 0 && !state.tags.has(value);
+        });
+        document.querySelectorAll(".region-chip").forEach((chip) => {
+          const value = chip.dataset.value,
+            count = regionCounts[value] || 0;
+          chip.setAttribute("aria-pressed", state.regions.has(value));
+          chip.querySelector(".count").textContent = count;
+          chip.disabled = count === 0 && !state.regions.has(value);
+        });
+      }
+
+      /* ---------- Story cards ---------- */
+
+      function makeCard(story) {
+        const card = el("li", { class: "card pixel-box" });
+        const firstGroup = story.tags
+          .map((t) => tagGroup[t])
+          .find((g) => g !== undefined);
+        if (firstGroup !== undefined) card.classList.add(`g${firstGroup}`);
+
+        const meta = el("div", { class: "card-meta" });
+        meta.append(el("span", { class: "source" }, story.source));
+        if (story.published)
+          meta.append(
+            el(
+              "time",
+              { datetime: story.published },
+              formatDate(story.published)
+            )
+          );
+        card.append(meta);
+
+        const heading = el("h2");
+        if (isNew(story.published)) {
+          heading.append(
+            el(
+              "span",
+              { class: "new", title: "Published in the last 2 days" },
+              "NEW"
+            )
+          );
+        }
+        heading.append(
+          el(
+            "a",
+            { href: safeLink(story.link), target: "_blank", rel: "noopener" },
+            story.title
+          )
+        );
+        card.append(heading);
+
+        if (story.summary)
+          card.append(el("p", { class: "snippet" }, story.summary));
+
+        const tags = el("div", { class: "card-tags" });
+        story.tags.forEach((t) =>
+          tags.append(el("span", { class: `chip g${tagGroup[t] ?? ""}` }, t))
+        );
+        story.regions.forEach((r) =>
+          tags.append(el("span", { class: "chip region" }, r))
+        );
+        if (tags.childElementCount) card.append(tags);
+
+        return card;
+      }
+
+      /* ---------- Page update ---------- */
+
+      function render() {
+        const results = data.stories.filter((s) => matches(s));
+        const list = $("stories");
+        list.replaceChildren(...results.slice(0, state.shown).map(makeCard));
+
+        const filtered = state.tags.size || state.regions.size || state.query;
+        $("result-count").textContent = filtered
+          ? `${results.length} of ${data.stories.length} stories match`
+          : `Showing all ${data.stories.length} stories, newest first`;
+        $("clear").hidden = !filtered;
+        $("empty").hidden = results.length > 0;
+        const remaining = results.length - state.shown;
+        $("more").hidden = remaining <= 0;
+        if (remaining > 0) {
+          $("more").querySelector("small").textContent = `Load ${Math.min(
+            remaining,
+            PAGE_SIZE
+          )} more stories`;
+        }
+        updateChips();
+      }
+
+      function clearFilters() {
+        state.tags.clear();
+        state.regions.clear();
+        state.query = "";
+        state.shown = PAGE_SIZE;
+        $("search").value = "";
+        render();
+      }
+
+      function init(json) {
+        data = json;
+        // Newest first; undated stories last
+        data.stories.sort((a, b) =>
+          (b.published || "").localeCompare(a.published || "")
+        );
+
+        $("site-title").textContent = data.title;
+        document.title = data.title;
+
+        $("site-title").dataset.text = data.title;
+        const stats = $("stats");
+        stats.append(
+          el("dt", {}, "STORIES"),
+          el("dd", {}, String(data.stories.length).padStart(5, "0")),
+          el("dt", {}, "UPDATED"),
+          el("dd", {}, formatDate(data.updated).toUpperCase())
+        );
+
+        buildFilters();
+        // Topic filters start open on wider screens, closed on phones
+        $("topics").open = window.matchMedia("(min-width: 700px)").matches;
+
+        let timer;
+        $("search").addEventListener("input", (e) => {
+          clearTimeout(timer);
+          timer = setTimeout(() => {
+            state.query = e.target.value.trim().toLowerCase();
+            state.shown = PAGE_SIZE;
+            render();
+          }, 150);
+        });
+        $("clear").addEventListener("click", clearFilters);
+        $("empty-clear").addEventListener("click", clearFilters);
+        $("more").addEventListener("click", () => {
+          state.shown += PAGE_SIZE;
+          render();
+        });
+
+        render();
+      }
+
+      fetch("stories.json", { cache: "no-cache" })
+        .then((response) => {
+          if (!response.ok)
+            throw new Error(`stories.json returned ${response.status}`);
+          return response.json();
+        })
+        .then(init)
+        .catch((error) => {
+          const box = $("empty");
+          box.hidden = false;
+          box.replaceChildren(
+            "Stories could not be loaded (",
+            error.message,
+            "). If you opened this file directly, start a local server with ",
+            el("code", {}, "python -m http.server --directory docs"),
+            " and open http://localhost:8000."
+          );
+        });
+    </script>
+  </body>
+</html>
