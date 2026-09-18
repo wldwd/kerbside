@@ -1711,6 +1711,27 @@
   "regions": []
  },
  {
+  "title": "pexels-ebike",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLUx3bFZsUjQtRXNWZVBmU29kY19QWlFtQlcwYlJwNkY2Qmdzd0poczJJbFJfYjJURUFzeW10eTNBV0FLUVNENDJlYk9xakdhSWp0Rk9YZGlsdXpjUVdiWFYtMkxWTVliZmpfNF9wSUVKeEtXYjFBS0l4TE9NR01lekJicnJkN0NhYVhORlEzNkNENE1janZkMjFpc2s1Wm1QbWRoTURXRENIZndBU1NMRTJ3VjVXMFZOSjE3ZWI1TVVGdw?oc=5",
+  "summary": "pexels-ebike mpnews.com.au",
+  "published": "2026-09-15T02:11:11+00:00",
+  "first_seen": "2026-09-18T02:06:52+00:00",
+  "source": "mpnews.com.au",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.mpnews.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Micromobility"
+  ],
+  "regions": []
+ },
+ {
   "title": "Pinehurst Tour, September Social, and Final Ticket Sales for CityNerd Talk",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeVNsbzFIXzBJZXZiWF9ZQnFhWE54azBjYk02TEttTGhUb2JsVmFCLTJOTHA4Rm42bDVST0UyMTBkSHNpRjYwdEdRNDFnMnNYQ3NPVGFlNUlJcmJPM2lPZ3FDTTRaOFppSWF1YTBSb0JEdWRqcTVjU2RRbXlOR29rZHJWTU80VHlycWlXQzJFT0UxT3BpZEZrVWt5X3pmQ1hYU0tv?oc=5",
   "summary": "Pinehurst Tour, September Social, and Final Ticket Sales for CityNerd Talk The Urbanist",
@@ -3587,6 +3608,29 @@
   ],
   "tags": [
    "Council Finance"
+  ],
+  "regions": []
+ },
+ {
+  "title": "New road safety strategy needs to go further",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZC1vam9XTzJSdE5nYUNQMEVJakhVUnBFZ1pYNXlIS19xd2VEVHNWcE5WRi0wNXM2M2tJYjVTdW8tRVVucGRnOVVhVW9EckpQLTNqcUJFQW1kTDhPR2NwblBxYzVzcmVfZFU2ajVqUmN1S3ZBdjVQYmszRDJjRVBaSXQ1ZURxeEt3ck9WTThKVzBIM1lnNE9HakRFZw?oc=5",
+  "summary": "New road safety strategy needs to go further Bicycle Network",
+  "published": "2026-09-10T04:03:46+00:00",
+  "first_seen": "2026-09-18T02:06:53+00:00",
+  "source": "Bicycle Network",
+  "found_via": "Google News - Road safety",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://bicyclenetwork.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Road Safety"
+  ],
+  "tags": [
+   "Cycling",
+   "Road Safety",
+   "Policy"
   ],
   "regions": []
  },
