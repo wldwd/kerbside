@@ -1,0 +1,48 @@
+name: Update stories
+
+on:
+  # Times are UTC. These are about 6am, midday and 6pm on the east coast.
+  schedule:
+    - cron: "0 20,2,8 * * *"
+  # Lets you run it yourself from the Actions tab
+  workflow_dispatch:
+
+# Allows the workflow to push the updated stories back to the repository
+permissions:
+  contents: write
+
+# Stops two runs overlapping
+concurrency:
+  group: update-stories
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install libraries
+        run: pip install -r requirements.txt
+
+      - name: Fetch feeds and rebuild
+        run: python build.py
+
+      - name: Commit any new stories
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/stories.json docs/stories.json
+          if git diff --staged --quiet; then
+            echo "No new stories"
+          else
+            git commit -m "Update stories ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
