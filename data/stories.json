@@ -1,5 +1,47 @@
 [
  {
+  "title": "Knives stashed in public places across Melbourne, police believe",
+  "link": "https://www.abc.net.au/news/2026-09-19/vic-police-concerned-about-youth-knife-crime/107167468",
+  "summary": "Intelligence briefs obtained by the ABC show police are concerned by a rise in \"communal weapons storage\" at major public transport precincts across Melbourne.",
+  "published": "2026-09-18T21:14:56+00:00",
+  "first_seen": "2026-09-18T22:16:32+00:00",
+  "source": "ABC News VIC",
+  "found_via": "ABC News VIC",
+  "source_type": "News",
+  "filter": true,
+  "fixed_region": "VIC",
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Public Transport"
+  ],
+  "regions": [
+   "VIC"
+  ]
+ },
+ {
+  "title": "Sod turned on Sebas-Delacombe active link",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnI2WFFTVG10dERoUkFnaWtFaHhpdUoteXlXYnhVMUQxSnZTVUhIUGEtZ3RENnJ1MHE4alNaZDRCazdjR0ItX3IteEs3bDJPU0U5dk8xN0pFMFdaNVpfcDJYVDJKeEgwNE16X05iTW9sazJkN0dJc3JZZVQ5RjZ4N2l2ZWp5Qmh6T3VFVmJ2QQ?oc=5",
+  "summary": "Sod turned on Sebas-Delacombe active link Times News Group",
+  "published": "2026-09-18T18:02:44+00:00",
+  "first_seen": "2026-09-18T22:16:52+00:00",
+  "source": "Times News Group",
+  "found_via": "Google News - Cycling",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://timesnewsgroup.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Cycling"
+  ],
+  "tags": [
+   "Cycling"
+  ],
+  "regions": []
+ },
+ {
   "title": "Queensland demerit points scam exposes road safety loophole",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVNaSThybzQ2R3Nlb0dza1ZFZnltakQyNll5SnhudGY5ZHlyUVpBMUJKQlFGRWZ2NGpsR3Y1VG9qMjJOY3JfQWpwZGJPTW1tM204b2hQYWROQXRNRHcxVjltNHJ1OTdmR0NEcGJ1Q2ZfVlBhWWlkZF9uSXgwd3BPZGNzaXNPTkJkMi1NaFZTU011Tkk0SUpvbXUwbG4yT1FMTTVEazlkN01fS082?oc=5",
   "summary": "Queensland demerit points scam exposes road safety loophole 7NEWS",
@@ -328,6 +370,27 @@
   "regions": [
    "QLD"
   ]
+ },
+ {
+  "title": "TEN/3115 Traffic Signal and Intersection Upgrade - Bundaberg High School Pedestrian Crossing",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc2pSV2daaV85VEtvRnF1M3FObUJzMWUwNGhFSlh6WEZyVWxPbGlBWm9sNTBQeURpT1o4bkhCaDFfekZjN2U4Y1dkQkVEZ25fT19RNU9rNnRjejhmMjNTMW5ad3U0bUJlUUp6NjFLWU90ZE5Ld21CaGsyM01xTWxXTmpwdlpmbkNKalY5VTNGcGpPUThPQlZqN3ZEcDkyMFBlXzh0d1g5M0lEeElXVURaeWplTHVma3NJcjhBUy1QbUF6NFlIQ0Z3QlZaQUVOVUpTWV8tbGpRVGpzZw?oc=5",
+  "summary": "TEN/3115 Traffic Signal and Intersection Upgrade - Bundaberg High School Pedestrian Crossing BRC Now",
+  "published": "2026-09-17T20:00:00+00:00",
+  "first_seen": "2026-09-18T22:16:51+00:00",
+  "source": "BRC Now",
+  "found_via": "Google News - Walking",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.brcnow.bundaberg.qld.gov.au",
+  "google_news": true,
+  "search_tags": [
+   "Walking"
+  ],
+  "tags": [
+   "Walking"
+  ],
+  "regions": []
  },
  {
   "title": "September 18 quiz: Where was Melbourne’s first pedestrian mall? Take The Age quiz",
@@ -2607,6 +2670,27 @@
   ]
  },
  {
+  "title": "Mural to brighten Penola’s main street",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSkl4bHdUR2VmLU9vb3BvYTlNaDVGMU9NSTEyWkFKVmdIVTk3dTJRRXh5bXdxOUQyWmJwTm1HZ2REMTZFQkNnd0NpbDdybm1qc2xMemw2WWhmX296VHlUbWdjeW0xVkhBNEZNN2lYTk5YaFN2a1BKU1dNWmNITXBwV1F2WVlDSVlTS01tUWRQOE9yN2c?oc=5",
+  "summary": "Mural to brighten Penola’s main street Limestone Coast Today",
+  "published": "2026-09-13T02:01:43+00:00",
+  "first_seen": "2026-09-18T22:16:56+00:00",
+  "source": "Limestone Coast Today",
+  "found_via": "Google News - High streets",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://limestonecoasttoday.com.au",
+  "google_news": true,
+  "search_tags": [
+   "High Streets"
+  ],
+  "tags": [
+   "High Streets"
+  ],
+  "regions": []
+ },
+ {
   "title": "Hindley Street set for $50 million transformation with one-way traffic and wider footpaths",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWDllRzVRRFlJcF9UM3NPRXl0UzZYcGJJYTgtNU9WTXFwTlk0c05WQXpGLUFRRkNzMGl5ZkdjUEJLZS1IYl83U1Y1eTYxRUtYRHlsUGcycmhOdGZ5czJhNjJodUVEX1dVM0pNMHJUR242b2JEanpDcUJ5M2ZNT1kxRGt5blNNNjlSbkJPZWhqNEpSVWhDSVFaVlJvUTlSTW1pOVRvX3FDYThSeU1vVmdMMGsyVWQ2SFR4WkE?oc=5",
   "summary": "Hindley Street set for $50 million transformation with one-way traffic and wider footpaths Glam Adelaide",
@@ -3115,6 +3199,28 @@
   "regions": [
    "SA"
   ]
+ },
+ {
+  "title": "E-bike hoons terrorise southern suburbs",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFBFQno2ZzRLWWFLdFpXS28xZlZUVVhDVEZRVjV1bzNJS05LNnk4S2RNWXFaNExhMVhBamxTS2JjNHZsMndROXdUcVZ2UXZKX2lXTWVmUXNxMU9MTVlENlpLQUFxaVUzeGFqSVNsRERuemlnZDlUR3RwYUtwbi14WHZUTDIxekF4c0M2RFRGNElxdw?oc=5",
+  "summary": "E-bike hoons terrorise southern suburbs 7NEWS",
+  "published": "2026-09-11T09:09:09+00:00",
+  "first_seen": "2026-09-18T22:16:52+00:00",
+  "source": "7NEWS",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://7news.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": []
  },
  {
   "title": "Darwin hospitality worker critically injured after e-scooter struck by car",
@@ -4955,6 +5061,27 @@
   "regions": []
  },
  {
+  "title": "12 events per year requested",
+  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uWEo3WDZpLVVxZzFpOHhwSFF5MWc2dThxM1FFSDVRS05jajVyMjBhM1NLcnRlNWpDU19yeFZzTmlvQWQtdHNCeDJ5MGxxdjM5eTZYUy1tOWFsMElEcTRYeQ?oc=5",
+  "summary": "12 events per year requested Clarence Valley Independent",
+  "published": "2026-09-08T05:00:00+00:00",
+  "first_seen": "2026-09-18T22:16:58+00:00",
+  "source": "Clarence Valley Independent",
+  "found_via": "Google News - Planning",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://cvnews.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Planning"
+  ],
+  "tags": [
+   "Planning"
+  ],
+  "regions": []
+ },
+ {
   "title": "The 9400-Home Rezoning Plan Set to Shake Up Sydney's East",
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmZvUjBUTzFmd29URThnQzFoR0NKOTdUenBheVd5SFdXd3htakY3WlhxNzVkM21LTTIyQjFmU2ZHM3JXZjBPYWxqSUk4VGJLb0IyME5zcDc1dnpIWDZOTG9TakdGcXhabmJHaC1QQTAyTy1fQkpVQjlkXzJBSXZKZUZOVHZad2JjckR4N2VleS1JcFFYOVZJ?oc=5",
   "summary": "The 9400-Home Rezoning Plan Set to Shake Up Sydney's East realestate.com.au",
@@ -5213,6 +5340,25 @@
   "tags": [],
   "regions": [
    "QLD"
+  ]
+ },
+ {
+  "title": "Sunday Video: Is Minneapolis Too Nice for Its Own Good?",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQmt0WTV5b3ZWMG1DWjJUeDhaYzlXelpkTU0wY1dmWGZMS2RnYjZsRlRUTTZicmF3NVdXZEh2VWZoeEZ4TXFQV2EtRmNuUDhFSUhRNDVaUXZwQXFKRVJQOGFjTWExYWxON3hyaW1IREhNaEhGUGo5VlJwOWJmR1JabUVnd0QwcW5VMUE?oc=5",
+  "summary": "Sunday Video: Is Minneapolis Too Nice for Its Own Good? The Urbanist",
+  "published": "2026-09-06T22:17:00+00:00",
+  "first_seen": "2026-09-18T22:17:03+00:00",
+  "source": "The Urbanist",
+  "found_via": "Google News - Urbanism",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theurbanist.org",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [],
+  "regions": [
+   "International"
   ]
  },
  {
@@ -5477,6 +5623,46 @@
   "regions": []
  },
  {
+  "title": "Op-Ed: Brian Heywood’s Plan to Take Over Snohomish County Government Must Be Stopped",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWlxWDJheUNWYThmQTJzNEFsekN4SHhvUVF1X2Ywb0o5anRUNVJjenRvUUg5RTZPQ1ZQQTVzUkg5RWM2WHB1S2ZDMzd0TjBxYnV1bnJzWXRfNFV6bVRudFk4THlWUlNmMEJBZlh6Y2RjdzNtRk5obFJ3M05iY2lrQmdFdWs2T3NqaWFzcm5nSTNoaTlpVzJ6Rm9nVHl2T2duUXJ6OEZEYWZjV2k2aEFrcg?oc=5",
+  "summary": "Op-Ed: Brian Heywood’s Plan to Take Over Snohomish County Government Must Be Stopped The Urbanist",
+  "published": "2026-09-04T07:00:00+00:00",
+  "first_seen": "2026-09-18T22:17:03+00:00",
+  "source": "The Urbanist",
+  "found_via": "Google News - Urbanism",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theurbanist.org",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [],
+  "regions": [
+   "International"
+  ]
+ },
+ {
+  "title": "Watch This Space",
+  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42WnV0YXdKLU1HNmV3S2xtcjhfR2JXMGNjaHAxWEd4T3lmX2dKdUlMeFlqSU4yTEFxNFFSQXZEeDVRZUtBZ3NrV2tWLWFyLUN3N0xF?oc=5",
+  "summary": "Watch This Space artguide.com.au",
+  "published": "2026-09-04T01:12:53+00:00",
+  "first_seen": "2026-09-18T22:16:55+00:00",
+  "source": "artguide.com.au",
+  "found_via": "Google News - Public space",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://artguide.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Space"
+  ],
+  "tags": [
+   "Public Space"
+  ],
+  "regions": []
+ },
+ {
   "title": "Creating public space at a transit stop",
   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOenlGdzNDQWxZNVpCVjc0UDFBbTRtczFyQmFhWlV4akZpblVkQnlhZk1wT0duY09lTG1TYjFHTmVPTThob195TWZXMGJKN2tQRkM1cVBoajF6NnVVbjhxTTd3SEVPcXR5azRJUGdaQWozdmpmX1duZUhKSlVfZ1NMaWgxNnQ?oc=5",
   "summary": "Creating public space at a transit stop cnu.org",
@@ -5516,6 +5702,29 @@
   "tags": [],
   "regions": [
    "International"
+  ]
+ },
+ {
+  "title": "DevelopmentWA Wants Density Around Perth’s New Rail Hubs",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzU2VzbG9KVFNIR0IyRGpNVUVjcHJYbF85RlVoVTN0SER4a0pqZS1qamk5OWdjUU9EbjJ6dTlJaHNxWXY5QjJ1bnhoNWJQelh3RVQ2WjNmM3ZjeTJ0c3N4ZFNiTWpsckdXWWJtS0RXZEFFMkQ0?oc=5",
+  "summary": "DevelopmentWA Wants Density Around Perth’s New Rail Hubs Wood Central",
+  "published": "2026-09-03T10:44:34+00:00",
+  "first_seen": "2026-09-18T22:16:59+00:00",
+  "source": "Wood Central",
+  "found_via": "Google News - Housing",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://woodcentral.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Housing"
+  ],
+  "tags": [
+   "Housing"
+  ],
+  "regions": [
+   "WA"
   ]
  },
  {
@@ -5592,6 +5801,25 @@
   "summary": "Gallery of Who has won the Ibero-American Prize for Architecture and Urbanism? - 10 ArchDaily",
   "published": "2026-09-02T23:03:33+00:00",
   "first_seen": "2026-09-17T14:58:17+00:00",
+  "source": "ArchDaily",
+  "found_via": "Google News - Urbanism",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.archdaily.com",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [],
+  "regions": [
+   "International"
+  ]
+ },
+ {
+  "title": "Gallery of The architecture and urbanism of Favela-Bairro will be implemented in Cape Verde - 2",
+  "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNdkZ4dG1wT2U1ZnoyUnA1YW9XeG9hckEtZ2RIUW1yMTNEUnd4bjVhYXZGQ2NlRzhYMVRoRGVzZVpBNmI1dnJ3QWRFN0dZMEhRSkRKSzVTUW9Bd0RXRWRPQmJtXzZ6TWlSNUZvQ1lyRXowZzM1aWNNd0pmM0gwZUNabmhUZVpfNG9paFNoYkxWLTNJNFVRdk5Yb2RaRFBSVHRmb20zcWtwV0VUd3FKSmdBaXdlUDVsYnhTd2JZYk1QUDJrc0ljb0VaenhZUDdzTWNESHc0Vnl0M1ZKcWdzOUpIQXFnb3dFTWVsQWpUaFQ2bzJTWkJTUlBneklTV2Z3dUUtOGN6dEY1akdyV3VJdEh3eU9FSmV5Zzc2dzBSeHRsM0k3UGVtWF9Ud0xtR0ZaZ3RDLVhCaVZuRUNrME1mMldBRV9NNTFVczVrUEE?oc=5",
+  "summary": "Gallery of The architecture and urbanism of Favela-Bairro will be implemented in Cape Verde - 2 ArchDaily",
+  "published": "2026-09-02T20:03:51+00:00",
+  "first_seen": "2026-09-18T22:17:03+00:00",
   "source": "ArchDaily",
   "found_via": "Google News - Urbanism",
   "source_type": "News",
@@ -5848,6 +6076,27 @@
   ]
  },
  {
+  "title": "Council splits over approval of controversial Soldiers Point development application",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGl4ZnJtajVvQzNQU3IyMFNTTmdtN1BvUUhTSUNWd0R5dU9zR3J0bGRRbGZ6VkR3SWdqZmFDOHpPUjJZeGdBY2E5MHJVT09VT3JKSmxHRmdpVWR0cnNBNmQtX1hKeXpTaU1xNDQ5dGZHUnhUWWlIS0tsdi01ZUN2V3U0WkROT2dZZVo2bXVaWndVM0IzelIxTGFZODk4VTBhREgzNkFwdU9yTkpwTlJKQ2k1SDVBOXgyLWloS3pfZGhtLUQy?oc=5",
+  "summary": "Council splits over approval of controversial Soldiers Point development application Port Stephens News Of The Area",
+  "published": "2026-08-31T23:20:25+00:00",
+  "first_seen": "2026-09-18T22:16:58+00:00",
+  "source": "Port Stephens News Of The Area",
+  "found_via": "Google News - Planning",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://portstephens.newsofthearea.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Planning"
+  ],
+  "tags": [
+   "Planning"
+  ],
+  "regions": []
+ },
+ {
   "title": "Care in transit: Design for passengers and homelessness support",
   "link": "https://imoveaustralia.com/project/project-outcomes/care-in-transit-design-for-passengers-and-homelessness-support/",
   "summary": "An overview of the completed project \"Designing for passengers, transport and homeless support\", plus downloadable reports.. The post Care in transit: Design for passengers and homelessness support appeared first on iMOVE Australia Cooperative Research Centre | Transport R&D .",
@@ -5945,6 +6194,27 @@
   "regions": [
    "International"
   ]
+ },
+ {
+  "title": "Ormed sells town centre after adding Aldi",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdllkMG1WMWJsdmpXMHFJdUdGM1FYMndiZzlVSzJrRDZDc3JhM3NGRFN0WU9mWlNLTEF5bmZvTVl4NktIbFE3SElZZFY2TjhNVHRSX21XajItQTBJYnJyY0tpR1RET3BHRXhvZlpGQ2x2MGR0dTdLRTVxaF8tc29peG11d0k?oc=5",
+  "summary": "Ormed sells town centre after adding Aldi realestatesource.com.au",
+  "published": "2026-08-31T07:00:00+00:00",
+  "first_seen": "2026-09-18T22:16:56+00:00",
+  "source": "realestatesource.com.au",
+  "found_via": "Google News - High streets",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.realestatesource.com.au",
+  "google_news": true,
+  "search_tags": [
+   "High Streets"
+  ],
+  "tags": [
+   "High Streets"
+  ],
+  "regions": []
  },
  {
   "title": "ITS Monday: Edition 28, 2026",
@@ -6165,6 +6435,50 @@
   ],
   "tags": [
    "Planning"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Planned improvements to Swanson Street",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUHZ5cVhGcEpsS2lrU0tJaDlqbl9zektlS1lCN2JabjMybnlPTEVUNVhZV1V2Qk5Kak5KT2FIQy1qVXladTBXdXZkWDhFU1k3RHZnTjhZcDJrdzZjdzZUZzBwaHNwRFJDdzdtNzFSUC1uV0o0cDdrUnl2bGFuQmRfaDlkV3VUWXNVd2hPVUxGS0M1Wnp0RmZEZ2VJX3BEZw?oc=5",
+  "summary": "Planned improvements to Swanson Street Transport for NSW",
+  "published": "2026-08-28T07:00:00+00:00",
+  "first_seen": "2026-09-18T22:16:52+00:00",
+  "source": "Transport for NSW",
+  "found_via": "Google News - Cycling",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.transport.nsw.gov.au",
+  "google_news": true,
+  "search_tags": [
+   "Cycling"
+  ],
+  "tags": [
+   "Cycling"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "Nina, a Casual Northcote Pasta Bar by the Suze Team",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82eE9sbi1SOVl6X2g2VHBlbjBSTVFDLWZpSV9aZnFEV2IxeHp1Uy01aUtubXh1anRLbmlLdFRHSEZYaUxpcm0tWUZRWkJobmV0TktxNWU3bHh0bU9EVTluMWpiZldFTmE0V0QxSndXajhYX3pJ?oc=5",
+  "summary": "Nina, a Casual Northcote Pasta Bar by the Suze Team Broadsheet",
+  "published": "2026-08-28T07:00:00+00:00",
+  "first_seen": "2026-09-18T22:16:56+00:00",
+  "source": "Broadsheet",
+  "found_via": "Google News - High streets",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.broadsheet.com.au",
+  "google_news": true,
+  "search_tags": [
+   "High Streets"
+  ],
+  "tags": [
+   "High Streets"
   ],
   "regions": []
  },
@@ -6596,6 +6910,27 @@
   ]
  },
  {
+  "title": "Kilcoy town centre revamp moves forward",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZlpWYk5iVFdUVHIyUk8tWEYzNURHZngyVm9NM0tTUEdNazZlMnNCS1o1dDFwRWc4TjVFSmFpUGM4OXZtNEN1dllsWTR0WVdkck1DZHU2US1MSXRZRk0yZDAwVWpuWW15N1lhTWZzclRlSDdZR2l3elUzOTlydXBxdVRORUdzT1Vx?oc=5",
+  "summary": "Kilcoy town centre revamp moves forward sentinelnews.com.au",
+  "published": "2026-08-26T00:23:04+00:00",
+  "first_seen": "2026-09-18T22:16:56+00:00",
+  "source": "sentinelnews.com.au",
+  "found_via": "Google News - High streets",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.sentinelnews.com.au",
+  "google_news": true,
+  "search_tags": [
+   "High Streets"
+  ],
+  "tags": [
+   "High Streets"
+  ],
+  "regions": []
+ },
+ {
   "title": "Celebrating 10 years of transport investment and innovation",
   "link": "https://imoveaustralia.com/news-articles/intelligent-transport-systems/celebrating-10-years-of-transport-investment-and-innovation/",
   "summary": "The spotlight will be on iMOVE at the ITS Australia Global Summit 2026, celebrating achievements of its 10-year R&D program. The post Celebrating 10 years of transport investment and innovation appeared first on iMOVE Australia Cooperative Research Centre | Transport R&D .",
@@ -6778,6 +7113,27 @@
   ]
  },
  {
+  "title": "Planning approval confirmed for new $2 billion Bankstown Hospital as demolition well underway",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMEFJNzlsMnVVYXg5Z0xJajYwck1OMHJfQlp5c0RQMmQ1ODNnVnhsQzJuTXBaenhjZDdVUUhySjljRnh5eTJwZmhJS2ZNU0I2TmtPY2lQU09FUkNXdHhPTVlHeWR4b1dSeTF0NUpFanczVUh1R2tnYlRnRG16djNOazVZZ3o3M0ZlYTNCcFJ3QnRZSUk0dGNjR01nczFHSUUtXzZnMGdjU0JYWlNWRlZBWjlyWDhZclo0Z0RmVlYxVE96dUFLc2d6U3lkNDkySDJxLXc?oc=5",
+  "summary": "Planning approval confirmed for new $2 billion Bankstown Hospital as demolition well underway buildaustralia.com.au",
+  "published": "2026-08-24T07:00:00+00:00",
+  "first_seen": "2026-09-18T22:16:58+00:00",
+  "source": "buildaustralia.com.au",
+  "found_via": "Google News - Planning",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.buildaustralia.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Planning"
+  ],
+  "tags": [
+   "Planning"
+  ],
+  "regions": []
+ },
+ {
   "title": "2026 Mater Brisbane to Gold Coast Cycle for Cancer a great success!",
   "link": "https://bq.org.au/news/2026-mater-brisbane-to-gold-coast/",
   "summary": "Thousands of riders rolled out of Brisbane on Sunday for the 2026 Mater Uncancer Brisbane to Gold Coast Cycle for Cancer, enjoying brilliant conditions for the event’s new August date. The annual charity ride brings together cyclists on a journey from Brisbane to the Gold Coast, raising vital funds…",
@@ -6836,6 +7192,27 @@
   ],
   "tags": [
    "Cycling"
+  ],
+  "regions": []
+ },
+ {
+  "title": "We need to talk about the sheer audacity of people on public transport right now.",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kUi1kazQ2YmtMaml3cDZwTzFuLW5GVFA4ZjFadDhnc0QzdnFhQlEzelBkNnZlZ3F4OGVob3NBOGVoZmhwM0V6akpXRlBQd1cxTEtjU0dFVlUzWHQzb05pbjNkaGdqWGRxLUp2Vg?oc=5",
+  "summary": "We need to talk about the sheer audacity of people on public transport right now. mamamia.com.au",
+  "published": "2026-08-23T07:00:00+00:00",
+  "first_seen": "2026-09-18T22:16:53+00:00",
+  "source": "mamamia.com.au",
+  "found_via": "Google News - Public transport",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.mamamia.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Transport"
+  ],
+  "tags": [
+   "Public Transport"
   ],
   "regions": []
  },
@@ -7167,6 +7544,27 @@
   ]
  },
  {
+  "title": "A rapid bus network for Sydney",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLNkZCQXpWUkh1S29kR3FvS1o1WVhweTRJQjBQek5qajdFaXZpaEwtRWp6TDlqOHZlM2JHa0VqcE1TcVA0bXZTbVNCQ2VFR3l5UXhhY2kyb0NnZDJWMDhlYzV4djZpR0FMS2lDbVVuSkUzY3BVZTEw?oc=5",
+  "summary": "A rapid bus network for Sydney Committee for Sydney",
+  "published": "2026-08-14T07:00:00+00:00",
+  "first_seen": "2026-09-18T22:17:02+00:00",
+  "source": "Committee for Sydney",
+  "found_via": "Google News - Advocacy mentions",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://sydney.org.au",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [
+   "Public Transport"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
   "title": "A Key Policy in a Climate Adaptation Plan: Why Should Cycling Be Included in London’s New Heat Strategy?",
   "link": "https://urbancyclinginstitute.substack.com/p/a-key-policy-in-a-climate-adaptation",
   "summary": "Urban Cycling Institute’s Policy Intern, Priya Kaler, explains why London’s response to the latest heatwaves in the city is lacking a key component",
@@ -7289,6 +7687,25 @@
    "Micromobility"
   ],
   "regions": []
+ },
+ {
+  "title": "Greening Greater Sydney could save $1 billion a year in health costs",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNczdLN1VDSU93c0dFc2xkeF9KM3l3U2VMak1wSVRYUEhUSWllOHZWUUxxNDlIMDd3NkxJYWwzZ09TdF8tNnNXNWlNd0trbnlSRVRmTXRtQlNmQnlxdlVicm4wd0JuTmNFUHhHMldsNFc4RXB6RG43c1ZRSHpUTGx5OEluM2FjelA3ZHNIblotT0gxaVdJdVhpUWczQXl5ZFp5MG5nRWl1MmFkWnExalBfWFJGcGI2dw?oc=5",
+  "summary": "Greening Greater Sydney could save $1 billion a year in health costs Architecture & Design",
+  "published": "2026-08-05T07:00:00+00:00",
+  "first_seen": "2026-09-18T22:17:02+00:00",
+  "source": "Architecture & Design",
+  "found_via": "Google News - Advocacy mentions",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.architectureanddesign.com.au",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [],
+  "regions": [
+   "NSW"
+  ]
  },
  {
   "title": "Exploring active transport budgets",
@@ -8145,6 +8562,25 @@
   ]
  },
  {
+  "title": "Committee for Sydney identifies large-scale changes disrupting Sydney’s community sport and active recreation sector",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZFE0bVQxREJORXVkTm5RWjJkNERzRUM5bFFUWmJneWdXaWhrMGtUbkRZMXZ6ZWpDTU5zMUIxYXFTa2R1Q3BjbzVJMzhQazlrSTl2UjVkUU03Rmo4WDF5Z3ZRV2R4NlotNmJIc0NkTkhDOUFhME5JNHpfZDRBN3UwZTE4UVVKUDk1ZDVZVVdMRjFwSVZQSHZ2bzVFUkl3XzJtTnRiTHdqeDZ6TGJWLUdveUl1NFJka3hhWERpZEtxMkV4YTBjc0VoOVZJUnNZVnB6S1J6Rm1ia2pZdTU3NDZXdGtiMzY?oc=5",
+  "summary": "Committee for Sydney identifies large-scale changes disrupting Sydney’s community sport and active recreation sector Australasian Leisure Management Magazine",
+  "published": "2026-05-05T07:00:00+00:00",
+  "first_seen": "2026-09-18T22:17:02+00:00",
+  "source": "Australasian Leisure Management Magazine",
+  "found_via": "Google News - Advocacy mentions",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.ausleisure.com.au",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
   "title": "A Sporting Chance: Why Sydney needs a rethink on sport",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVWJtUWJMRXdzVFRBajZHVVo4Y205Rl9zaVV6dWZfeG5mTEZVRnVldnB2Mi1fUWRkeU9QaURZM2dyd2NadlpMcmpCbjFUVFExMW5xTHNHVVh1RGRvN2ZJYlQzZ3I3NHM4S3FNc3dNdGpRcVBkTmdpM1o3TmVZQkNwbHZOUTZ3XzZON2FLS1RORC1qWExrMWc?oc=5",
   "summary": "A Sporting Chance: Why Sydney needs a rethink on sport Committee for Sydney",
@@ -8327,6 +8763,25 @@
   ]
  },
  {
+  "title": "Former Iluka Resources boss Rob Cole to chair Committee for Perth",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY3V1SDJHajZMQS1RUnQ0M2xCZUNNS2t6c3RmcGNsRDhlUUg1RDUwSVNVWUMzd1NXV3ZKQlVVb3AtRk5GRG5NN1psMjVmQkxuT3RrOFIxMkV3VG9PcGxXWWRlU2pENFRzMGJHVFdwTGRoWnNaNzNTd3VSaVJIS1ozMEducno2cV8wOUZrMnVJMDBMVXRXcERXczFzakpXcUZ4Q1JNMld2SXY?oc=5",
+  "summary": "Former Iluka Resources boss Rob Cole to chair Committee for Perth businessnews.com.au",
+  "published": "2026-02-10T08:00:00+00:00",
+  "first_seen": "2026-09-18T22:17:02+00:00",
+  "source": "businessnews.com.au",
+  "found_via": "Google News - Advocacy mentions",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.businessnews.com.au",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [],
+  "regions": [
+   "WA"
+  ]
+ },
+ {
   "title": "Life in Sydney 2026",
   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwVW42RTZTMko1WVVWSFRTZ1czQTEwTlNacU80cHNhREZ6azdmM0w3OERhSDEwOEhVRFRhV3h1LUU3WHJxVE1KcmpPdEJqekR1bFVKdkRHSm9PeFlLTE5MOXJ1VG03c2NJ?oc=5",
   "summary": "Life in Sydney 2026 Committee for Sydney",
@@ -8460,6 +8915,28 @@
   "search_tags": [],
   "tags": [
    "Walking"
+  ],
+  "regions": [
+   "QLD"
+  ]
+ },
+ {
+  "title": "Cycling body welcomes Queensland e-bike crackdown",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaldMYm9ad2JnQXQ5WmNTVVlkbWg1c2tyalcyVHRlMGxsQ1pnXzFJR2dNNW9rb2M0SzJKWkxncVpGbEVhT05YM3ZrVEc0MHdmb0IyMWhnVHB0NVZKSVdqNXlKT3B2QjhHVHJjR1BUNlIxX2FMS193M2VaelYxbnc4N0lpaEVycTRRdE1XTnJqRlRTQzZVSTZkUkt3VEdKd2RTTVpSczJCelJDY25QOV9XbGU1WUt2Uy1pbDZfTFQ1d04?oc=5",
+  "summary": "Cycling body welcomes Queensland e-bike crackdown Brisbane Times",
+  "published": "2025-11-15T08:00:00+00:00",
+  "first_seen": "2026-09-18T22:17:02+00:00",
+  "source": "Brisbane Times",
+  "found_via": "Google News - Advocacy mentions",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.brisbanetimes.com.au",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [
+   "Cycling",
+   "Micromobility"
   ],
   "regions": [
    "QLD"
