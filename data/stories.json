@@ -1,5 +1,236 @@
 [
  {
+  "title": "My middle-orbit suburb has always had lots more to offer than meets the eye",
+  "link": "https://www.watoday.com.au/national/nsw/my-middle-orbit-suburb-has-always-had-lots-more-to-offer-than-meets-the-eye-20260928-p60nza.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+  "summary": "The nightlife might be confined to wildlife, but my suburb is changing with extra public transport and new housing.",
+  "published": "2026-09-28T07:00:00+00:00",
+  "first_seen": "2026-09-28T08:12:41+00:00",
+  "source": "WAtoday",
+  "found_via": "WAtoday",
+  "source_type": "News",
+  "filter": true,
+  "fixed_region": "WA",
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Public Transport"
+  ],
+  "regions": [
+   "WA"
+  ]
+ },
+ {
+  "title": "Get out of town this fortnight",
+  "link": "https://bicyclenetwork.com.au/newsroom/2026/09/28/get-out-of-town-this-fortnight/",
+  "summary": "Tamar Bicycle Users group’s Wednesday rides have changed to the summer time of 9.15am, the southern riders are heading to Bruny Island and the north-west group are enjoying one of their local rail trails. The post Get out of town this fortnight appeared first on Bicycle Network .",
+  "published": "2026-09-28T06:20:28+00:00",
+  "first_seen": "2026-09-28T08:12:46+00:00",
+  "source": "Bicycle Network",
+  "found_via": "Bicycle Network",
+  "source_type": "Advocacy",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Cycling"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Rise Up, Sydney: The Community Rally Opposing Unchecked Rezoning Across Sydney",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLTNxYjhUQXYtaFdOS1VVYVZhejdxS3ppdExWdEVKM1VkTHFsbGVleXREalozQUNRMnVXZ2hEZnF6cFpheG5LSy1xRHBMbkVrRDZMMzY0RFhaSWtvNmVqVlYyT3RwT0t1WVJXYnlsMlQ0bzNBSzdpYS1JeWp5X3E2VS1qS0hiTG1GbE9jaUxkUGQ3ZEZ0XzB1V0dGRUdfbW8yY2c?oc=5",
+  "summary": "Rise Up, Sydney: The Community Rally Opposing Unchecked Rezoning Across Sydney cityhub.com.au",
+  "published": "2026-09-28T05:47:39+00:00",
+  "first_seen": "2026-09-28T08:13:06+00:00",
+  "source": "cityhub.com.au",
+  "found_via": "Google News - Zoning",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://cityhub.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Zoning"
+  ],
+  "tags": [
+   "Zoning"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "Car flips in main street crash",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeF9iXzhSeGpkQzBXMmhMMUEwUnh4Y3lTa0RGNXRuU2ZKWWcyam4xUmFrZ2todFBvdEtpQlB0SkRySDVNVWNxTFptT3VNeXlaVlJFQjJQc3V4MkZtQ18ya19jUmRfMzRCWGZQYzVrQmotOUNsTFpKNXAtVmF2UlJjeElTal8?oc=5",
+  "summary": "Car flips in main street crash Shepparton News",
+  "published": "2026-09-28T05:19:09+00:00",
+  "first_seen": "2026-09-28T08:13:04+00:00",
+  "source": "Shepparton News",
+  "found_via": "Google News - High streets",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.sheppnews.com.au",
+  "google_news": true,
+  "search_tags": [
+   "High Streets"
+  ],
+  "tags": [
+   "Road Safety",
+   "High Streets"
+  ],
+  "regions": []
+ },
+ {
+  "title": "New bike connections in train stabling project",
+  "link": "https://bicyclenetwork.com.au/newsroom/2026/09/28/new-bike-connections-in-train-stabling-project/",
+  "summary": "Designs released for the development of the Heatherton home for suburban rail loop trains show new bike connections along the site. The post New bike connections in train stabling project appeared first on Bicycle Network .",
+  "published": "2026-09-28T04:37:39+00:00",
+  "first_seen": "2026-09-28T08:12:46+00:00",
+  "source": "Bicycle Network",
+  "found_via": "Bicycle Network",
+  "source_type": "Advocacy",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Cycling"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Boorowa’s sheep reclaim the main street for Irish Woolfest",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOckF1dnVxaXJNQ3dtamNEaGo1UVlFZWZ4NHFXQmwxWFNKSkM3MkRzandBZHI4V2R1blEtVlo0REI5QlhDaGpKbndzWWFwSFRtdGhTNnA3S3RKSWZJN2JURHRib2RNTFQ0X1dJemdfeW1qWXZjUmZIMkVZVXNMTmRZMURWYkNIcEs2NThmb2d6VkUxMlFldWxOLWVR?oc=5",
+  "summary": "Boorowa’s sheep reclaim the main street for Irish Woolfest About Regional",
+  "published": "2026-09-28T02:12:54+00:00",
+  "first_seen": "2026-09-28T08:13:04+00:00",
+  "source": "About Regional",
+  "found_via": "Google News - High streets",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://aboutregional.com.au",
+  "google_news": true,
+  "search_tags": [
+   "High Streets"
+  ],
+  "tags": [
+   "High Streets"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Motorcyclist caught going more than 90km/h over the speed limit in Mount Isa",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcEhyVWF5ak9RakRfYl8xRXo4TEIxM0JxQ1lpcGFxNmVkR1o1MFREV054Q0JXdThheWFXamMyMTJ3N0o5ejBGWUsyUF9KYWpkWl93ODBMSjBXaWNuOUhtYzlLd3h0MjFNdU5MTXNKcGhIWDltbG5oZmsxakI4Wk5OWnVyU2FQVlVQS2pxNjF2RjYyVnY2YVkzYnd2RlkyVGFFWXE4WnB5bmtDOHZiY2NQQkZB?oc=5",
+  "summary": "Motorcyclist caught going more than 90km/h over the speed limit in Mount Isa northqueenslandregister.com.au",
+  "published": "2026-09-28T01:37:50+00:00",
+  "first_seen": "2026-09-28T08:13:01+00:00",
+  "source": "northqueenslandregister.com.au",
+  "found_via": "Google News - Road safety",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.northqueenslandregister.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Road Safety"
+  ],
+  "tags": [
+   "Road Safety"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Federal local government inquiry concludes",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VaEE3bVJId1pDNW5OMHJIQWltUVJfaWtJd3BPMTFlNnBBRDB0Nnl0cVlQVEE2UTZlWWk1Q3BidldWczRhNVAxZXp0WW5TUG1ONEtTaGJydXp6eUx6VUFsZW15SnhsTU53WnVmLWNkQXRxXzhyTkRMWklKZlVGekE?oc=5",
+  "summary": "Federal local government inquiry concludes Council Magazine",
+  "published": "2026-09-28T00:04:37+00:00",
+  "first_seen": "2026-09-28T08:13:07+00:00",
+  "source": "Council Magazine",
+  "found_via": "Google News - Council finance",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://councilmagazine.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Council Finance"
+  ],
+  "tags": [
+   "Policy",
+   "Council Finance"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Tassie Hawks Cup shines a light on road safety for 17th year",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHVuRkdLNk1tcV96WHpPemk5ZGNsa0xxcERENi0zQnhHcUdtSkpHblhnU2ktbEtWZExpZlZPbi13azZBVVpGQzVBbGc4R3F2Z21LYjJRYUltVS02ZHhCcGYzTXhXeVp4aENMcmRrWm10aldIZ0xCSWNHNHJIYXdqcjEzUEJ0UkJzc3l5Y01seWVPNDhUWWxtSjBzbGlRNWxsSVMyZmdn?oc=5",
+  "summary": "Tassie Hawks Cup shines a light on road safety for 17th year hawthornfc.com.au",
+  "published": "2026-09-27T23:44:00+00:00",
+  "first_seen": "2026-09-28T08:13:01+00:00",
+  "source": "hawthornfc.com.au",
+  "found_via": "Google News - Road safety",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.hawthornfc.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Road Safety"
+  ],
+  "tags": [
+   "Road Safety"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Marchers condemn violence, remember lost community members",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSnR3UE1UakhOQ2pNcE5VUWFEc0JIYUpUMEcxd2VBRi1kcVZXTjg2MG5ybFhQY1BjNUdSR0ZkZUJTb3E3dlVDd0VaTTNpUGNmT3JwS2lEbXdiZDBDTDg0UG9KNHFrc1dpY3ZxZ09iZGVBaTlFYjd6RHpWanZObXdjQlJoVXk3NTd5RnJBZUI5allINVh1RmZwaDZR?oc=5",
+  "summary": "Marchers condemn violence, remember lost community members ABC News & Headlines – Australian Broadcasting Corporation",
+  "published": "2026-09-27T23:17:06+00:00",
+  "first_seen": "2026-09-28T08:13:04+00:00",
+  "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+  "found_via": "Google News - High streets",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.abc.net.au",
+  "google_news": true,
+  "search_tags": [
+   "High Streets"
+  ],
+  "tags": [
+   "High Streets"
+  ],
+  "regions": []
+ },
+ {
+  "title": "On the Beat – child road safety",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXFSUWlMVDFqczVRRlItbWxjalBUby1WSzNWUWVseFRHS3dybmJpVXl1RVJIY2Fwc1VpZ201U0JSLTNuZTJOMmtjMV9BSTRySjRoUjJaM0xJUHB2UU5iWGc1RXVReHZHdFhXMGZwTDlhSFdVbmZGQzFkRFlpd29ZOW5sRQ?oc=5",
+  "summary": "On the Beat – child road safety Melton & Moorabool | Star Weekly",
+  "published": "2026-09-27T23:09:53+00:00",
+  "first_seen": "2026-09-28T08:13:01+00:00",
+  "source": "Melton & Moorabool | Star Weekly",
+  "found_via": "Google News - Road safety",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://meltonmoorabool.starweekly.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Road Safety"
+  ],
+  "tags": [
+   "Road Safety"
+  ],
+  "regions": []
+ },
+ {
   "title": "Join The Urbanist's Pinehurst Station Area Tour on Sept. 30",
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdElEQ3JKMEthMThrQ0NpeTk0ZXZadWw0SjNnWTV4Y2V3eERDM2ZzOUNqRDJiNkFSM2ZRdHVnSGl5WmVEZ1Qzc0QzaWFNTl93RG1EdUJxcjNfU0ZVMjdVc3cxcFNNcWNsOGVxUjkxVGhoejkxaDRxQnVQQUtRVU9HTWJQeWVwM0FiOWRTLXQtbw?oc=5",
   "summary": "Join The Urbanist's Pinehurst Station Area Tour on Sept. 30 The Urbanist",
