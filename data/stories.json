@@ -1,5 +1,510 @@
 [
  {
+  "title": "Financial Sustainability Forum",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOekVKd1VuRHJMNmVzTU4wSTNjVk1TRl9NRlM0QmM2VXpUVnAteXB2bV8tTzhjQlpibmFRN0g2SXBkQ3Nxb2k3Y1g0c0g3N0RkRXdrTFJhS19QaS11YnAxaUpJOWhRenhYeTRjZjk0WlBEaEJmWEY3SXdid3JDZGVuam4wUFpHdw?oc=5",
+  "summary": "Financial Sustainability Forum Yass Valley Council",
+  "published": "2026-09-30T07:49:19+00:00",
+  "first_seen": "2026-09-30T07:58:23+00:00",
+  "source": "Yass Valley Council",
+  "found_via": "Google News - Council finance",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.yassvalley.nsw.gov.au",
+  "google_news": true,
+  "search_tags": [
+   "Council Finance"
+  ],
+  "tags": [
+   "Council Finance"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Kids under 16 account for quarter of e-scooter injuries",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSGxSbTVGaklkSTlRVWNRQlVESF9PUFl4cUtHWXpkSGE1REcxVW5ScHV1QzhIWDNXcS13Q2piOTFhdm1GQWNRUXZZNDd2bEowUEoxVXZITjIwTHl1QzhkRkRrT3c5R0FRbkl0OHZFNGVOYmRIdkppRG5KNURPQ0VsN3otSllDQ0lnRHJrNDdROXVLQjFWcUpiZmFsVnBjTlNkenlMMEQydw?oc=5",
+  "summary": "Kids under 16 account for quarter of e-scooter injuries 7NEWS",
+  "published": "2026-09-30T06:48:23+00:00",
+  "first_seen": "2026-09-30T07:58:16+00:00",
+  "source": "7NEWS",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://7news.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Micromobility"
+  ],
+  "regions": []
+ },
+ {
+  "title": "The laneway contender for Brisbane’s most underrated restaurant",
+  "link": "https://www.watoday.com.au/goodfood/brisbane-eating-out/the-laneway-contender-for-brisbane-s-most-underrated-restaurant-20260930-p611qt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+  "summary": "Here’s why you need to head to this Fish Lane classic.",
+  "published": "2026-09-30T06:18:31+00:00",
+  "first_seen": "2026-09-30T07:57:59+00:00",
+  "source": "WAtoday",
+  "found_via": "WAtoday",
+  "source_type": "News",
+  "filter": true,
+  "fixed_region": "WA",
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [
+   "Public Space"
+  ],
+  "tags": [
+   "Public Space"
+  ],
+  "regions": [
+   "WA",
+   "QLD"
+  ]
+ },
+ {
+  "title": "See moment e-bike bandits drive stolen tractor through Bundoora cafe",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYk95RGNjOVZHSXlxN3ZhTWJXTDV4OVEtNml6bGJlSkpKb05oM2NONXdnZXdmRGxsUUJqTkRRTG1qX29tdXVmRnRQR3BfTXBaakZvalB6SExHWVFjZVdQalA5WGM4aElPV0dsclR0bEtzYmN3Z2c5Z1h1dVZ2Zlc3RENLRURvUW5jQUtwenNqN0I0SFJqQ0UyZEhQeHhpY0U1dTlPUVZaR1dtVkRnZmN5LS1tSkFuQmVEQUcyNFpPNE9JWElzNm1UNDR6c1B2d2luYlNSSDVyWTIwU3ZaQU9PalR3clJkVDFtTlpOVWtrZjg?oc=5",
+  "summary": "See moment e-bike bandits drive stolen tractor through Bundoora cafe Herald Sun",
+  "published": "2026-09-30T05:53:47+00:00",
+  "first_seen": "2026-09-30T07:58:16+00:00",
+  "source": "Herald Sun",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.heraldsun.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": [
+   "VIC"
+  ]
+ },
+ {
+  "title": "Fare and trip times set for direct shuttle link to Sydney’s new airport",
+  "link": "https://www.watoday.com.au/national/nsw/fare-and-trip-times-set-for-direct-shuttle-link-to-sydney-s-new-airport-20260930-p61128.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+  "summary": "The shuttle bus connection will offer passengers a quicker but more expensive journey than public transport to Western Sydney International Airport.",
+  "published": "2026-09-30T05:45:00+00:00",
+  "first_seen": "2026-09-30T07:57:59+00:00",
+  "source": "WAtoday",
+  "found_via": "WAtoday",
+  "source_type": "News",
+  "filter": true,
+  "fixed_region": "WA",
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Public Transport"
+  ],
+  "regions": [
+   "WA",
+   "NSW"
+  ]
+ },
+ {
+  "title": "Five-year-old seriously injured after e-bike crash in Sydney",
+  "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcm9fOVlSaUMwVndyRE5Ha3VvRzhzeUl4UVRoUzJYT3U2Uk5Rc1MtZnN4eWtGSVFwcmJZU3VyV2ZRWEdvS3ZQclE3X21nRHlUc2RZTk9jUGF1ZUtJenlORWp4T3dNTDVLeGhYa0h4V3ZBdHBJU2NheHJ6ZG05WUdqUl8yaXN4dGxfc2xKVHh1OHVvSGtwdnJCMUhNQU9rM2xlWTVVVTJ1ZmFBYVBENDY0ay1ncXZ6alRhbXRyY01NSk9aejhoLTNsbmtXWjVoTXBXTzcwVjNkT3JxWUdtSnM5OFcyamFqdFRaQ2R3NXF4ZEVZX3dtR1JoTU9WQdIBgAJBVV95cUxNMll0dDdvT1h0VW1GTnpHWU1La3dTdGcwRmNJdlRDMDZ2NGp5NHp2YjBQWGFoQWNnLWdvNnVzaVdmeG1VMVp3TmdXOVpWZVAzcW1yRmdMZDh5MHJJM0FoWW1NV1RJbUFfSFB6Rmd2enFLc0VieUZ2dVlBOE5ZLTdOZk9xRHNTZzd5THhEc24xenA5Y3dreEpiM3Q2NjVUUGZCYkNaM2RGT295NTdGRkZHWW95cWxZc3FTYUhSaEdnZjUtSVJ1Nk9Rcm8yYkZTemE4YUpJaU1uZm14NURXSkNXVDNfZGxjUDBLbmc3OFFCanBjNjBGQi1ySWZENjgxbkxT?oc=5",
+  "summary": "Five-year-old seriously injured after e-bike crash in Sydney news24.com.au",
+  "published": "2026-09-30T05:05:26+00:00",
+  "first_seen": "2026-09-30T07:58:16+00:00",
+  "source": "news24.com.au",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.news24.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility",
+   "Road Safety"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "Cow Pastures Listed for $1bn in Sydney Industrial Rezoning",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSUhPUENpa1RUWm1iVmsybElub0cyWF8tOHZYbTFDMUhyeVA4TWJ5WnM1dUttYjZDakFXSHBYYXlWNnMtSkJIeE1MOHlhVk5wcDhoQ09XVGNNNkF3aU9sNy1vVHlsUjBfQzdzS3RVTUFnZzBMYVphUTU0emNsYWtZMm9peFg5NXZ2V2swWk40MnUtZ2lxUFpTTW53RQ?oc=5",
+  "summary": "Cow Pastures Listed for $1bn in Sydney Industrial Rezoning The Urban Developer",
+  "published": "2026-09-30T05:01:29+00:00",
+  "first_seen": "2026-09-30T07:58:22+00:00",
+  "source": "The Urban Developer",
+  "found_via": "Google News - Zoning",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theurbandeveloper.com",
+  "google_news": true,
+  "search_tags": [
+   "Zoning"
+  ],
+  "tags": [
+   "Zoning"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "ACT Government acknowledges public transport report",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZHpEQ3lRcV9vRGRFMUI5bUNSSXlXMm1ZdW4zZlVRMDduRFFWOERRWGgwYkdLd0l0dG1neW53OXozM1ZZeDFRb3AycHprNWhiX3pNS1VpeVFwWVVoczg4NkFGeU01NXpaQzVTNWdDQkpCVXpRbjBzN1FGb2M5ZVdEMW9uVjF6VmljUnFlT2Jtc0JxdXRUU2htUQ?oc=5",
+  "summary": "ACT Government acknowledges public transport report Inside State Government",
+  "published": "2026-09-30T04:05:10+00:00",
+  "first_seen": "2026-09-30T07:58:16+00:00",
+  "source": "Inside State Government",
+  "found_via": "Google News - Public transport",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.insidestategovernment.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Transport"
+  ],
+  "tags": [
+   "Public Transport"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Laneway Festival 2027 Ticket Prices Revealed",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd2Y3U3lyN0N6a0lrNXUwLWlCTnNIdDV4SkFmd0xydW51V1JOQ3B5MW1oREJBYjUtWGpYOEJLT0ZZTmNyZkVEZHhZOS0wbkVHUkstRGJRYjBNRVVHQnBIQkJ3Mk1uTVJhTDBINmlfOHlXRk12M1Q2T0dVWmpEWV95MkZVelVUSTJqMndyVllnSml5Yk1EMTZyRVBB?oc=5",
+  "summary": "Laneway Festival 2027 Ticket Prices Revealed themusic.com.au",
+  "published": "2026-09-30T03:58:11+00:00",
+  "first_seen": "2026-09-30T07:58:19+00:00",
+  "source": "themusic.com.au",
+  "found_via": "Google News - Public space",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://themusic.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Space"
+  ],
+  "tags": [
+   "Public Space"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Latest News",
+  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZkcwQXBPRmN3X0pQUzdWNW95UHptaUoxTmtKOU1nMm9WTC1QNF8wM3RBYlBLR1duR05YYlJRcGtPbGpkNHV2SHFIQWZXV3llS2tRMXhCRE1Wc1RBbkxfRTVWaTBZTm5VdkJyMDEyR2VBTjMwTjI5Z21ORk1UWE1Ybm9hT193YVVqWVdGcURPbGRBWDZjZHdoLWc1cWFYSnZDSFBjV2RRdHVkQmdDcy1hcE5vcmJ5WmtNWXhnaTQtb2RrcHhTNU5mejh6eUU3SHNYSGVzaUxIaVZGYWJQNXVqX0RraG9jaVl3WDdxUQ?oc=5",
+  "summary": "Latest News NSW Police",
+  "published": "2026-09-30T03:40:16+00:00",
+  "first_seen": "2026-09-30T07:58:16+00:00",
+  "source": "NSW Police",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.police.nsw.gov.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Micromobility"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "Body found in rivulet in Hobart's north by passer-by",
+  "link": "https://www.abc.net.au/news/2026-09-30/body-found-in-rivulet-in-glenorchy-hobart-by-passerby/107211722",
+  "summary": "Tasmanian Police are investigating after a body was found by a pedestrian in a rivulet in Hobart's north.",
+  "published": "2026-09-30T03:17:46+00:00",
+  "first_seen": "2026-09-30T07:57:58+00:00",
+  "source": "ABC News TAS",
+  "found_via": "ABC News TAS",
+  "source_type": "News",
+  "filter": true,
+  "fixed_region": "TAS",
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Walking"
+  ],
+  "regions": [
+   "TAS"
+  ]
+ },
+ {
+  "title": "Night works on Dynon Road",
+  "link": "https://bicyclenetwork.com.au/newsroom/2026/09/30/night-works-on-dynon-road/",
+  "summary": "There will be impacts in the coming weeks for riders on the Dynon Road trail where it reaches Footscray. The post Night works on Dynon Road appeared first on Bicycle Network .",
+  "published": "2026-09-30T03:02:37+00:00",
+  "first_seen": "2026-09-30T07:58:04+00:00",
+  "source": "Bicycle Network",
+  "found_via": "Bicycle Network",
+  "source_type": "Advocacy",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Cycling"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Insurance worker’s drug driving crash puts cyclist in wheelchair",
+  "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPYUQxb2FoTVlQWlNUWUZXQnNwS1hZX1NpZ0VNWDV2TkR4U2oyeDJiOVhocEQ2S0IwU2ZKVTlmNHJyRmxkTkpSUVZUS2puLVF2Ym1RZ3NwemM0SnQ1VVNEQTJ2Z0dMMTRoaTZLdVNkczVMd0YzT0ZRZ1BoV1VrVFkxOHROQ0pNRHdaV3I5b1BDMkl5U0RINmhUekkya1JfeXZLS3A2Ri1LY3RTbFM0WjR4WFBFNXdfc3diczdIM2JjdlFueUtMTXp0WklnWEQwY3M5WWkwMDFuQ2Q0QlI2Tk1Lc3NFV3U2U2pBMVkwOXk3cUgyU0FEdXZ4cmE0NUNVRFhkSE9DZGgwY0lsemswbUpWVGlLbU45SlVqaGdj?oc=5",
+  "summary": "Insurance worker’s drug driving crash puts cyclist in wheelchair couriermail.com.au",
+  "published": "2026-09-30T02:57:44+00:00",
+  "first_seen": "2026-09-30T07:58:24+00:00",
+  "source": "couriermail.com.au",
+  "found_via": "Google News - Accessibility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.couriermail.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Accessibility"
+  ],
+  "tags": [
+   "Cycling",
+   "Road Safety",
+   "Accessibility"
+  ],
+  "regions": [
+   "QLD"
+  ]
+ },
+ {
+  "title": "Laneway Festival 2027 Side Shows",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPaUl4ZHJYSHdaVWpWa2VuQXVWMHktT2g4aXN6SmhBZ1pEN3RUazdkb1RGb3BrRUc1ODMzUmk2b2RFQ2hyaWQ5Ynp3VzdrV0FHWC1oQkxTRG13OHEtdjVmRWFNSzQwWTFKMGc3S1l4QmpuUlNsalZJajloSQ?oc=5",
+  "summary": "Laneway Festival 2027 Side Shows Scenestr",
+  "published": "2026-09-30T02:41:25+00:00",
+  "first_seen": "2026-09-30T07:58:19+00:00",
+  "source": "Scenestr",
+  "found_via": "Google News - Public space",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://scenestr.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Space"
+  ],
+  "tags": [
+   "Public Space"
+  ],
+  "regions": []
+ },
+ {
+  "title": "New train station to drive airport rail link expansion",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUXBnS1FnYld0UDZPQU1ldGIwU0MwOXRfZTZqM1hUbks5Z0NWTTk5MUZkQmJuRlhPUURNZmUwTzFTNVRsdk5RUnBmRjhNU1Q2dktadjhqRXVHQXZJRlpFZGJ5Ym1DNkhhTnJRSmpsTTdoQjVMYzhQQ0Y1T2ZxUllyc01HYU1veHIzeUFQVFJ3c1k2c0hRcTVIVC1Vb3FLb2VBWmtZUA?oc=5",
+  "summary": "New train station to drive airport rail link expansion The Canberra Times",
+  "published": "2026-09-30T02:41:20+00:00",
+  "first_seen": "2026-09-30T07:58:16+00:00",
+  "source": "The Canberra Times",
+  "found_via": "Google News - Public transport",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.canberratimes.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Transport"
+  ],
+  "tags": [
+   "Public Transport"
+  ],
+  "regions": [
+   "ACT"
+  ]
+ },
+ {
+  "title": "Laneway 2027 Announces Fontaines D.C., Hayley Williams And Slayyyter",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ma0pZbXh1WEtuN29LTjIxVFpwaU4zaFhyWXBfZk96UWZMOHN1U0pPNnFGU1hlVWpYV1RjOU40SHRabFF6SWdMTHNCRFJnb1M2MExSeC1pT1Uxb2tEbE5wYW53MXZYb2dmd3VEQXNUOW1vQQ?oc=5",
+  "summary": "Laneway 2027 Announces Fontaines D.C., Hayley Williams And Slayyyter Blunt Magazine",
+  "published": "2026-09-30T02:03:50+00:00",
+  "first_seen": "2026-09-30T07:58:19+00:00",
+  "source": "Blunt Magazine",
+  "found_via": "Google News - Public space",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://bluntmag.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Space"
+  ],
+  "tags": [
+   "Public Space"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Fontaines D.C. Reveal Laneway Festival Sideshows",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMjJTZDYzSV9Jclp1NUExNGdzejBzQ1FQTDZtOGtBR21ZUy01anp1YnFKLUh4V2YwdkNRYUR4Ny1uYVJtY002ek1BQWtjdmUzZmtvRnYwZmdlTW9TTWh0Y1l5TlIyWmNKX0U3YnYxd0NrWHZUdVd6NWR1ZGdnb2JuODd6ZlZKNXBFNWNUQW5uSEo2Wi1vb3BYNmdaRW1HUQ?oc=5",
+  "summary": "Fontaines D.C. Reveal Laneway Festival Sideshows themusic.com.au",
+  "published": "2026-09-30T01:24:36+00:00",
+  "first_seen": "2026-09-30T07:58:19+00:00",
+  "source": "themusic.com.au",
+  "found_via": "Google News - Public space",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://themusic.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Space"
+  ],
+  "tags": [
+   "Public Space"
+  ],
+  "regions": []
+ },
+ {
+  "title": "HUGE Irish band & Laneway festival headliner coming to Perth",
+  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNzFSX05BOER0TUdJczB3ekdld3dRY0E5bkVxME96OGs3eE9oU0hySUcyWnJ6MmdXVUJuUmpMcGdqRVNyZVlqMEQ5Y1hDTnVrT0l3ejRsd2FNNnp2ZzBCakFnMlFRS21YdEc0UENSaHJid3ZRZ2tKU2JLZjFuazl2b05aTlRxMjNsUXNQR0dCT00yc1ZlT0RmdklrWndCdjlQVlc5WUtVWEhGem1HaS11em5vRWdWVU9RRUd4YXp3TnRlSGlaeE1yMDV5a2hvQ1lLYm00NWJIU3ZvMHJ1WkVHLU51d1E1RmRMN09YUjVjSQ?oc=5",
+  "summary": "HUGE Irish band & Laneway festival headliner coming to Perth perthnow.com.au",
+  "published": "2026-09-30T01:06:00+00:00",
+  "first_seen": "2026-09-30T07:58:19+00:00",
+  "source": "perthnow.com.au",
+  "found_via": "Google News - Public space",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.perthnow.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Space"
+  ],
+  "tags": [
+   "Public Space"
+  ],
+  "regions": [
+   "WA"
+  ]
+ },
+ {
+  "title": "Laneway Festival Is Coming In Hot With A Stacked 2027 Lineup",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDFCaUZoeGJITFhfTmUwOUxGb1BDNGMzNWNYaHYtdXM1eXlUNC04aFNmTEFEU1BLNjhLN0J5N3JUa2g1M3JLbEphRWlndm9LWG52LTJoQ3lRVHRaNVlnRV9ZNHFGenU5T3cyckN3MkFaQ19IenpjQzdWSFl1eDFBMjlVRXpKS2NnSVJqNmtOQUNvSmNsUzNlMg?oc=5",
+  "summary": "Laneway Festival Is Coming In Hot With A Stacked 2027 Lineup marieclaire.com.au",
+  "published": "2026-09-30T00:48:49+00:00",
+  "first_seen": "2026-09-30T07:58:19+00:00",
+  "source": "marieclaire.com.au",
+  "found_via": "Google News - Public space",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.marieclaire.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Space"
+  ],
+  "tags": [
+   "Public Space"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Laneway Festival 2027 Line-up",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41MFd6SmJzRTVoZGhWTWpVOHpaZ3kwTEdJR2pxT0JNbVg0aHBmUFU2YUFKbElGd2RuX3o5Vk45MmF3NDdhNjR4cENCcVlKc0I2VlI1NHFvZkoyMTBNR3FwTEpram9RaHI5eG5fc1k0a0M2MXNzV3NV?oc=5",
+  "summary": "Laneway Festival 2027 Line-up Scenestr",
+  "published": "2026-09-30T00:36:31+00:00",
+  "first_seen": "2026-09-30T07:58:19+00:00",
+  "source": "Scenestr",
+  "found_via": "Google News - Public space",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://scenestr.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Space"
+  ],
+  "tags": [
+   "Public Space"
+  ],
+  "regions": []
+ },
+ {
+  "title": "LBRCA responds to National Road Safety Strategy review",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcEhtY01XQjc0MEdrc1lJSkJmTmhmOC10QmY3TGY3aWhRR2dKdW8wTkdfVklST3lHMlVXV1NhZEFjdnU4dUJ3bHNjUmtDUl9HSDhPeUZ2QmhKTGc1c1d6ZWl4aEFzSmgtQzFmTnIwS3lxeVQtSkVSVjV0dUZ3ODlSM0xRTTQ5WFJZRWRPdUl3?oc=5",
+  "summary": "LBRCA responds to National Road Safety Strategy review trailermag.com.au",
+  "published": "2026-09-30T00:11:59+00:00",
+  "first_seen": "2026-09-30T07:58:17+00:00",
+  "source": "trailermag.com.au",
+  "found_via": "Google News - Road safety",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.trailermag.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Road Safety"
+  ],
+  "tags": [
+   "Road Safety",
+   "Policy"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Laneway Festival 2027 drops its 32-act lineup, led by Fontaines D.C.",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3R0ekdxbHM1Ym0yTjZJUWt6eXZjajRxRzNxRERfUFBhTFc1TnV5UGJ2MHB6UWh2NHRqT0RQUXMzYUJaWEU4MjlWcE56REY3TXhfdmlpc2hlYjI2YXVPOVpkS3g2cVBzSjFhbDR2NS1IaktCMm9EQjZrOVkzQl84RmJhdE5qVkFFYUUtejhIaEs?oc=5",
+  "summary": "Laneway Festival 2027 drops its 32-act lineup, led by Fontaines D.C. Beat Magazine",
+  "published": "2026-09-30T00:09:29+00:00",
+  "first_seen": "2026-09-30T07:58:19+00:00",
+  "source": "Beat Magazine",
+  "found_via": "Google News - Public space",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://beat.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Space"
+  ],
+  "tags": [
+   "Public Space"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Your Complete Guide To Getting Tickets To Laneway Festival 2027",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRVg3aU9MaE84ZVl1dC1QT2VYc201aXpuMWZudERocVZoTk56bUIwcXFUUnhPSXRnRnhBZ0RiTl9xaGg0QXozMlhpZ2xoZnJzd0pVbGdvbjk1VHE5dDc4VWV1M3lBOVJUalZJMmI1TXh6c2psUm10QUV1VjVQNmQwblFXbnJobWs?oc=5",
+  "summary": "Your Complete Guide To Getting Tickets To Laneway Festival 2027 elle.com.au",
+  "published": "2026-09-29T23:55:30+00:00",
+  "first_seen": "2026-09-30T07:58:19+00:00",
+  "source": "elle.com.au",
+  "found_via": "Google News - Public space",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.elle.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Space"
+  ],
+  "tags": [
+   "Public Space"
+  ],
+  "regions": []
+ },
+ {
   "title": "Fontaines D.C. & Jane Remover Announce Adelaide Laneway Festival Sideshows",
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMEcyMExBWWYtSWtidVVtYWRTUGdaejBhZ3p0THNaTTZZQVJyVndoN1NxaG5tMkkwV3Z1Zy1DM1pLSGdHR2tuN0xfQ1g0M21PM0p3WU5OU3JFNF9aeXVMQ01Eb19UbHVJRi0tdTE1c0JOcDJUWmUyRVRmOVkwalc0UVNYeFpSMmxONUlZNQ?oc=5",
   "summary": "Fontaines D.C. & Jane Remover Announce Adelaide Laneway Festival Sideshows thenote.com.au",
@@ -1473,6 +1978,27 @@
   ],
   "regions": [
    "NSW"
+  ]
+ },
+ {
+  "title": "'Keep Pierce Moving' Campaign Touts Major Bus Service Expansion Plan",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb1o1aTVCWUtBVHZBN2hQQkNXQ0tvMGR5NElsblliUktqSktrb0VGTE5aQXdFcnVPaEY3X0xNNXF3Z25PcmgwU29XM1lWdWJweFlkRGprX3lwV1ZXaVM4YnViTmQ1bVgxWjhjVFZOZXZtUlFYMW1BRWJnQ1JRVkpKRVk1ZjZRb0QwSlJ6aXZ2T055a0pOV1BvNVJyTQ?oc=5",
+  "summary": "'Keep Pierce Moving' Campaign Touts Major Bus Service Expansion Plan The Urbanist",
+  "published": "2026-09-26T22:20:59+00:00",
+  "first_seen": "2026-09-30T07:58:26+00:00",
+  "source": "The Urbanist",
+  "found_via": "Google News - Urbanism",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theurbanist.org",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [
+   "Public Transport"
+  ],
+  "regions": [
+   "International"
   ]
  },
  {
