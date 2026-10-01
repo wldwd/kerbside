@@ -1,5 +1,456 @@
 [
  {
+  "title": "Two pedestrians rushed to hospital after car mounts footpath in Palm Beach, Gold Coast",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU1lNRzNqOXdTYjZJNUlGajFYSkExZ3pnM0hha3ZhbEFzUk1CY3hkekVyU0EwQkluLTFqczduamJZdGV5dVN0RUJrNVc2VjA0TzA0UnR3SWk5UFRYMHZNbUdnbVplaWQ3T2xZR2trb1N4b3VMVDM1VW96NDZ2OW5YbFd4UWN2NnQ4alZYeDBLQ1RMVzRCUjBLOGhsbWVVS05ETU1kLTRPSEtEeGRTX1dnX0phc2V5X3NON0VFdTlpY9IBxAFBVV95cUxPYlZHWG0yczJLM1RXOEZCWnlSZWl3eko3aVpuUnhrNW1TTERLZVllWnMtcG1DMER3R1hqQXFjWGRxRVBQazA0ZVhTd0FGMjBxczYxdkFGbjBMenhoQjRxdG1IRTRCclhacnI2eEUyZWNOMHNpY19uRVllWU1rSVhJQ3FUYk9YQzFROXZIRGRSVk5sbWhQeFJPa1gtMEgweTQ0U2gtbWRUZGpHSEN0djR3RHVOVTRkVVFYSGlnMkh1WUI5YVJm?oc=5",
+  "summary": "Two pedestrians rushed to hospital after car mounts footpath in Palm Beach, Gold Coast 7NEWS",
+  "published": "2026-10-01T07:53:00+00:00",
+  "first_seen": "2026-10-01T08:18:35+00:00",
+  "source": "7NEWS",
+  "found_via": "Google News - Walking",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://7news.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Walking"
+  ],
+  "tags": [
+   "Walking"
+  ],
+  "regions": [
+   "QLD"
+  ]
+ },
+ {
+  "title": "‘Where illegal ebikes go to die’: first bikes seized under new laws in NSW crushed",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTXRNNDBTZWZoZFdyOUVvTUtOdHc2UUt2cnhWYnhRSHlKMzlQdjhyWkVLR1pWU240d25mdnhRM2FFV1RvTVc2RmFIY2loSVRLdUlxYjNhZ3dRRnNXMk9wanVpMXdobFBITnFGOWlVUUIxWjctc28xRWIzZThTZExuSzlQYXh6aWNUWFZDVG82VHlQZjZpS0xnM1BSTGJaUnNraHVpbldOWEl6bjN0RkpMQ1ZKanNnZnFrQlJQWlZyVjU2a3lhT0VB?oc=5",
+  "summary": "‘Where illegal ebikes go to die’: first bikes seized under new laws in NSW crushed The Guardian",
+  "published": "2026-10-01T07:46:00+00:00",
+  "first_seen": "2026-10-01T08:18:36+00:00",
+  "source": "The Guardian",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theguardian.com",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Policy",
+   "Micromobility"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "'Where illegal e-bikes go to die': Compliance crackdown ramps up",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSm02di1JVlp0QkZvY1VTUGR3Y1JTWHluQ09CdTRkcUdVUFNxZHhJUDVTSHZCaHBidzFta29pSVBpQ3o2SUtpZXNRUEVpUWZ1QU50NHNHZWJRaGx6djBic1lmcEVlZFFCSEZTM0pUX3lDU0dpdUotd0FCNFgtcE1HZlZXYmpSb0xVTG54elc0ZDhpTVhkMFVQcjYzZDJxMW5sc2xTbldlRzQ?oc=5",
+  "summary": "'Where illegal e-bikes go to die': Compliance crackdown ramps up ABC News & Headlines – Australian Broadcasting Corporation",
+  "published": "2026-10-01T06:56:57+00:00",
+  "first_seen": "2026-10-01T08:18:36+00:00",
+  "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.abc.net.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": []
+ },
+ {
+  "title": "E-bike injuries rise in Sydney as illegal vehicles crushed",
+  "link": "https://www.abc.net.au/news/2026-10-01/nsw-illegal-ebikes-seized-and-destroyed-northern-beaches/107216370",
+  "summary": "A number of illegal e-bikes were destroyed and turned into scrap metal at a wrecking facility in Western Sydney.",
+  "published": "2026-10-01T06:53:29+00:00",
+  "first_seen": "2026-10-01T08:18:16+00:00",
+  "source": "ABC News NSW",
+  "found_via": "ABC News NSW",
+  "source_type": "News",
+  "filter": true,
+  "fixed_region": "NSW",
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "E-bike smash that could have killed radio star Margaret Throsby was 'inevitable'",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOElTcG1mcXdyTjNUWjNQOGRYUmJ0RS1nZzBzRlpEcENMb3J3TXhIRlFVbV85RnBCeTU3bEEtQkM2eTdZXzVDMm00cms5YXJqaE54VWJyTnlYNnZjX2NKeFcxODJYbE5uS3I4TlpRLVpRNDVOZl9YcGpfTWYxRzlnMnFyN1hwVEVwdFFuUFFJalpDd1FSTlpCRk9WbzFBVnkwdHV1eGtnbnVnbWlkclI2RVJB?oc=5",
+  "summary": "E-bike smash that could have killed radio star Margaret Throsby was 'inevitable' Illawarra Mercury",
+  "published": "2026-10-01T06:32:38+00:00",
+  "first_seen": "2026-10-01T08:18:36+00:00",
+  "source": "Illawarra Mercury",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.illawarramercury.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility",
+   "Road Safety"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "Illabo to Stockinbingal: Progress in Greenfield Section",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1MWl1RTlRY3FLbF9lWExfS19DWDc1QXU5V0xGZlAxMjA1cktHSFp0MlpSMGpmQmZjVjhnZXV3ODFEeXJrTkU3M2JCU1U5SG1DcHRaTGNETm9UNE5iZk9hanBjN1duT3pxVDFnUURPa1VLc2ZYVUxMaFN3?oc=5",
+  "summary": "Illabo to Stockinbingal: Progress in Greenfield Section Inland Rail",
+  "published": "2026-10-01T06:15:37+00:00",
+  "first_seen": "2026-10-01T08:18:43+00:00",
+  "source": "Inland Rail",
+  "found_via": "Google News - Urban growth",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://inlandrail.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Urban Growth"
+  ],
+  "tags": [
+   "Urban Growth"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Crushing end for confiscated e-bikes",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbGZSQmxWNkhLUjFRUXByUWJDXy1YallQdXV4bExKUkowWkdWT3E1R212N2lnSkJPM3QzM3plRjhpRWJZQ1ozVVpfS2ZBRlJqRWtDOVNCN1lUbFAyOG1fNzBySTJyRUF3TFVlS2F0OXUzbXE1U2tMTWRpZUxsZ0NuNHl4Tk95aFk1TzVHdGh3WXdwdVh2b1E?oc=5",
+  "summary": "Crushing end for confiscated e-bikes Northern Beaches Advocate",
+  "published": "2026-10-01T06:07:04+00:00",
+  "first_seen": "2026-10-01T08:18:36+00:00",
+  "source": "Northern Beaches Advocate",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.northernbeachesadvocate.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": []
+ },
+ {
+  "title": "36 Illegal E-Bikes Crushed into Scrap Metal In Big Gov’t Crackdown",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUzBBeURaYkdxcE8tanRtR05xcDdFcjFKbDV6NWxfUG0tTVc1OEtUbGwyTFRYS1FVZ0MySmZidDl0T2cxRzVfRmdxenJFWDlRbzYweF82RTZZQUNpMFZ2VS1ndnVWMG9MWnVRS2JLV3ZCbm5pcklhWFZreDZVRDZBaEZXTjBTbE5WQVNueG0taVFpeHM?oc=5",
+  "summary": "36 Illegal E-Bikes Crushed into Scrap Metal In Big Gov’t Crackdown cityhub.com.au",
+  "published": "2026-10-01T06:04:24+00:00",
+  "first_seen": "2026-10-01T08:18:36+00:00",
+  "source": "cityhub.com.au",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://cityhub.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Gold Coast Hwy shut after serious crash involving pedestrians",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLUtYUlFmaGZRRkhtUWc4ZFhMeWlBem9TTDRJNU5lWEN2UjBMMkRHdHhibVZmMHRJOTFmeEV4ZGNiRjJDbFd0MlhIaVdMOTZwaHVqT3FSb29DcHl4LUNfd2hRWjdlM1lWUWRCNDFlRHNqcEVtd2pZTk5VdGVxTnpKZ3NUZHBscWFHVEhrY0pNQXJSdGxoUGxWZHlEY2ZpRVZsOXFzUVU3X0NNNE1zU0JaUDF3R2x6YmJKYWl0YVBzNkRpTDRCeFE?oc=5",
+  "summary": "Gold Coast Hwy shut after serious crash involving pedestrians Gold Coast Bulletin",
+  "published": "2026-10-01T05:27:07+00:00",
+  "first_seen": "2026-10-01T08:18:35+00:00",
+  "source": "Gold Coast Bulletin",
+  "found_via": "Google News - Walking",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.goldcoastbulletin.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Walking"
+  ],
+  "tags": [
+   "Walking",
+   "Road Safety"
+  ],
+  "regions": [
+   "QLD"
+  ]
+ },
+ {
+  "title": "Road Safety Review Backs Continued Action to Save Lives",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNUs4RjM4VEl3VWd5S1hINTdxYUFRLU83cTE5OWVpNWVxWC1Hakg0NjJyVkdfYkN0S1Y1THFvRThXMG80UkotZ3FGRUs2UWl3MFVKLXpRYXlock5QT2VsV3oyeGY1eEJxNzFKdkVndkpweFZfX2QyaEVCRU93Q1pWR0xCWHhfN3h3NDRZSnZQZUVMbDBtOG5naTBjTVVkQQ?oc=5",
+  "summary": "Road Safety Review Backs Continued Action to Save Lives rdariverina.org.au",
+  "published": "2026-10-01T05:24:12+00:00",
+  "first_seen": "2026-10-01T08:18:37+00:00",
+  "source": "rdariverina.org.au",
+  "found_via": "Google News - Road safety",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://rdariverina.org.au",
+  "google_news": true,
+  "search_tags": [
+   "Road Safety"
+  ],
+  "tags": [
+   "Road Safety"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Forum on Ebike rules",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fRmJxNDNUZTdyTEhaSDllSDNuTmtzUGlwZDRweUxibG5DMmJ6OHRMVHdIS3l5ZjBCTU50cEJwSy1nTk9NMkZnUlZrcjBpcVl4Wi1VUzQ0NEw4d3YxcDlwNktvUWFYZFI4aUVWcDVzMnE?oc=5",
+  "summary": "Forum on Ebike rules Noosa Today",
+  "published": "2026-10-01T05:00:22+00:00",
+  "first_seen": "2026-10-01T08:18:36+00:00",
+  "source": "Noosa Today",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://noosatoday.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Micromobility"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Queer-chella: Slayyyter, Kim Petras, MUNA & More Announced for Laneway 2027",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM3h6QjhPMlVGWHM3MmpPTUtTS1NhT2lZNUJWX2N5ZUlXaTlMaGpVUVJQSE5aRVpwMmpfRmJoV3dMZ2hxTERRNDY2VTJUbjRxZlhpVlBJYURtOEJ2Y1duN0l3N1lOTGlPVFc3eVE4MHdBS01OR1lvZ1ZTQWZLc1dtR3JOMkhKRUZPSWJEWVpYVGlxWi1Zb0ZaMlA1SkpiN3pVdU9XTGREWGpBOWZGUFpUaHBDYnVsMHZZeHhVcl83bmd0Rmp2dGc?oc=5",
+  "summary": "Queer-chella: Slayyyter, Kim Petras, MUNA & More Announced for Laneway 2027 Star Observer",
+  "published": "2026-10-01T03:42:53+00:00",
+  "first_seen": "2026-10-01T08:18:39+00:00",
+  "source": "Star Observer",
+  "found_via": "Google News - Public space",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.starobserver.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Space"
+  ],
+  "tags": [
+   "Public Space"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Illegal e-bikes crushed as crash numbers keep rising",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZm41bTFLRlZqM3h3RDNGTjJYWHRYYTRVM25xSEhKa3VJSnRKU0h2MW8tbmJWcllXeC0wNWNQRndTX3BydkJoNXJ1eXc4ZWgxS3B3NGFqYVRrVjEtVjE1SnZZR19URnZBWjN4YkI1SktEdE50YzZFdGo4QXh3R2lZdWdpdFJIdkoxd3FmdFFvSkUtT0xWVU1KMG0wUVY1M2NwWUE?oc=5",
+  "summary": "Illegal e-bikes crushed as crash numbers keep rising The Canberra Times",
+  "published": "2026-10-01T03:34:28+00:00",
+  "first_seen": "2026-10-01T08:18:36+00:00",
+  "source": "The Canberra Times",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.canberratimes.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility",
+   "Road Safety"
+  ],
+  "regions": [
+   "ACT"
+  ]
+ },
+ {
+  "title": "Inland Rail makes progress in greenfield I2S section",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbS10dmZJMENBbTJ4T19wMF95VFFMMUhDY05GcTZsVEJmVXgyS3NXM2VHTklPV1J5UHRFaG41Y2FDX3ZVMk9HQ1c0SWx2OFFfdF9IUFpReWJqOWo1SS0xOXpsUUt6Vno1RF9QOGhkbV9PeGdtWVhHRVlYemhRTGJQQS1RQ2x0NnFHUFlvYQ?oc=5",
+  "summary": "Inland Rail makes progress in greenfield I2S section Rail Express",
+  "published": "2026-10-01T02:58:55+00:00",
+  "first_seen": "2026-10-01T08:18:43+00:00",
+  "source": "Rail Express",
+  "found_via": "Google News - Urban growth",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.railexpress.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Urban Growth"
+  ],
+  "tags": [
+   "Urban Growth"
+  ],
+  "regions": []
+ },
+ {
+  "title": "No concrete date yet for Melbourne Airport train station",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSlJlR1E5UEU3WWQyUWdEZ0RZTnhneGR1NjlRTXBGU181RmxQVHdzZzZfN0g1RzBpbklqXzYzeldONmsySkxzaG5raUIwWXJPSi1IVWJVckJzd2lYTzBmLW5Db0RoVnBHSm5WX2NrTDV6dkh4UGxQZTZWNndzaTRuXzdJM1htVjF3UWxDNDFRQTkwcDI3Q0hkMUdfV01FQVVl?oc=5",
+  "summary": "No concrete date yet for Melbourne Airport train station Australian Aviation",
+  "published": "2026-10-01T02:04:02+00:00",
+  "first_seen": "2026-10-01T08:18:37+00:00",
+  "source": "Australian Aviation",
+  "found_via": "Google News - Public transport",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://australianaviation.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Transport"
+  ],
+  "tags": [
+   "Public Transport"
+  ],
+  "regions": [
+   "VIC"
+  ]
+ },
+ {
+  "title": "‘Bang’: Shock as teen hit by car on live TV",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTFVwdDZ0NVY2NmZfTGJsV2E1SDc2Tk42TC1mVFYyYm5kS1pkYTdQelFtanhuSWV2U1JJdlRmNHNmdnVFUXdYLWkxMDBGUy1faWxhZ1F0RHNBOTgyTll5VDFhNXJLQlhnRTBKU0tsU0ozRlBpM2tLZ2tUZE9URHVFSnpZTmJQLUlobnlLZEt2LXBzbGVGWUhjNVlvOFZ0RG5OZmw4OXNvRXUwR3pianMxYzhoMFk5RDhnWU81ZzNiNDNoUzhLcFNJeWc5TEI4eWtuMUpEekVzLTFGRjYzeHFYZDh3?oc=5",
+  "summary": "‘Bang’: Shock as teen hit by car on live TV The Nightly",
+  "published": "2026-10-01T00:54:17+00:00",
+  "first_seen": "2026-10-01T08:18:36+00:00",
+  "source": "The Nightly",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://thenightly.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Micromobility"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Grant funding now available to help build age-friendly communities",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb3Mzb2RKV0xsOFNQUlRLU2pVaENfUl94VllDVGRvVjZRM1JRVi1rX3o2bkx2VGFpNGNFVV96eUNSQWJicnJnTmpzU0k2ei1vSGJ3Ui1zOWNBY1otQVE3a0wzUmlSS2llc1habm1OaWFyRFVlWkdLV2xUSTZxTHh5Y3N2WXJ2MVdBRS1JQVRNWVdMdGVlbHhhU2FDZlBsX08yZDlpMHUyNUJ4dWVWbmtZ?oc=5",
+  "summary": "Grant funding now available to help build age-friendly communities Western Australian Government",
+  "published": "2026-10-01T00:54:07+00:00",
+  "first_seen": "2026-10-01T08:18:44+00:00",
+  "source": "Western Australian Government",
+  "found_via": "Google News - Accessibility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.wa.gov.au",
+  "google_news": true,
+  "search_tags": [
+   "Accessibility"
+  ],
+  "tags": [
+   "Accessibility",
+   "Funding"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Riot brings VALORANT Laneways pop-up event to Melbourne",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWENOWmtVNmNyUklMbms3VEk5VzlDcVpxOV9mbjJaS0p3SXJOTFhuZEpJM1RkQmFCT1Fob3B6TkZudFBDWUt5bURlNkNuNk51NzBQcHNpTnZIRUg4b0pwdG9FMmRVdHpDODdCOEJHLXBnOEU2aE5OWElpOGhIejhWWFQ5SU9JS1M2WXl0dmN4aDc?oc=5",
+  "summary": "Riot brings VALORANT Laneways pop-up event to Melbourne futurefive.com.au",
+  "published": "2026-09-30T23:56:00+00:00",
+  "first_seen": "2026-10-01T08:18:39+00:00",
+  "source": "futurefive.com.au",
+  "found_via": "Google News - Public space",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://futurefive.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Space"
+  ],
+  "tags": [
+   "Public Space"
+  ],
+  "regions": [
+   "VIC"
+  ]
+ },
+ {
+  "title": "First batch of illegal e-bikes crushed into scrap metal",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQajlHQlFaWVl1UFpPVXIzbTZmWGp1MHNBcktZT2htUFIxaEJYUU1zdGxRNlRMeXFYSjluUG1abmFydjZjVldWU2pMQWFHUWpQU05YWjZvaXpiVnJ5Q3RQUHd0Q2Zrb0Q1Mk43TG5xRS1tajZlcnNITmxkeEZtOXRVYUNvbVNSUlpLeXBMUFAxU2dYcXdaaWFicDdkTXE1US1l?oc=5",
+  "summary": "First batch of illegal e-bikes crushed into scrap metal NSW Government",
+  "published": "2026-09-30T23:47:14+00:00",
+  "first_seen": "2026-10-01T08:18:36+00:00",
+  "source": "NSW Government",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.nsw.gov.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "Cricket returns as CTPL launches 2026-27 season",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcEUzd0JlRzhXUWVveEVlMVB3a3hCSTdYRTQxSlc2RXQxanZrekhNMDI0c3Uzb1R5SXc5ZERPcWsyMlNaUndCOVNfNTJUWVY5ZHdPYlY2VnU1ZmJ2RDZtYlk0TjZSZmF2dWpfbXp4UnpQVUYwdkJKc0RKejJPUE44TVZkYzhVdw?oc=5",
+  "summary": "Cricket returns as CTPL launches 2026-27 season Cricket Tasmania",
+  "published": "2026-09-30T23:32:13+00:00",
+  "first_seen": "2026-10-01T08:18:37+00:00",
+  "source": "Cricket Tasmania",
+  "found_via": "Google News - Road safety",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.crickettas.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Road Safety"
+  ],
+  "tags": [
+   "Road Safety"
+  ],
+  "regions": [
+   "TAS"
+  ]
+ },
+ {
   "title": "Watch 9News Latest Stories - Season 2026 - Nathan Cleary receives career milestone from wheelchair",
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRmJWdGVfZTBiWVphdlFMaDZ2QWtXRWc3ZWpLMEdvUGlBeXJQRWJYeWxyb0Vyb1VLMEkxOE1IT0xJbTRwWmFwaGJta2w2amxycXI5M0NQNnBEbVgtQk1BOFR5ZHRQVjhxX05kVzkwTWtfUWNtWm5xN0pnY1BKdFRXcnZuTkRpMDktLXdwTQ?oc=5",
   "summary": "Watch 9News Latest Stories - Season 2026 - Nathan Cleary receives career milestone from wheelchair 9Now",
@@ -19,6 +470,25 @@
    "Accessibility"
   ],
   "regions": []
+ },
+ {
+  "title": "Pinehurst Station Bursts into Action, as Upzones Trail Behind",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80R05DVkw2V2pjaTd6U1NNUXhzVW5KcVd3alZGb0t3eTZrRGJvRy05M1E4dDM2SHBYdVFLS2lKdENnTHlPNnVYY2RIM3J2X0R1YlMyX3NaTGx3dw?oc=5",
+  "summary": "Pinehurst Station Bursts into Action, as Upzones Trail Behind The Urbanist",
+  "published": "2026-09-30T22:21:01+00:00",
+  "first_seen": "2026-10-01T08:18:47+00:00",
+  "source": "The Urbanist",
+  "found_via": "Google News - Urbanism",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theurbanist.org",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [],
+  "regions": [
+   "International"
+  ]
  },
  {
   "title": "‘Dangerous’ e-bikes crushed for scrap metal",
@@ -594,10 +1064,12 @@
   "publisher_site": "https://www.kyfreepress.com.au",
   "google_news": true,
   "search_tags": [
-   "Public Transport"
+   "Public Transport",
+   "Micromobility"
   ],
   "tags": [
-   "Public Transport"
+   "Public Transport",
+   "Micromobility"
   ],
   "regions": []
  },
@@ -1187,6 +1659,27 @@
   ]
  },
  {
+  "title": "On the rocks? Scotch distilleries pause production as unsold ‘whisky loch’ grows",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMktmNkNMS2RXY2pVaXB1ZDR0VzVCZWpzZTZJa1V1b21vM2JZN0ZOWnNteDJ6WVZGc3dfczhrVnhTU1ZXcGoxeWd0NXhyM3FvTHdmVi1VcTJ5ZzJjR0tvRzVKZkNHaU15TTdrQWNQWW5iU1JxUUJSOUE0N1RjY3MyalMzYXVRV3hjb2tFazZmOFB2OUFWNWN4MHgwS2U3b29BbzJxbg?oc=5",
+  "summary": "On the rocks? Scotch distilleries pause production as unsold ‘whisky loch’ grows The Guardian",
+  "published": "2026-09-29T13:16:00+00:00",
+  "first_seen": "2026-10-01T08:18:43+00:00",
+  "source": "The Guardian",
+  "found_via": "Google News - Urban growth",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theguardian.com",
+  "google_news": true,
+  "search_tags": [
+   "Urban Growth"
+  ],
+  "tags": [
+   "Urban Growth"
+  ],
+  "regions": []
+ },
+ {
   "title": "Danish Architecture Center Celebrates Urbanist Jan Gehl's 90th Birthday with a Calendar of Activities and an Exhibition",
   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWUpVcEVQQ1drQlUxSUdNRnVSNUFJUU02a2piQ0VDT0wyYUJSX1RBNmJKckVjR0JzRGQ3ZmgtM3Y1X0NfZjh5QWRNNWxlM09KX0hXcFFfMVBNdkVuSUdXX1JoYTZTMjVJQWc5eWdGZE1adFBfWkNhdWNHb2JZU3NIVmVTcm82b3F5MDY4T0YyeElCX0NWNUhuWFotd0djWm42SWtReFRRYlpmZjJZTU1qNGt0N2xRUmgzbWtHaFpJdm9WS3IzNkltRlk0NDh6dk40azBlR0dqNi11WUxKVUg0UGFPNVc3WE1lSUV6UmtnS1g?oc=5",
   "summary": "Danish Architecture Center Celebrates Urbanist Jan Gehl's 90th Birthday with a Calendar of Activities and an Exhibition archdaily.com",
@@ -1669,6 +2162,27 @@
   ],
   "tags": [
    "Road Safety"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Cruise nights roll into Corowa",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vMnh6UG5oZGhCUTNxdFMtVXZWYl9fYzRuS1BNNks4TWYzc1JjOEJldUVYX2YtUGtaUW1xZ0ZXZFJUY1otWHFlMUh6amRrRi0xNFI1VXNXdjZFQmFaaTFIaUhMOFRoOFNhanlQNzZ1eEdLTGFtQl82TFBpRQ?oc=5",
+  "summary": "Cruise nights roll into Corowa Corowa Free Press",
+  "published": "2026-09-28T20:00:00+00:00",
+  "first_seen": "2026-10-01T08:18:40+00:00",
+  "source": "Corowa Free Press",
+  "found_via": "Google News - High streets",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.corowafreepress.com.au",
+  "google_news": true,
+  "search_tags": [
+   "High Streets"
+  ],
+  "tags": [
+   "High Streets"
   ],
   "regions": []
  },
@@ -2178,6 +2692,25 @@
    "Public Transport"
   ],
   "regions": []
+ },
+ {
+  "title": "Gallery of XII Ibero-American Biennial of Architecture and Urbanism Announces 29 Award-Winning Projects - 1",
+  "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxQSzg1b0tJZ1BOMXBHZFQyWmh0VUJmeUk2MTlENGRWcURGM0FIRWVpZ080dlMyNnd0aDI1eVRWTWloNUw1WVg0OVRiZnlDaU81YktTbUtpMjZnSGMtZElwcEJoRE5yd3ZSTXFxUnhHZVlzYlVMNjVKa0VfbEhWTUwwZGExczBFU0R3UnVkdnlOWl8xeDlMNFZJVmctRFNDQUNuM1FJYWlVbXRYVGhXdW1ZTTJKVmtLOEw0WlBBYkdHX0RNLW9FVHE5UFhGNzRHcndJdVM4UVBPN1FPSThUakYyQXFjclZWellFemxRMG93bmx6cl9LMHpZcUYwMm5kUnZHUGNBMk5YOEtkWWVGZVBHbllRM1NtY0JadzZoaGNhdUdPbXI5QVlVaXdrWVAyRWk3aEljeDhsV01OSkkyUkJ3dW55QVY0ejdPbVFnU3hmSWRpTlYzOWJleFBxb3JHQXRuU2hhdEFMWV9EbVVlY19sSXR0NExnWktiUzVfU0JtcmtzV1BVZ0hmR1BZQ1l4aVk4S1Z5UjZBNjFtRWh4dldrRg?oc=5",
+  "summary": "Gallery of XII Ibero-American Biennial of Architecture and Urbanism Announces 29 Award-Winning Projects - 1 ArchDaily",
+  "published": "2026-09-27T21:39:25+00:00",
+  "first_seen": "2026-10-01T08:18:47+00:00",
+  "source": "ArchDaily",
+  "found_via": "Google News - Urbanism",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.archdaily.com",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [],
+  "regions": [
+   "International"
+  ]
  },
  {
   "title": "Marrinawi Cove upgrade to create 380sqm of new public space",
