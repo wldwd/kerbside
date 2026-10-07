@@ -1,5 +1,279 @@
 [
  {
+  "title": "Is a waterfront city stadium actually on the cards for Canberra?",
+  "link": "https://www.abc.net.au/news/2026-10-07/canberra-city-stadium-proposal-explained/107239558",
+  "summary": "A new proposal would place a stadium near the next stage of light rail and within walking distance of the capital's nightlife.",
+  "published": "2026-10-07T07:18:40+00:00",
+  "first_seen": "2026-10-07T08:08:49+00:00",
+  "source": "ABC News ACT",
+  "found_via": "ABC News ACT",
+  "source_type": "News",
+  "filter": true,
+  "fixed_region": "ACT",
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Walking",
+   "Public Transport"
+  ],
+  "regions": [
+   "ACT"
+  ]
+ },
+ {
+  "title": "Airport promises active transport development",
+  "link": "https://bicyclenetwork.com.au/newsroom/2026/10/07/airport-promises-active-transport-development/",
+  "summary": "Melbourne Airport has unveiled a new draft 2027 Master Plan for the next 20 years, with active transport playing an important role. The post Airport promises active transport development appeared first on Bicycle Network .",
+  "published": "2026-10-07T06:24:28+00:00",
+  "first_seen": "2026-10-07T08:08:56+00:00",
+  "source": "Bicycle Network",
+  "found_via": "Bicycle Network",
+  "source_type": "Advocacy",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Cycling"
+  ],
+  "regions": [
+   "VIC"
+  ]
+ },
+ {
+  "title": "Watch: Moment shop destroyed by stolen car in brazen robbery",
+  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTHF3U1gxN3lLTktQMGZKNzEzUlkwVEQxRjdXanVSSnpaYlFGc21DbzJOZmlfM3hVcm1OeEt1Q3Zuam1UUklsVmIyN2pCWllnWXNoQ1ZCYld4TkxsMklMOGxLTFJDM3hSeWtjT2dHYk5WOEhpeG1FcnRpWkp1VUQxT0FVM3hscE5PNEloUXJvaDBhcl85VWw3OVN2VzU3RHlVTTVhaGxnTEJsQ2twVHk4VTRIaDQ4dDlfVVU4VnZpWGxodHZBRXhWM0pzTmNfeWNDTXdNT2pwcExKZzM2MFFLLXdMZjYxUXhyRkc0d1dVU3JMc3hwMEFVU0FqV0JXeWs?oc=5",
+  "summary": "Watch: Moment shop destroyed by stolen car in brazen robbery Adelaide Now",
+  "published": "2026-10-07T02:59:38+00:00",
+  "first_seen": "2026-10-07T08:09:09+00:00",
+  "source": "Adelaide Now",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.adelaidenow.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Micromobility"
+  ],
+  "regions": [
+   "SA"
+  ]
+ },
+ {
+  "title": "Landowner pushes back against opposition to Goolwa's first McDonald's",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTnNtZVkxMzFrU1ZqNWNDVkZRS3ZVRFBxOEIzZjY0aE56X0FOOFlIR25BYkcwRHAwRFNrd1V0emgxdTNTMXJvRWVDRnpWRkNLamVyWlBvVVFwUVFvNkpfMVhiU0RnUy05RExGblVVeWJGN1RiYVdlU19IaEt1ekFRaWxkOHcwbWtBYUgwZTlxV0sxUDdSSVJ3Z3dJU1EyR3FhTDFBcERn?oc=5",
+  "summary": "Landowner pushes back against opposition to Goolwa's first McDonald's ABC News & Headlines – Australian Broadcasting Corporation",
+  "published": "2026-10-07T01:38:41+00:00",
+  "first_seen": "2026-10-07T08:09:14+00:00",
+  "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+  "found_via": "Google News - Planning",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.abc.net.au",
+  "google_news": true,
+  "search_tags": [
+   "Planning"
+  ],
+  "tags": [
+   "Planning"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Crushing reality of illegal e-bikes",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQkZQRVZSaHlrTWRtdEtoZC1qOVJoQTVfWFFlMTlKWHRadktfUnBraF9ibWsxSkdGUGZpR0RNOF9SUHROckRtRmxFR2NCVks4Q25BVWZKdlVBMjh4Q2lYOGRTTS1WaVVtaFpTajNNaWdNX0otWmM5UUFiQUhlNlhzaUd3?oc=5",
+  "summary": "Crushing reality of illegal e-bikes Dungog Shire News Of The Area",
+  "published": "2026-10-07T01:36:33+00:00",
+  "first_seen": "2026-10-07T08:09:09+00:00",
+  "source": "Dungog Shire News Of The Area",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://dungogshire.newsofthearea.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Shire Letters: Please regulate e-bikes; Impressive students; A wonderful teacher",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGVjTmo3dkFHRlltbXIxZ0FhLW1Ual9ZR1UzSk53dVN1NjVRblJ6Zjd5NWNLVnBpcmRMUGVfUmo4VGkyX0lhcmkxM0NBZnlVbE5CWkJrQzlRTEloNnJpSVQ2NnYzTXJocUhwYVJjcDctOWhZckdTQ3V5ZF9FVHhsbWNSSXZCME5VcDdveUdUTlpMSlVBNExsXzVZelBUS0N3Wkl3VUxzd1Q?oc=5",
+  "summary": "Shire Letters: Please regulate e-bikes; Impressive students; A wonderful teacher St George & Sutherland Shire Leader",
+  "published": "2026-10-07T00:57:58+00:00",
+  "first_seen": "2026-10-07T08:09:09+00:00",
+  "source": "St George & Sutherland Shire Leader",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theleader.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Half way through the Gimme 5! Roadshow",
+  "link": "https://bicyclenetwork.com.au/newsroom/2026/10/07/half-way-through-the-gimme-5-roadshow/",
+  "summary": "Bicycle Network’s Gimme 5! campaign has taken to the streets, and bike paths, over the past five weeks with CEO Alison McCormack touring the state for the Gimme 5! Roadshow. The post Half way through the Gimme 5! Roadshow appeared first on Bicycle Network .",
+  "published": "2026-10-07T00:48:27+00:00",
+  "first_seen": "2026-10-07T08:08:56+00:00",
+  "source": "Bicycle Network",
+  "found_via": "Bicycle Network",
+  "source_type": "Advocacy",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Cycling"
+  ],
+  "regions": []
+ },
+ {
+  "title": "SA: New elevated sections complete Adelaide’s Mike Turtur Bikeway",
+  "link": "https://bicyclenetwork.com.au/newsroom/2026/10/07/sa-new-elevated-sections-complete-adelaides-mike-turtur-bikeway/",
+  "summary": "The new elevated paths over Marion Road, Cross Road and Morphett Road complete a major upgrade to one of Adelaide’s key active transport routes. The post SA: New elevated sections complete Adelaide’s Mike Turtur Bikeway appeared first on Bicycle Network .",
+  "published": "2026-10-07T00:45:51+00:00",
+  "first_seen": "2026-10-07T08:08:56+00:00",
+  "source": "Bicycle Network",
+  "found_via": "Bicycle Network",
+  "source_type": "Advocacy",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Cycling"
+  ],
+  "regions": [
+   "SA"
+  ]
+ },
+ {
+  "title": "QLD: Racks for 500 bikes and minimal parking at new high-rise development",
+  "link": "https://bicyclenetwork.com.au/newsroom/2026/10/07/qld-racks-for-500-bikes-and-minimal-parking-at-new-high-rise-development/",
+  "summary": "Brisbane City Council has approved a major high-rise development with no residential car parks but around 500 bike parking spaces. The post QLD: Racks for 500 bikes and minimal parking at new high-rise development appeared first on Bicycle Network .",
+  "published": "2026-10-07T00:40:24+00:00",
+  "first_seen": "2026-10-07T08:08:56+00:00",
+  "source": "Bicycle Network",
+  "found_via": "Bicycle Network",
+  "source_type": "Advocacy",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [
+   "Parking"
+  ],
+  "tags": [
+   "Cycling",
+   "Parking"
+  ],
+  "regions": [
+   "QLD"
+  ]
+ },
+ {
+  "title": "Win A Bike: Latest member magazine out now",
+  "link": "https://bicyclenetwork.com.au/newsroom/2026/10/07/win-a-bike-latest-member-magazine-out-now/",
+  "summary": "To celebrate the latest edition of Ride On magazine, Bicycle Network and DAHON are offering supporters the opportunity to win a bike - enter here. The post Win A Bike: Latest member magazine out now appeared first on Bicycle Network .",
+  "published": "2026-10-07T00:34:20+00:00",
+  "first_seen": "2026-10-07T08:08:56+00:00",
+  "source": "Bicycle Network",
+  "found_via": "Bicycle Network",
+  "source_type": "Advocacy",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Cycling"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Candidate responses have rolled in",
+  "link": "https://bicyclenetwork.com.au/newsroom/2026/10/07/candidate-responses-have-rolled-in/",
+  "summary": "We’ve had a great response from candidates in the local government elections to our three questions about their support for cycling. The post Candidate responses have rolled in appeared first on Bicycle Network .",
+  "published": "2026-10-07T00:28:53+00:00",
+  "first_seen": "2026-10-07T08:08:56+00:00",
+  "source": "Bicycle Network",
+  "found_via": "Bicycle Network",
+  "source_type": "Advocacy",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Cycling"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Beating petrol price rises with pedal power",
+  "link": "https://bicyclenetwork.com.au/newsroom/2026/10/07/beating-petrol-price-rises-with-pedal-power/",
+  "summary": "Ride2Work Day is coming up on Wednesday 14 October and what better time to give cycle commuting a go and save some money on petrol and parking costs? The post Beating petrol price rises with pedal power appeared first on Bicycle Network .",
+  "published": "2026-10-07T00:19:56+00:00",
+  "first_seen": "2026-10-07T08:08:56+00:00",
+  "source": "Bicycle Network",
+  "found_via": "Bicycle Network",
+  "source_type": "Advocacy",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Cycling",
+   "Parking"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Your Guide To Securing Pre-Sale Tickets To Laneway Festival 2027",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTl9tY1gwRGg0anJjcTFleWdCdTdHZXlzOWs5X0RHbGhIcmt4cGdWU3ROQVJtTFVWNW9iZ2V1ZUJ4Tmhlb0RZNUlJWlhpVGNzTTdzUUl4QS05bFNPWE9Ibk11MW9iWDNzYnlLNUZob2lFU3VBUEEzWnFieWVIcldIUmE0NzFDMUtyeXdzWEVOaEhHLUhuNlZLT054M2NRc2NJM3lr?oc=5",
+  "summary": "Your Guide To Securing Pre-Sale Tickets To Laneway Festival 2027 Marie Claire",
+  "published": "2026-10-06T23:38:37+00:00",
+  "first_seen": "2026-10-07T08:09:12+00:00",
+  "source": "Marie Claire",
+  "found_via": "Google News - Public space",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.marieclaire.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Space"
+  ],
+  "tags": [
+   "Public Space"
+  ],
+  "regions": []
+ },
+ {
   "title": "Help shape the future of Her Ride",
   "link": "https://bq.org.au/news/help-shape-the-future-of-her-ride/",
   "summary": "Bicycle Queensland wants to hear from women across Queensland who have taken part in Her Ride, as well as women who are interested in riding more, building their skills or getting involved in women-focused riding programs. We’re reviewing Her Ride and looking at how the program can continue to…",
@@ -42,6 +316,27 @@
   "regions": []
  },
  {
+  "title": "Your Complete Guide To Securing Laneway Festival Pre-Sale Tickets Today",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNem9VWjJHeDdQcnVLR3I0c2JLUWpaeVFMdExYQUk2MmFtUWduNmZlTW1MVms2emVVVmFUbGs0ZG52dHN2Vmo4SFB0Q2U0bWExZ3kxNTBWSzVwU1FKanpOYXFhQzV0cHI4bEJpbWNvN2p1N2pXcmh0anRGUS1rd014TjNBN1BuOGYw?oc=5",
+  "summary": "Your Complete Guide To Securing Laneway Festival Pre-Sale Tickets Today ELLE Australia",
+  "published": "2026-10-06T22:55:30+00:00",
+  "first_seen": "2026-10-07T08:09:12+00:00",
+  "source": "ELLE Australia",
+  "found_via": "Google News - Public space",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.elle.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Space"
+  ],
+  "tags": [
+   "Public Space"
+  ],
+  "regions": []
+ },
+ {
   "title": "OpenAI probed about Firmus’ alleged work on data centre without planning approval",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUWdJQkljamVuZG9FS3NyUmxLOWJrOWM0a3ZCd0gybU5FY1YwMTBkMEJFRXBrVUtrUXNWcFlXeDlqLXZxNEJHNmlwWVRHcUNwYnVKRkRPWXY0aUViY21xMmFCQnpJRXdnN24yeGNMMU96ekVrOURJZTJ0QnJqTWw1VnAxVUUzQnY3ZlQ5UTcyczJMelM1UE9JVWI2OU9paEtlcEFr?oc=5",
   "summary": "OpenAI probed about Firmus’ alleged work on data centre without planning approval Lawyerly",
@@ -61,6 +356,28 @@
    "Planning"
   ],
   "regions": []
+ },
+ {
+  "title": "Zahilay Proposes Advancing RapidRide R Funding to Spur Bus Upgrades",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeWtPNFJ4WjI2cDVQaVQ0QUExYmlxYUxnYnhiRTVzU2dxMmdCMHpFbFhHV184WFR2Z0kwbC1WNlV0RzJGcVd1YjlUUVdIdGRqc0x3and0emRDYjk0VUZHU2x5NXo0T3ltTEJrNjhNeXNqZnJ4Q2t5QXBiY1lMTTJKNURfWDdCZWI2Nklnb2I0UQ?oc=5",
+  "summary": "Zahilay Proposes Advancing RapidRide R Funding to Spur Bus Upgrades The Urbanist",
+  "published": "2026-10-06T22:24:56+00:00",
+  "first_seen": "2026-10-07T08:09:20+00:00",
+  "source": "The Urbanist",
+  "found_via": "Google News - Urbanism",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theurbanist.org",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [
+   "Public Transport",
+   "Funding"
+  ],
+  "regions": [
+   "International"
+  ]
  },
  {
   "title": "Woden light rail plans change after feedback",
