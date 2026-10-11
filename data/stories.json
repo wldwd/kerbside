@@ -1,5 +1,225 @@
 [
  {
+  "title": "Tap and go expands to concession card holders",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ0pQRVZqMlVUU0xvczU2b3l3ejFmRWkzQU1IYXZGS0dpRWZSSmxCeGxZalJKdXpXM2FsOE9CUnFQMHlzeWFQeV9xblNpOVhfemEtdlpheDZCM3NmUnFoOUhpZ3F4N1hvQXlKM3p6Z1M2NWpHcFdnaGxJN0c1dlJSUzM4cTAyWjROMWFVZk93?oc=5",
+  "summary": "Tap and go expands to concession card holders Wyndham | Star Weekly",
+  "published": "2026-10-11T22:36:33+00:00",
+  "first_seen": "2026-10-11T23:27:36+00:00",
+  "source": "Wyndham | Star Weekly",
+  "found_via": "Google News - Public transport",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://wyndham.starweekly.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Transport"
+  ],
+  "tags": [
+   "Public Transport"
+  ],
+  "regions": []
+ },
+ {
+  "title": "ITS Monday: Edition 33, 2026",
+  "link": "https://imoveaustralia.com/its-monday/12-october-2026/",
+  "summary": "Included this week, distance=based charging, when will we see driverless cars on AUS roads, autonomous bus trial, and increased electric bus fleet. The post ITS Monday: Edition 33, 2026 appeared first on iMOVE Australia Cooperative Research Centre | Transport R&D .",
+  "published": "2026-10-11T22:28:21+00:00",
+  "first_seen": "2026-10-11T23:27:33+00:00",
+  "source": "iMOVE",
+  "found_via": "iMOVE",
+  "source_type": "Research",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Public Transport",
+   "Research"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Teenager charged after pedestrian hit by car on Melbourne street",
+  "link": "https://www.watoday.com.au/national/teenager-charged-after-pedestrian-hit-by-car-on-melbourne-street-20261012-p614mh.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+  "summary": "A teenager has been charged after a woman was hit by a car near Flinders Street in the middle of Melbourne.",
+  "published": "2026-10-11T21:09:19+00:00",
+  "first_seen": "2026-10-11T23:26:40+00:00",
+  "source": "WAtoday",
+  "found_via": "WAtoday",
+  "source_type": "News",
+  "filter": true,
+  "fixed_region": "WA",
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Walking"
+  ],
+  "regions": [
+   "WA",
+   "VIC"
+  ]
+ },
+ {
+  "title": "Victorian concession holders can tap on with bank cards from 13 October",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1N6WlR4WDF6TmlBaG8zM1IwN3I5LWxNMmJTNTNwTzQwNXpSTlJLbS1VU1pESnlMUkEyWXFHV1hFWXFjZ0s2a0ZDcExyUFhSdlJaQU1UMzdFblFtc1p0djhiMi15QU9UdnNkb1A3Qjc1Ui14bVl4cG00MVROa2xXdDVXSXAzMFUyZnR6dzZDQ1UzWUU1ZklmV0xyQWc2UkpadTdwOWVmYWExMERqaUhmUmE3dWI3dw?oc=5",
+  "summary": "Victorian concession holders can tap on with bank cards from 13 October The Indian Sun",
+  "published": "2026-10-11T21:00:15+00:00",
+  "first_seen": "2026-10-11T23:27:36+00:00",
+  "source": "The Indian Sun",
+  "found_via": "Google News - Public transport",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theindiansun.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Transport"
+  ],
+  "tags": [
+   "Public Transport"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Sutherland Shire Council weighs new fees for shared e-bikes",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbXppVXNJQUxjcEpzVnp3d2t1X1Y4WENkcjYwb0F2Z3FiODRXTkk3dTNDeFUyeWxtQWFhOVdZOHplRVVOMVV2LWVOQmxoVmRjTTVHS3UwcDJYdzZFbVlTNW1jVkZEZ2Y1NGVVZV9HSlc1OExZalpwZUVrenUxT0F2andTd2t1ZXRTd1F2ZkgyUTRjNGpYTGY3QVZNZHpPMkRxcGc?oc=5",
+  "summary": "Sutherland Shire Council weighs new fees for shared e-bikes St George & Sutherland Shire Leader",
+  "published": "2026-10-11T19:20:51+00:00",
+  "first_seen": "2026-10-11T23:27:35+00:00",
+  "source": "St George & Sutherland Shire Leader",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theleader.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Zucco promises to tear up Collins Street bike lane in Hobart",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGhIdno0RElLQ3d3d19QSkdDSHVjanN2bXRDOXFyUENjVXQyd2cyME14RHdXS05RWnJ5REZkOHM0Vk5wSHQ1LTVoLUZ1clBaa19IM2p5RGNmNmNMSUpTWW5oWnhoUk10dEVBUDVQa2J4OEtDeTFKcHA2NDlfWXBjV3VjYWlRWHRRLUhNMk9EOUUzNmdoQUJ4U0lyNA?oc=5",
+  "summary": "Zucco promises to tear up Collins Street bike lane in Hobart Pulse Tasmania",
+  "published": "2026-10-11T18:00:00+00:00",
+  "first_seen": "2026-10-11T23:27:35+00:00",
+  "source": "Pulse Tasmania",
+  "found_via": "Google News - Cycling",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://pulsetasmania.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Cycling"
+  ],
+  "tags": [
+   "Cycling"
+  ],
+  "regions": [
+   "TAS"
+  ]
+ },
+ {
+  "title": "Hot & treeless: Flawed development policies cooking suburbs",
+  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTHZmbTdJd2JEVTYzM3NUZFBCMXM0Z1FMUFlfbUJaQlpYaXR2cGp4ZGlQUHhSWXJXRy1DRnN6Uno2WnBEUHRDbzdROWc0OWduZDZYcm5uMG1wcy1MV3Jra2VjclZDMVNSLWYyc1BTeGlQSFpNUjJ1N1ZmOXoyV3lmZ09UcFhaNWVvRHd4WG01ckhOSGEyZmVKZ0NjMjdrVGZlZkViWnJvRkl3LVBxdkxoWmJ5SVE3dXdXVzBVNmkxZXIyU3JNQlh0a0pTWnBZcVZxTmowUEFUbjBnZUJjTmJTMzhLanA4VEx2ZVdGNWRR?oc=5",
+  "summary": "Hot & treeless: Flawed development policies cooking suburbs The West Australian",
+  "published": "2026-10-11T18:00:00+00:00",
+  "first_seen": "2026-10-11T23:27:41+00:00",
+  "source": "The West Australian",
+  "found_via": "Google News - Greening",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://thewest.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Greening"
+  ],
+  "tags": [
+   "Greening"
+  ],
+  "regions": [
+   "WA"
+  ]
+ },
+ {
+  "title": "Liverpool City Council secures planning approval for Carnes Hill Aquatic and Recreation Centre",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN0lvd0wyMjlZNlZIR0pOZmNYc1BoT2Z1elhmOXNuQUR6M1pYTzRvcDVYNWpZZEVYbVgzU2UtLWVwdXZVMWtjaXp1d0ZMTDFJc3hZRFI1VGpoU3QxUExZNGVibmwzSG5DZFlUSG9zY1VVQmFwWUNzYnZMekU5SWxFSHJxcHZNeHNjOHNtNmd6NzJ4MTZZOFN2RE1RbXBnLVlzTm5UOTY0S3A5eGY5YmJ0aE9SV0VrM1VsMnV2Sl9hTGpqZWUtWWNUcA?oc=5",
+  "summary": "Liverpool City Council secures planning approval for Carnes Hill Aquatic and Recreation Centre Australasian Leisure Management Magazine",
+  "published": "2026-10-11T14:10:06+00:00",
+  "first_seen": "2026-10-11T23:27:42+00:00",
+  "source": "Australasian Leisure Management Magazine",
+  "found_via": "Google News - Planning",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.ausleisure.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Planning"
+  ],
+  "tags": [
+   "Planning"
+  ],
+  "regions": []
+ },
+ {
+  "title": "E-bike sex pests wanted after alleged attacks on Sydney women",
+  "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQXRkSEVNLWVnSm9HOE5xUENnSmdNdENxX3hSclN6dUVXa0FqQ2ExZnkxdTg2ZVJ4Y0JrXzVBbXFrcl90NEpPNjRRejQzVHpsMlhHNHFiV1lSYXllT09DUUgzVGkyVFNtZHRkV0pqSkFRY1lmWGxObVdDSy0yUFBRUFpVMDlsczNiWm9HZU05QjBudDI4Z0w5Wlk0V2JLVTZfMHU5OGs5NU5BQXdQclJmQ2hCZzhZM3RmU0xTd3ZnVUhrYXQyVkhkX0tjMlJwZzVtcHg3aWgwVTNZWGViYVJGa29Nd2hYaFV3Tzl0eEhiWUdzX3lialNweEZZTXhyZ1NDeUcxbnRNOWN1MHFSSTVaWQ?oc=5",
+  "summary": "E-bike sex pests wanted after alleged attacks on Sydney women The Daily Telegraph",
+  "published": "2026-10-11T13:04:28+00:00",
+  "first_seen": "2026-10-11T23:27:35+00:00",
+  "source": "The Daily Telegraph",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.dailytelegraph.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "Serious injuries as car crashes into pedestrians in Shearwater",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVnI0U0FpdTlqc3U4SmlVbk1oZnZOZTRmV3l4ZExlZUJXVjZfUDRmakRWVUU0TkEyYzYxdnl2Q2NzQjEwNlQwdFpvajdOVnpfQkVxVnp1R3RjekpoVFJHUTY0YTJwMGZGTWR6MlE3ZDZ4WjVTQUtOc1Y3dTg3eU1FV3RyUVB6bE1TTlkyVTZqek1XVlRoUU50S2dEOUJidw?oc=5",
+  "summary": "Serious injuries as car crashes into pedestrians in Shearwater Pulse Tasmania",
+  "published": "2026-10-11T10:16:03+00:00",
+  "first_seen": "2026-10-11T23:27:34+00:00",
+  "source": "Pulse Tasmania",
+  "found_via": "Google News - Walking",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://pulsetasmania.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Walking"
+  ],
+  "tags": [
+   "Walking"
+  ],
+  "regions": [
+   "TAS"
+  ]
+ },
+ {
   "title": "E-bike crash at North Narrabeen",
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOTREYTh6VldsaTBzckpJXzB4OHNhTVU4aEl0NElIb0t4S3JyRWxGR29CM0FicExJYmJMQnZEd2ZzWS10TlR6eFotU3o5aGNzbjdRcTVVaFpZbXpLNG1pd0F5dlN5XzRVdUxNNmNFOTF5WVV2R3Y3TnVVMThmWFJMS2lvd0tPYU8tZ3dEYmotVQ?oc=5",
   "summary": "E-bike crash at North Narrabeen Northern Beaches Advocate",
@@ -101,6 +321,29 @@
   "search_tags": [],
   "tags": [],
   "regions": []
+ },
+ {
+  "title": "After Lyn moved to a restricted licence in her 80s, her world got smaller – and lonelier",
+  "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPa1JjX0s0SklRZUVrSTVwY1dTYk5scmU2dmxDdDl4Nm9PMDlkZkh2NDJjNWlNNmlQYWFwRHFieDNKd25ZdFc3aV9aNzBZVHJQMVZkaHd4dzAtNmlLUXJNUThQUnRBd0M0WUVaZlBaeENKZTQ3X1VONm84US1CSjJiOTVIQUY5S0kzRHNrVUZFN0pfYW42T3ZUOU5TYWN3TFN3bmxzRTcyMWF2Z1BBY2FKWFlXYV9vZXpQSEJZTUpSandvY0RjQURTM1A5aTFaWkI1NU5hUmFGUERPUjUtQnYwdFlCdk1MZ0hkLTVMcHNWVGgtbEVS?oc=5",
+  "summary": "After Lyn moved to a restricted licence in her 80s, her world got smaller – and lonelier SMH.com.au",
+  "published": "2026-10-10T21:50:08+00:00",
+  "first_seen": "2026-10-11T23:27:36+00:00",
+  "source": "SMH.com.au",
+  "found_via": "Google News - Public transport",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.smh.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Transport"
+  ],
+  "tags": [
+   "Public Transport"
+  ],
+  "regions": [
+   "NSW"
+  ]
  },
  {
   "title": "Planning under pressure to tackle rising heat risk",
@@ -5562,6 +5805,25 @@
   ],
   "regions": [
    "QLD"
+  ]
+ },
+ {
+  "title": "Seattle Permit Fees Get Another Hike Amid Development Slump",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTHhSazZuLVp6dm5Ia1VMVHhLcEc3Z2podjhMWVVyU0tNcm1WUmhwVEVhandUZkhlYXZHUGU5R2VDZC1KRFg0S3JIZzJ2THZ4WnAycGJTV2g1U2JmZWdrSGN0QUlYSWZ0NXJTNzFSOS1EZ1UyOXkxbHJtdFJvbmNmdURsMGpibFUwbF9GZG5taHMyZw?oc=5",
+  "summary": "Seattle Permit Fees Get Another Hike Amid Development Slump The Urbanist",
+  "published": "2026-10-01T07:00:00+00:00",
+  "first_seen": "2026-10-11T23:27:48+00:00",
+  "source": "The Urbanist",
+  "found_via": "Google News - Urbanism",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theurbanist.org",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [],
+  "regions": [
+   "International"
   ]
  },
  {
