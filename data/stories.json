@@ -1,5 +1,92 @@
 [
  {
+  "title": "VIDEO: Roll Model: Wheelchair journey for rural mental health",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcDh0cFJyOWdCUFFTSl93WVNRTXVUTFhtc1U1VjIzMV9vVGVacWhncDVyMjJBd2pYSXVjOGpwTEl1RzY0eE82TE5GaExtRTNsNXd4LTIxVHpzc2s1UHcxZnp0MnkzSlhrZTMzYzhXeUM0YndVcXBZMTFzeXdFVFJzTEhQZEptVHdFZ3JUdnExVGpFYk5iM2tFRTBwSmJSRU10Um56M3BxVTFyX0FBM3hyT1c3UTEzVFE1N1JCbXBFVlhGa1hY?oc=5",
+  "summary": "VIDEO: Roll Model: Wheelchair journey for rural mental health ABC News & Headlines – Australian Broadcasting Corporation",
+  "published": "2026-10-18T04:47:32+00:00",
+  "first_seen": "2026-10-18T06:57:53+00:00",
+  "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+  "found_via": "Google News - Accessibility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.abc.net.au",
+  "google_news": true,
+  "search_tags": [
+   "Accessibility"
+  ],
+  "tags": [
+   "Accessibility"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Labor pledges $30 toll cap as Coalition targets gas ban",
+  "link": "https://www.abc.net.au/news/2026-10-18/labor-pledges-road-toll-cap-coalition-gas-policy/107280500",
+  "summary": "Victoria's premier and opposition leader have announced duelling pledges on public transport fares and gas installations in the latest round of campaigning ahead of next month's state election.",
+  "published": "2026-10-18T04:37:04+00:00",
+  "first_seen": "2026-10-18T06:57:23+00:00",
+  "source": "ABC News VIC",
+  "found_via": "ABC News VIC",
+  "source_type": "News",
+  "filter": true,
+  "fixed_region": "VIC",
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Public Transport"
+  ],
+  "regions": [
+   "VIC"
+  ]
+ },
+ {
+  "title": "Good news, Wollongong: Plan to cut $16m funding scrapped",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGNvQXd5RWFaV1BxdVE1cE11TGpnbDlwTjBGX2daaEZJenllc2IyUDk3TWczS3lyNEcyYi1WRV9EaGNiWTFlTmJCMUVYU3VUSnQtTGtGam5XT0tienJGcmk1dkRBRFhMbWlVQmxha0tISVh3Nm1icGRBNUpfTFNDd194STBNLXRENGFyM1FDN2dJVDdRd0E?oc=5",
+  "summary": "Good news, Wollongong: Plan to cut $16m funding scrapped The Illawarra Flame",
+  "published": "2026-10-18T00:52:02+00:00",
+  "first_seen": "2026-10-18T06:57:52+00:00",
+  "source": "The Illawarra Flame",
+  "found_via": "Google News - Council finance",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theillawarraflame.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Council Finance"
+  ],
+  "tags": [
+   "Funding",
+   "Council Finance"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONTQ1c0hzeDBwN2NZbkpMTkZZdFRidTdPZndCRVRQNVliQzF2RWlKSDZVekJVVmc3RDZjUFA4cG1yUTFVdGdPS3RTdnRfS1ZIeURjeUZmb2tnYzAyQW52NnpkS0o0Wldlb1JIdFdCSHBzZkt1NEVBT2Z0MVlYMl9oa1k4VmdiaGZiUG5GN1hSVWdWLXNrX01May1RZkNlNkNwaENUYjlQTktZSFk1X0diRlg0ckd5YVlPYTRGUFM1MEVhVnZCVEN4WXQyX1NUQ1hYcy1VcU1B?oc=5",
+  "summary": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches The Guardian",
+  "published": "2026-10-17T23:53:00+00:00",
+  "first_seen": "2026-10-18T06:57:44+00:00",
+  "source": "The Guardian",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theguardian.com",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Micromobility"
+  ],
+  "regions": []
+ },
+ {
   "title": "Meet the first hijab-wearing non-verbal wheelchair basketballer",
   "link": "https://www.abc.net.au/news/2026-10-18/reema-el-qassem-wheelchair-basketball-sydney-uni-lions/107220160",
   "summary": "After spending 320 days in hospital, Reema El Qassem has risen to the top of her sport, showing anyone can play in the league.",
@@ -186,6 +273,27 @@
   "regions": [
    "NSW"
   ]
+ },
+ {
+  "title": "Kiama councillor demands transparency over Blue Haven’s future amid $51m maintenance bill",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONWJZSnhjMUU1MFRxOHhtam9JRHZ2Vy1BWV9LWEw4cllKTVJGRnZYRUdubENUNFRfT0ZpMXV5SWoyV09ZX3Jqd3N2azByeGZ5NGR1elpyLVM4c2xBaDg1OTJjb3ctcmY1cm8xN2xaR0RqNWpWT1ViRVR5b2RsOXNlSU53c0pUZ05TcXFhOC1URXR4N3E4U0hiUExyMXAtTTFnRWExYjBrN1ZNa0FReHFiY21jZ1o1bmRxM3plUUNnNzlFcFMyRWJDY2JSamlvZjFkMjdPUlRFRkU4MTZpVWJFZGVHQ3c?oc=5",
+  "summary": "Kiama councillor demands transparency over Blue Haven’s future amid $51m maintenance bill The Bugle app",
+  "published": "2026-10-17T06:50:27+00:00",
+  "first_seen": "2026-10-18T06:57:52+00:00",
+  "source": "The Bugle app",
+  "found_via": "Google News - Council finance",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://thebuglenews.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Council Finance"
+  ],
+  "tags": [
+   "Council Finance"
+  ],
+  "regions": []
  },
  {
   "title": "Call for e-bike riding sex pest victims to come forward",
@@ -1573,6 +1681,29 @@
   ]
  },
  {
+  "title": "Sydney Harbour Bridge Cycleway Ramp",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0VZakZXY3RMVGVHVWx3NTFNRU9VX2N6YUgyNzJJeFQwSzNkRVY0NW9jVThOZE1HMjlmUVlyZEw5ZXFnRXRXbjBIMmY4c1VxR21zVmN1TFdHOFdkV0JVLXZSdTd6Y2FZNXJ6Z2swS3dWdTZLTHdqZWRaZ0lTT2NBemlGQUVLWmNrbng1Ymo5Q0lTNWlTdTRqTmln?oc=5",
+  "summary": "Sydney Harbour Bridge Cycleway Ramp Transport for NSW",
+  "published": "2026-10-15T04:05:01+00:00",
+  "first_seen": "2026-10-18T06:57:43+00:00",
+  "source": "Transport for NSW",
+  "found_via": "Google News - Cycling",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.transport.nsw.gov.au",
+  "google_news": true,
+  "search_tags": [
+   "Cycling"
+  ],
+  "tags": [
+   "Cycling"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
   "title": "Adelaide laneway named in honour of hip hop pioneers Hilltop Hoods",
   "link": "https://www.abc.net.au/news/2026-10-15/hilltop-hoods-lane-mural-adelaide-cbd-hip-hop-group/107267102",
   "summary": "Hilltop Hoods put Australian hip hop on the map. Now, Adelaide is putting the trio on the street map with Hilltop Hoods Lane.",
@@ -2312,6 +2443,30 @@
    "Micromobility"
   ],
   "regions": []
+ },
+ {
+  "title": "Riding and walking across the Sydney Harbour Bridge",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOejM3ZjVzTTdZcWM3clJuUURKakhDc2VFUmlGbUp2TGxPVklyOHV6d3VFejFScHV4eEw2MWdPdjF6V2tReDdwUTB5amxhdTk3ZDVSSU0zRWRSdGRFN1dZWWh6WmdCU3YxN2pjRVdOTHlrVE10QlZHVnprdERJTFFiN1RtQmlyRlRkTU11MnNQbE1nR2pUZDdnVU9kV2gtWng0OVZ0cDVvUXZmUQ?oc=5",
+  "summary": "Riding and walking across the Sydney Harbour Bridge Transport for NSW",
+  "published": "2026-10-14T05:06:59+00:00",
+  "first_seen": "2026-10-18T06:57:43+00:00",
+  "source": "Transport for NSW",
+  "found_via": "Google News - Cycling",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.transport.nsw.gov.au",
+  "google_news": true,
+  "search_tags": [
+   "Cycling"
+  ],
+  "tags": [
+   "Walking",
+   "Cycling"
+  ],
+  "regions": [
+   "NSW"
+  ]
  },
  {
   "title": "Council responds to growing concerns over illegal e-scooter use",
