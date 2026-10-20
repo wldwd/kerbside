@@ -1,5 +1,268 @@
 [
  {
+  "title": "Teens on e-bike assaulted by car driver",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN280YlVCWmN2a182ZzRwZG9pRUJzbkRuaW9LemM0RFRGb2FfRzY5SW1DMHlXdkFXMTh1NUdRQ3Fpc3dTQUVDbnhGZVRhVXVFeFM0eTJyVDl0NC1yMDUtLXp6TWVQeUxwaXhZYXlabGtBbXhKTGRuYU1VSjRpeHNlcDFJbk92YXotOWg1a19GYjQxMnE0ZWtIS2xB?oc=5",
+  "summary": "Teens on e-bike assaulted by car driver Northern Beaches Advocate",
+  "published": "2026-10-20T05:50:58+00:00",
+  "first_seen": "2026-10-20T07:09:59+00:00",
+  "source": "Northern Beaches Advocate",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.northernbeachesadvocate.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": []
+ },
+ {
+  "title": "The missing middle ground of Australian politics",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc1dHVl94bWxwSkpCbDhyZGVDRmJvWUtLWG9oWC1BemFpekU0S214TnpDQ3hKT2VGb2xyei1GSlNvd0htY0tiM0ZIZXhNX2RjR1lwSlhDUHpDTWhwYnFTSjFoeWJBMWlpdGdDazRsdkJ2VzJxWjZqZWJLTGZ5OVIwUDNNdVMwbkxmNVZxQnpvUQ?oc=5",
+  "summary": "The missing middle ground of Australian politics The Spectator Australia",
+  "published": "2026-10-20T05:07:41+00:00",
+  "first_seen": "2026-10-20T07:10:06+00:00",
+  "source": "The Spectator Australia",
+  "found_via": "Google News - Housing",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.spectator.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Housing"
+  ],
+  "tags": [
+   "Housing"
+  ],
+  "regions": []
+ },
+ {
+  "title": "De Blasio on the need to end urban sprawl",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1c3YUJoMUxQLVlxaDA2a0NERmlRNmZNTE50WmZtM1JTdzFrVGltcURHSlpMZERteUhzeGNVbHlXc1hLc2pPZFU0Zm15eUdad0NBVWI3dTRoeFdZeDJicnpFRnJ1eHpsZENEclFBSEFPOXlnZnVLSk5CRVRVcTZvaTRCQk5oMENzd0dDaVhQRE44NFF0QXBvT0N2d19FcXFFc2RLdzl2Zl80UQ?oc=5",
+  "summary": "De Blasio on the need to end urban sprawl The Age",
+  "published": "2026-10-20T04:56:25+00:00",
+  "first_seen": "2026-10-20T07:10:07+00:00",
+  "source": "The Age",
+  "found_via": "Google News - Urban growth",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theage.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Urban Growth"
+  ],
+  "tags": [
+   "Urban Growth"
+  ],
+  "regions": [
+   "VIC"
+  ]
+ },
+ {
+  "title": "E-Scooter Stop Leads to Drug Charges",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbEN4c05CZEQyYkxBZEFmWE5UTXVRQV9MWjZpbVF2azJULXl6UVFIcFJxd2ljTHNsanJVNzV5ZkdtVE9vc3JKcWRGaWFmNnVoTHFEMGtZSnZkM0lMcWc4WEI0MFNKbF80RkdhdFIydHozREhBVklZcG9IZ0NaeWxoRlhRSEFHcmc?oc=5",
+  "summary": "E-Scooter Stop Leads to Drug Charges Western Australian Government",
+  "published": "2026-10-20T03:26:17+00:00",
+  "first_seen": "2026-10-20T07:09:59+00:00",
+  "source": "Western Australian Government",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.wa.gov.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Micromobility"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Brisbane council to embrace early morning culture with new dawn plan",
+  "link": "https://www.abc.net.au/news/2026-10-20/brisbane-council-dawn-economy-plan-for-early-risers/107287300",
+  "summary": "The council is encouraging residents to fill out a survey on their morning habits to help improve facilities and public transport options for early risers.",
+  "published": "2026-10-20T03:10:36+00:00",
+  "first_seen": "2026-10-20T07:09:35+00:00",
+  "source": "ABC News QLD",
+  "found_via": "ABC News QLD",
+  "source_type": "News",
+  "filter": true,
+  "fixed_region": "QLD",
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Public Transport",
+   "Research"
+  ],
+  "regions": [
+   "QLD"
+  ]
+ },
+ {
+  "title": "Wheelchair Football: Round 3",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc2FVanhTbHQxZDFFb1dGSC1kSnBBcW5kekw5bVlmQlhjbzd5aTR3Y093SHFFQ1plWmJRd2Z6VEtWTjlCNHZBYklBQTk3U284NGlKNzZfTEZpdEhBSUhtM0Z6RXZ1MEczMU50Y29RZEJKVV9JM1Y5Y1RBVHNXTkZlbzBHZjJQLTBXQ0pFeDhoeWJqODgyNElTZzYzaG9KYmJKcVZ3bDgxRkNlWWpWV2dZT2ZTVjE3QmNFd0hpcXdXWGpBVHpHVzZ2a0tPb0RJcDBqUFpmWQ?oc=5",
+  "summary": "Wheelchair Football: Round 3 westcoasteagles.com.au",
+  "published": "2026-10-20T02:53:22+00:00",
+  "first_seen": "2026-10-20T07:10:08+00:00",
+  "source": "westcoasteagles.com.au",
+  "found_via": "Google News - Accessibility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.westcoasteagles.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Accessibility"
+  ],
+  "tags": [
+   "Accessibility"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Riders scramble to ‘lock’ e-scooters to speed limits",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWFF4cXZIZ3ZFOXVTT1c4eUV3QmNOQWRnd0RRWE1KMEFZeGpVdHlKQTc2VkhBX1hTbDdscG4yaVdYZDhWLXgyN0RfZHJlSlFxcWhPUngyY3hqVDVkZ3l6OWhkZUJhZDRPQUtKbjkwS0FRNzRvVmhRUEhSYmFRMm9jRFRvTzhpZG9IUW8ybTVrWWFfTUNWV0lHRHYyUXJmajBoY1dBWTRQbk5zYS1lRUFfV05TNmtYU1o2R3ppY25nZUpTdw?oc=5",
+  "summary": "Riders scramble to ‘lock’ e-scooters to speed limits Brisbane Times",
+  "published": "2026-10-20T02:39:57+00:00",
+  "first_seen": "2026-10-20T07:09:59+00:00",
+  "source": "Brisbane Times",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.brisbanetimes.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Micromobility"
+  ],
+  "regions": [
+   "QLD"
+  ]
+ },
+ {
+  "title": "Adelaide laneway naming honours Hilltop Hoods",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFV6bF9FLXI2eVVETExNN2ZBYTRXQlhCTFJ6dUJDT1VfNHdtdVI3Z1pVWVZ1WTNnMlBJWENhSnNlUjFOOXE2c3BCLXg2UnQ2bkxjaUNRdXZBNEFGVUY0QjJPVXB4UjVoaS03MDBFTWF0R0YySEZqS3BFT3lERDVLR2oxQjg4VWpPQzk4?oc=5",
+  "summary": "Adelaide laneway naming honours Hilltop Hoods Inside Local Government",
+  "published": "2026-10-20T02:16:00+00:00",
+  "first_seen": "2026-10-20T07:10:02+00:00",
+  "source": "Inside Local Government",
+  "found_via": "Google News - Public space",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://insidelocalgovernment.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Space"
+  ],
+  "tags": [
+   "Public Space"
+  ],
+  "regions": [
+   "SA"
+  ]
+ },
+ {
+  "title": "Hit-and-run crash leaves cyclist dead in Perth's south",
+  "link": "https://www.abc.net.au/news/2026-10-20/hit-and-run-crash-leaves-cyclist-dead-in-bibra-lake-perth/107287372",
+  "summary": "A cyclist is dead and police are searching for the driver of the vehicle that struck him after an incident south of Perth on Tuesday morning.",
+  "published": "2026-10-20T02:04:52+00:00",
+  "first_seen": "2026-10-20T07:09:36+00:00",
+  "source": "ABC News WA",
+  "found_via": "ABC News WA",
+  "source_type": "News",
+  "filter": true,
+  "fixed_region": "WA",
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Cycling",
+   "Road Safety"
+  ],
+  "regions": [
+   "WA"
+  ]
+ },
+ {
+  "title": "Essay: AI urgently needs a speed limit",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51NTFodnhDbzFBNEl4Wnh6aENmNGc1eUdMdXk5VmJZRTNvQjc1WGZnUEtzbVRNc0k4Nk9aNzhtcHRSNmRYRElsSDhtRVUtQlc2NnU5QTZTdGtmdVFTWkItamhiYzVaU1djQ0lXU1A0OXN0M2p3cTNQS3NJX0VxejQ?oc=5",
+  "summary": "Essay: AI urgently needs a speed limit Sight Magazine",
+  "published": "2026-10-20T00:24:30+00:00",
+  "first_seen": "2026-10-20T07:10:00+00:00",
+  "source": "Sight Magazine",
+  "found_via": "Google News - Road safety",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://sightmagazine.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Road Safety"
+  ],
+  "tags": [
+   "Road Safety"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Driver pleads not guilty over crash that killed two Canberra cyclists",
+  "link": "https://www.abc.net.au/news/2026-10-20/driver-pleads-not-guilty-to-crash-that-killed-canberra-cyclists/107286104",
+  "summary": "The 40-year-old woman is facing charges over the deaths of cyclists Bridie Lee and Ryan Riethmuller, who were struck by a car on Canberra's Gunghalin Drive in August.",
+  "published": "2026-10-20T00:10:50+00:00",
+  "first_seen": "2026-10-20T07:09:36+00:00",
+  "source": "ABC News SA",
+  "found_via": "ABC News SA",
+  "source_type": "News",
+  "filter": true,
+  "fixed_region": "SA",
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Cycling",
+   "Road Safety"
+  ],
+  "regions": [
+   "SA",
+   "ACT"
+  ]
+ },
+ {
+  "title": "Response delivered to strengthen council financial sustainability",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd3Z3U3E2UDdwQUVTZXh6MHB6TTVkMENjdnNfajlCbjB4dTJqSGJ2dTVjVE9TVFZUTlVGTld4RWczYmg4VjJpTkZMZmM0Ulgyb1B5VG5BSTRlQ3ZtRUFZcjdzZF8wOEJJLXFNMDlDOTZzSEM5UDY4QmF2aGprOGxTcVRQbTF6ZTVGV2E3aVZCd1pIV2xJeDFlb0l6dnd6bUtYaFJz?oc=5",
+  "summary": "Response delivered to strengthen council financial sustainability The National Tribune",
+  "published": "2026-10-20T00:09:36+00:00",
+  "first_seen": "2026-10-20T07:10:07+00:00",
+  "source": "The National Tribune",
+  "found_via": "Google News - Council finance",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.nationaltribune.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Council Finance"
+  ],
+  "tags": [
+   "Council Finance"
+  ],
+  "regions": []
+ },
+ {
   "title": "Melbourne Assembly live: Ex-New York mayor, PM share visions to improve liveability",
   "link": "https://www.watoday.com.au/national/victoria/melbourne-assembly-live-ex-new-york-mayor-pm-share-visions-to-improve-liveability-20261020-p616sr.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
   "summary": "Follow live as shaping the city and innovation and education are in focus at The Age’s landmark civic forum.",
@@ -126,6 +389,48 @@
   "regions": [
    "NSW"
   ]
+ },
+ {
+  "title": "Public transport becomes Victorian election battleground",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83Y2U5eWRSOGJVWFZLSzY2ZHgyTU94S1pVVkl1SjVFNEZUNXFvaVZmUFlUd1VJNzR6RG1KcDA0a2c3TENuelA5bUpoZ0M4di1YMHctRFoyOXdaSXVfOWRiYW1NelRWb2F4M3VZa3ZTMl9xcWF6dlBaZGVn?oc=5",
+  "summary": "Public transport becomes Victorian election battleground Australasian Bus and Coach",
+  "published": "2026-10-19T20:25:09+00:00",
+  "first_seen": "2026-10-20T07:10:00+00:00",
+  "source": "Australasian Bus and Coach",
+  "found_via": "Google News - Public transport",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.busnews.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Transport"
+  ],
+  "tags": [
+   "Public Transport"
+  ],
+  "regions": []
+ },
+ {
+  "title": "British people react to Burnham's campaign against ‘headphone dodgers’ on public transport – video",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOFNqQjBLOUk0LWlVSzAxTkJIRUo0OVN1TjQzb1FpUFRScDlpaU54aU5rNkJqcEJTb0JiX2VXSjMyc3QyVGpUSi1tNEJKVk1zQVkzVVpYUXR5Y0VBZ1FHdWM5ZS0zQmdWVUpSa0lBWVA5R0RralQzd3RaM0NpZmNtejI4RFFqUHM3ZGYwdGFaN0d2SUdjMGJVMnpxSlUxN3dTZkQ5MVRsckNmS3VfVFpEY3VfTjlqVHM1VnVTeUc5MTAzeUFsMV9JUkRmcWItT0t0WXNaU3JFWlY5MnUzMWR4Mg?oc=5",
+  "summary": "British people react to Burnham's campaign against ‘headphone dodgers’ on public transport – video The Guardian",
+  "published": "2026-10-19T20:16:00+00:00",
+  "first_seen": "2026-10-20T07:10:00+00:00",
+  "source": "The Guardian",
+  "found_via": "Google News - Public transport",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theguardian.com",
+  "google_news": true,
+  "search_tags": [
+   "Public Transport"
+  ],
+  "tags": [
+   "Public Transport"
+  ],
+  "regions": []
  },
  {
   "title": "The ‘missing middle’ of the female talent pipeline",
@@ -2345,10 +2650,12 @@
   "publisher_site": "https://www.tac.vic.gov.au",
   "google_news": true,
   "search_tags": [
-   "Walking"
+   "Walking",
+   "Road Safety"
   ],
   "tags": [
-   "Walking"
+   "Walking",
+   "Road Safety"
   ],
   "regions": []
  },
