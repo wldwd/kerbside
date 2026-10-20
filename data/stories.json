@@ -1,5 +1,75 @@
 [
  {
+  "title": "Haul road safety recommendations follow close call",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTlRmcWl4dXB6R3k3eW9yNTFLTEoyYzZEaWdiZHRvWHd1dEw5UEJOdmVxaU4yVUZzVlhWbzlOYUZuUS1wWllQcWdrZl91NTB2a1dmZ1Qyc3k5VGRSdW1ydFhnUl95RXVyYWVYck56Ml9EekhWNUVKX0RuaDdNU0h0YlVpYw?oc=5",
+  "summary": "Haul road safety recommendations follow close call Safe To Work",
+  "published": "2026-10-20T10:13:10+00:00",
+  "first_seen": "2026-10-20T13:20:17+00:00",
+  "source": "Safe To Work",
+  "found_via": "Google News - Road safety",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://safetowork.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Road Safety"
+  ],
+  "tags": [
+   "Road Safety"
+  ],
+  "regions": []
+ },
+ {
+  "title": "‘As tall as you can go’: The NYC-style density plan for Melbourne’s future",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORjF5MVVxTG1FMnZEdW1IazFqLXoyR3JnZVRVQ0NhR3ZXU2QzMWVhZDFURHJlR25qOUxmMENzdkNZdU1yMVlZYmV0MTBvZUpMZXlfaVNvRlluV3FMOWhLRFhBUDJFbmh5RWxlLVNvRi1YaVM4UXRUelU5Yy1vZ2dQMXB4ZnNGRlk2ZnB0RDJnUGFDNnZtVXU4T21YbzA5VS1HQWtNMjcwNjJvZV9DaTVmRDNOZElTT29SWGhzMGwxUjFyS0xIYnFiYmI4WVc0UQ?oc=5",
+  "summary": "‘As tall as you can go’: The NYC-style density plan for Melbourne’s future SMH.com.au",
+  "published": "2026-10-20T07:39:47+00:00",
+  "first_seen": "2026-10-20T13:20:24+00:00",
+  "source": "SMH.com.au",
+  "found_via": "Google News - Urban growth",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.smh.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Urban Growth"
+  ],
+  "tags": [
+   "Housing",
+   "Urban Growth"
+  ],
+  "regions": [
+   "NSW",
+   "VIC"
+  ]
+ },
+ {
+  "title": "Changes ahead for Queensland e-bike riders",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4aU12SmRHQzVMOGotaS1LWS1qNUtxUk1rT0RtY3lJNDExUlZ0ajloMXlTMktqbWRUeTZ3TUwyQmIxWE1LLWdJYWpTUjI3alhQRHByQ1RnaEprSjh5YkoyZ3VETUpkS2lQajdXLUpRQzFQWWYwWlI4?oc=5",
+  "summary": "Changes ahead for Queensland e-bike riders westender.com.au",
+  "published": "2026-10-20T07:24:45+00:00",
+  "first_seen": "2026-10-20T13:20:16+00:00",
+  "source": "westender.com.au",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://westender.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": [
+   "QLD"
+  ]
+ },
+ {
   "title": "Teens on e-bike assaulted by car driver",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN280YlVCWmN2a182ZzRwZG9pRUJzbkRuaW9LemM0RFRGb2FfRzY5SW1DMHlXdkFXMTh1NUdRQ3Fpc3dTQUVDbnhGZVRhVXVFeFM0eTJyVDl0NC1yMDUtLXp6TWVQeUxwaXhZYXlabGtBbXhKTGRuYU1VSjRpeHNlcDFJbk92YXotOWg1a19GYjQxMnE0ZWtIS2xB?oc=5",
   "summary": "Teens on e-bike assaulted by car driver Northern Beaches Advocate",
@@ -18,6 +88,27 @@
   "tags": [
    "Cycling",
    "Micromobility"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Students hear road safety message",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVUV9xVk1raV8xdWh0ZDJQM3ZLR1JJQkZRc09NeEZSY2t4QXFLSnhXSkkyS1lRVEF5cEliaFFDdjIxLUV3Yy1jQ3duTmhCck1IdFVtMkUtN2xpb253eFU2djFzb0xSUWY5T3c?oc=5",
+  "summary": "Students hear road safety message Yorke Peninsula Country Times",
+  "published": "2026-10-20T05:32:42+00:00",
+  "first_seen": "2026-10-20T13:20:17+00:00",
+  "source": "Yorke Peninsula Country Times",
+  "found_via": "Google News - Road safety",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.ypct.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Road Safety"
+  ],
+  "tags": [
+   "Road Safety"
   ],
   "regions": []
  },
@@ -107,6 +198,27 @@
   "regions": [
    "QLD"
   ]
+ },
+ {
+  "title": "Public call for information put out by Katanning police after two suspicious scrub fires near town centre",
+  "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMTlBVXNuUWhsZE9DUEk1TGI4SG82Nm84UDctaWhvZHhlX2gwOFZ4dGt1eWhGZDNaWG5JWlczeHJhYlJBZDRWQnU0dDdpcl9qVzdrVVNMUFd6XzVfbTlPS2JEREhaU253MWwwWFNST0oxMVJ1Q0V4cE12XzROOXlLbTdBeE5JMWFNa0pmUThCVC1YSnFHV25tWnphVzRwUEVOakIxMnFLT2IwaUdWanA4Y1NnalhWVkttX28yTjN6ZUxodzJDTWhHZFlxOXE0bk1hTmRPT2dHRDZJd2JyRTBLNkh4ZV9hbVlTQXB4MWFPOGd2MHAzMGx0eTFNUjVVWk9J0gGGAkFVX3lxTE0yN2Y3V3B1UXZoUmZqaWQ4SGhReFdsNWdVV00yTVEwVEhsX2dkVlZUZm5uYWwtWXplNEt0UExmdmp5N0Z1cTdMMVdldEhwZUVxMTI5bmF0aDFLLTNZOXlIc3lRa0pVV1VtYmNyeVB0ejRrcFVtaUVGNF84b0ZNWnJOOHlCUl9mYi1IbW9rQW8teklzY0tGVERKQkhZUTBoNDBCX1N3cjBOU0JXNzcxZER2ZTNMWTdJTHZfUEU2UURnVXQ4WFlmcTR6T0tUTTRnNU9fbmIyN0ZtcjVMbkFjVEtyV1NDUi1NMktxUkFpYUNFVzA2M2k1VHo1bXZoWC1QODEtR3otUGc?oc=5",
+  "summary": "Public call for information put out by Katanning police after two suspicious scrub fires near town centre The Great Southern Herald",
+  "published": "2026-10-20T02:59:52+00:00",
+  "first_seen": "2026-10-20T13:20:20+00:00",
+  "source": "The Great Southern Herald",
+  "found_via": "Google News - High streets",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.gsherald.com.au",
+  "google_news": true,
+  "search_tags": [
+   "High Streets"
+  ],
+  "tags": [
+   "High Streets"
+  ],
+  "regions": []
  },
  {
   "title": "Wheelchair Football: Round 3",
@@ -678,6 +790,25 @@
   "regions": []
  },
  {
+  "title": "Melbourne Assembly opening night as it happened: What Melbourne can achieve by 2046",
+  "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYVhSVXd4WlYxbFpkNkpnaDUtVzZuUVpzUVpGWTA4aGRRQlVwRkliTFdVaTI3Qk44aHdGbjVwTGJRd1Z0SWNPb0xOV3NOaWlRZXFnU2FMNm5ZbHV6MDY2dExOdUt2WkNmalpHUURReGp6M3gzM1NUUFNxRTN6UUtBbTE2ZmFORWUxSV9mT1NoMGhxZjhvWVgzVEJ2a05Ha2NrU28yVkotSms5RzFtQ21xZTcwR0QzeVVIbTItakxJaHlxSGUyT3B3UXU1SmhVUVhqc0FJd0lKT190d0NfcUZnUE02azBmbURuTmMya016LUhFSlZkLWc?oc=5",
+  "summary": "Melbourne Assembly opening night as it happened: What Melbourne can achieve by 2046 The Age",
+  "published": "2026-10-19T09:50:19+00:00",
+  "first_seen": "2026-10-20T13:20:29+00:00",
+  "source": "The Age",
+  "found_via": "Google News - Urbanism",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theage.com.au",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [],
+  "regions": [
+   "VIC"
+  ]
+ },
+ {
   "title": "'Innocent pedestrians': Speeding driver sentenced after killing man in crash",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY3ZLTWpZQlJEaDFtR00tVllELXprTUtfeGFxYUVuOWo0dkJWd1JCRGNrSm5wQ2FibjVESFg1Vkp2UjlhVkhIazY5bzFSV2RqSkRDNURSQmlJWFJzRmFPWXNXaXREOW1oelg3RENqWG9FNktyMGN5SG95akcxbGlzYlZMblVMQ1VNcWl2VERqcVNocHVXM1Y0QkVta1hwdkc2WmJ0SnR3?oc=5",
   "summary": "'Innocent pedestrians': Speeding driver sentenced after killing man in crash The Examiner",
@@ -859,6 +990,27 @@
   "regions": [
    "NSW"
   ]
+ },
+ {
+  "title": "30 Km/h Speed Limit Trial Underway Across Stonnington",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ3kyUGpjcEdkYjNySlZ1U0ZlTHUtZHI2SkRsQkRpU1hsWG90QXZnT045b1VVdmhNV3ZnVTBhTVhNdmk2bWUzZlU1VkxGU180YjAzNlI1SFF1cmh3cVowN1NTTmJwdW4ybTA2REJJY0xCcEIzdjNleG1ua2F4cHJNS0JBeGdON0l2UWdaZDBnSS1lbTQ?oc=5",
+  "summary": "30 Km/h Speed Limit Trial Underway Across Stonnington The National Tribune",
+  "published": "2026-10-19T06:23:12+00:00",
+  "first_seen": "2026-10-20T13:20:17+00:00",
+  "source": "The National Tribune",
+  "found_via": "Google News - Road safety",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.nationaltribune.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Road Safety"
+  ],
+  "tags": [
+   "Road Safety"
+  ],
+  "regions": []
  },
  {
   "title": "Carroll defends $206m transport cap",
@@ -4940,6 +5092,27 @@
   ]
  },
  {
+  "title": "Watch Australian rules Live",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeDR5RGVyd0lwMU1wcGx5Ui1lRU9qeVVEVVNJcDF3Z1FfMjJRcHlya1JLck1iTjRQLW1oYkFITGhVNG0wOVdkTThpNS1pc256ZmExbC1BWVZ4b1NJRnMzc3dGek8zVUtSZ3lqZ1VqY3VPM2NHaVpvN1dPeFFQX3NYRnFXUDVWRkZ0QUZsWXdwdGc3a0V4YnRhTm53?oc=5",
+  "summary": "Watch Australian rules Live Kayo Sports",
+  "published": "2026-10-13T07:05:27+00:00",
+  "first_seen": "2026-10-20T13:20:26+00:00",
+  "source": "Kayo Sports",
+  "found_via": "Google News - Accessibility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://kayosports.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Accessibility"
+  ],
+  "tags": [
+   "Accessibility"
+  ],
+  "regions": []
+ },
+ {
   "title": "Ludicrous fuel prices drive West Aussies to public transport",
   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ2dLYmwtM2V1WEhPRlJZQ3JDUXZpZXBMRDhlcEIzYXRvUnV3ejhMaTk0OFJvMDc0WGlmYjlWSUlQNXdYeUVIV29ENHZ2X3d5VFFiZDJ5MGxIVG1tck1pc3g0SlhMelliS1FqMFp1TGJnWjRVeF90NVdLU1dzdGNTOE50VXAtZ01HR3RKSE1Ka0NESVRCNEVsT2VLbXZGSHROUGJvV2QwX1ZFWG12Mnl0LTBUMDFkaHl3YUR0SlhwQVRHa3FtaEFYbHp4Rm94VGpjb1BhakY0XzV1Z2pEOW13bEttVnhpbFZY?oc=5",
   "summary": "Ludicrous fuel prices drive West Aussies to public transport The West Australian",
@@ -6830,6 +7003,27 @@
   "regions": [
    "WA"
   ]
+ },
+ {
+  "title": "From laneway to sky lobby: Brady Group opens newest CBD hotel",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRE9sRkRmSy1Kd0cxTTk5TklUbDlRWHRaUWViS3dYbWJXLTd4QzMwVUVYUjh6Q2ZVYV9LakJVOWM5c2thcWFlejZrUWZvNmY5MkVDQ0hteHctc3E5VXhXTDhuSDRUSXRNVDRIc0pJd195cm5fZ2htUG1LOVp5WkxVZjMxRWNsQlZJem8xRFJRdw?oc=5",
+  "summary": "From laneway to sky lobby: Brady Group opens newest CBD hotel themelburnian.au",
+  "published": "2026-10-09T07:00:00+00:00",
+  "first_seen": "2026-10-20T13:20:20+00:00",
+  "source": "themelburnian.au",
+  "found_via": "Google News - Public space",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://themelburnian.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Space"
+  ],
+  "tags": [
+   "Public Space"
+  ],
+  "regions": []
  },
  {
   "title": "Tourist slashed with grinder fighting off e-bike thief",
