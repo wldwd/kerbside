@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en-AU" class="sport">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="dark" />
+    <title>Kerbside Sport</title>
+    <meta
+      name="description"
+      content="Curated daily cycling news for Australian bike nerds."
+    />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' shape-rendering='crispEdges'><rect width='8' height='8' fill='%231D2B53'/><rect x='1' y='1' width='6' height='1' fill='%23FFEC27'/><rect x='1' y='3' width='6' height='1' fill='%2300E436'/><rect x='1' y='5' width='4' height='1' fill='%2329ADFF'/></svg>"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Nunito:wght@400;600;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="kerbside.css" />
+  </head>
+  <body data-feed="sport.json">
+    <div class="wrap">
+      <nav class="editions" aria-label="Kerbside pages">
+        <a href="./">Kerbside</a>
+        <a href="sport.html" aria-current="page">Kerbside Sport</a>
+      </nav>
+
+      <header class="marquee pixel-box">
+        <div>
+          <h1 id="site-title" class="glitch" data-text="Kerbside Sport">Kerbside Sport</h1>
+          <p>Curated daily cycling news for Australian bike nerds</p>
+        </div>
+        <dl class="scoreboard" id="stats" aria-live="polite"></dl>
+      </header>
+
+      <section class="controls" aria-label="Filter stories">
+        <div class="search-row">
+          <div class="prompt pixel-box">
+            <label class="visually-hidden" for="search">Search stories</label>
+            <input
+              class="search"
+              id="search"
+              type="search"
+              placeholder="search stories"
+            />
+          </div>
+          <fieldset>
+            <legend class="visually-hidden">Region</legend>
+            <div class="chips" id="regions"></div>
+          </fieldset>
+        </div>
+        <details class="topics" id="topics">
+          <summary>Filter by topic</summary>
+          <div class="groups" id="groups"></div>
+        </details>
+        <div class="status">
+          <span id="result-count"></span>
+          <button class="link-button" id="clear" type="button" hidden>
+            Clear filters
+          </button>
+        </div>
+      </section>
+
+      <main>
+        <ul class="grid" id="stories"></ul>
+        <div id="empty" class="message pixel-box" hidden>
+          No stories match these filters.
+          <button class="link-button" type="button" id="empty-clear">
+            Clear filters
+          </button>
+          and try again.
+        </div>
+        <button class="more pixel-box" id="more" type="button" hidden>
+          Continue?<small>Load more stories</small>
+        </button>
+      </main>
+
+      <footer>
+        <p>
+          Headlines link to the original publishers. Stories are collected
+          automatically from public news feeds and tagged by keyword, so the
+          occasional tag may be off.
+        </p>
+        <div class="credits">
+          <span
+            >Made by
+            <a href="https://www.linkedin.com/in/drgeorgiascott/" rel="noopener"
+              >Georgia Scott</a
+            ></span
+          >
+          <a href="https://github.com/wldwd/kerbside" rel="noopener"
+            >How it works</a
+          >
+          <a href="https://github.com/wldwd/kerbside/issues/new" rel="noopener"
+            >Suggest a source</a
+          >
+        </div>
+      </footer>
+    </div>
+
+    <a class="eject" href="escape.html?from=sport">
+      <svg viewBox="0 0 7 8" shape-rendering="crispEdges" aria-hidden="true">
+        <rect x="3" y="0" width="1" height="1" fill="currentColor" />
+        <rect x="2" y="1" width="3" height="4" fill="currentColor" />
+        <rect x="3" y="2" width="1" height="1" fill="#fff1e8" />
+        <rect x="1" y="4" width="5" height="1" fill="currentColor" />
+        <rect x="0" y="5" width="1" height="2" fill="currentColor" />
+        <rect x="2" y="5" width="3" height="1" fill="currentColor" />
+        <rect x="6" y="5" width="1" height="2" fill="currentColor" />
+        <rect x="2" y="6" width="1" height="1" fill="#ff004d" />
+        <rect x="4" y="6" width="1" height="1" fill="#ff004d" />
+        <rect x="3" y="7" width="1" height="1" fill="#ffa300" />
+      </svg>
+      EJECT
+      <span class="visually-hidden">: take a break in the Escape Pod</span>
+    </a>
+    <script src="kerbside.js"></script>
+  </body>
+</html>

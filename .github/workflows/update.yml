@@ -35,11 +35,16 @@ jobs:
       - name: Fetch feeds and rebuild
         run: python build.py
 
+      # The sport page. If it ever fails, the main site still updates.
+      - name: Fetch sport feeds and rebuild
+        run: python build.py sport.yaml
+        continue-on-error: true
+
       - name: Commit any new stories
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/stories.json docs/stories.json
+          git add data/stories.json docs/stories.json data/sport.json docs/sport.json
           if git diff --staged --quiet; then
             echo "No new stories"
           else

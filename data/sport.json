@@ -13,7 +13,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Industry"
+  ],
   "regions": []
  },
  {
@@ -52,7 +55,10 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "MTB and Trails"
+   "MTB and Trails",
+   "Gear and Tech",
+   "Industry",
+   "Riders"
   ],
   "regions": [
    "International"
@@ -73,6 +79,7 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
+   "Racing",
    "MTB and Trails"
   ],
   "regions": []
@@ -133,7 +140,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -152,7 +161,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Crashes and Safety",
+   "Events"
+  ],
   "regions": [
    "International"
   ]
@@ -192,7 +204,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Bike Culture"
+  ],
   "regions": [
    "International"
   ]
@@ -211,7 +225,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing",
+   "Riders"
+  ],
   "regions": [
    "International"
   ]
@@ -231,7 +248,9 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Deals",
+   "Events"
   ],
   "regions": [
    "International"
@@ -274,6 +293,7 @@
   "search_tags": [],
   "tags": [
    "Gravel",
+   "Deals",
    "Riders"
   ],
   "regions": [
@@ -294,7 +314,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -313,7 +335,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Maintenance"
+  ],
   "regions": [
    "International"
   ]
@@ -353,7 +377,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Deals",
+   "Riders"
+  ],
   "regions": [
    "International"
   ]
@@ -374,7 +401,8 @@
   "search_tags": [],
   "tags": [
    "Gravel",
-   "Gear and Tech"
+   "Gear and Tech",
+   "Industry"
   ],
   "regions": [
    "International"
@@ -394,7 +422,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Industry"
+  ],
   "regions": []
  },
  {
@@ -434,7 +465,8 @@
   "search_tags": [],
   "tags": [
    "Racing",
-   "Gravel"
+   "Gravel",
+   "Bike Culture"
   ],
   "regions": [
    "International"
@@ -455,6 +487,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
+   "Deals",
+   "Riders",
    "Australian"
   ],
   "regions": [
@@ -475,7 +509,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -494,7 +530,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Bike Culture"
+  ],
   "regions": [
    "International"
   ]
@@ -532,7 +570,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Maintenance",
+   "Training and Health"
+  ],
   "regions": [
    "International"
   ]
@@ -551,7 +592,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Training and Health"
+  ],
   "regions": [
    "International"
   ]
@@ -591,7 +634,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Doping"
+  ],
   "regions": [
    "International"
   ]
@@ -610,7 +655,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -673,7 +720,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -692,7 +741,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Doping"
+  ],
   "regions": [
    "International"
   ]
@@ -711,7 +762,11 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing",
+   "Gear and Tech",
+   "Riders"
+  ],
   "regions": [
    "International"
   ]
@@ -730,7 +785,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Riders",
+   "Crashes and Safety"
+  ],
   "regions": [
    "International"
   ]
@@ -750,7 +808,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Riders"
   ],
   "regions": [
    "International"
@@ -771,7 +830,10 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Maintenance",
+   "Deals",
+   "Events"
   ],
   "regions": [
    "International"
@@ -791,7 +853,11 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing",
+   "Gear and Tech",
+   "Riders"
+  ],
   "regions": [
    "International"
   ]
@@ -853,7 +919,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Riders"
+  ],
   "regions": [
    "International"
   ]
@@ -874,6 +943,7 @@
   "search_tags": [],
   "tags": [
    "Racing",
+   "Gear and Tech",
    "Women"
   ],
   "regions": [
@@ -915,7 +985,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Riders"
+  ],
   "regions": [
    "International"
   ]
@@ -955,7 +1027,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Bike Culture"
+  ],
   "regions": [
    "International"
   ]
@@ -974,7 +1049,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -993,7 +1070,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Industry"
+  ],
   "regions": [
    "International"
   ]
@@ -1014,7 +1093,8 @@
   "search_tags": [],
   "tags": [
    "Racing",
-   "Gear and Tech"
+   "Gear and Tech",
+   "Bike Culture"
   ],
   "regions": [
    "International"
@@ -1097,7 +1177,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "MTB and Trails"
   ],
   "regions": []
  },
@@ -1136,7 +1217,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Doping"
+  ],
   "regions": [
    "International"
   ]
@@ -1199,7 +1282,8 @@
    "Racing"
   ],
   "tags": [
-   "Racing"
+   "Racing",
+   "Bike Culture"
   ],
   "regions": []
  },
@@ -1217,7 +1301,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -1299,7 +1385,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Maintenance"
+  ],
   "regions": [
    "International"
   ]
@@ -1383,7 +1472,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Deals"
   ],
   "regions": [
    "International"
@@ -1422,7 +1512,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Doping"
+  ],
   "regions": [
    "International"
   ]
@@ -1504,7 +1596,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Riders"
   ],
   "regions": [
    "International"
@@ -1524,7 +1617,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Crashes and Safety"
+  ],
   "regions": [
    "International"
   ]
@@ -1543,7 +1638,10 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Industry"
+  ],
   "regions": [
    "International"
   ]
@@ -1563,7 +1661,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Gear and Tech"
   ],
   "regions": [
    "International"
@@ -1605,7 +1704,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -1624,7 +1725,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Crashes and Safety"
+  ],
   "regions": [
    "International"
   ]
@@ -1665,7 +1768,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Deals"
   ],
   "regions": [
    "International"
@@ -1751,7 +1855,9 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Crashes and Safety",
+   "Bike Culture"
   ],
   "regions": [
    "International"
@@ -1856,7 +1962,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Events"
+  ],
   "regions": []
  },
  {
@@ -1873,7 +1981,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -1893,7 +2003,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Bike Culture"
   ],
   "regions": [
    "International"
@@ -1955,7 +2066,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -1975,7 +2088,9 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Crashes and Safety",
+   "Training and Health"
   ],
   "regions": [
    "International"
@@ -1995,7 +2110,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -2014,7 +2131,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -2033,7 +2152,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -2052,7 +2173,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -2115,7 +2238,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Riders"
   ],
   "regions": [
    "International"
@@ -2156,7 +2280,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Training and Health"
+  ],
   "regions": [
    "International"
   ]
@@ -2175,7 +2301,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -2195,7 +2323,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Riders"
   ],
   "regions": [
    "International"
@@ -2258,6 +2387,7 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
+   "Racing",
    "Gravel"
   ],
   "regions": [
@@ -2279,6 +2409,7 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
+   "Racing",
    "Gravel",
    "Women"
   ],
@@ -2322,7 +2453,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -2490,7 +2623,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing",
+   "Crashes and Safety"
+  ],
   "regions": [
    "International"
   ]
@@ -2509,7 +2645,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -2568,7 +2706,10 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Industry",
+   "Bike Culture"
+  ],
   "regions": [
    "International"
   ]
@@ -2587,7 +2728,11 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Deals",
+   "Training and Health"
+  ],
   "regions": [
    "International"
   ]
@@ -2628,7 +2773,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Crashes and Safety"
+  ],
   "regions": [
    "International"
   ]
@@ -2647,7 +2794,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -2752,7 +2901,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -2942,7 +3093,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -2980,7 +3133,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Crashes and Safety"
+  ],
   "regions": [
    "International"
   ]
@@ -3038,7 +3193,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Crashes and Safety"
   ],
   "regions": [
    "International"
@@ -3102,7 +3258,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -3121,7 +3279,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -3182,7 +3342,32 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Crashes and Safety"
+  ],
+  "regions": [
+   "International"
+  ]
+ },
+ {
+  "title": "ROUVY Fest is here – save £200 on Zwift Ride in this limited-time indoor cycling deal",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSS1oNnpUUHdhMFI3N095SndZNE9nZmg2V05iZlA0ektpLWZfbFpXN1NGMy1BNUV4Um80UXV6TDlTQWNGWHlNV0gwb0dtTjNtczUzWDdjTl9QV1JsQWdZV1kwZ1pmci1FVkFsSUJrclN0bE9Hc0d0SHVJZHBJY0g0Qkg0QXdNRjVwZURDNzBoVUU?oc=5",
+  "summary": "ROUVY Fest is here – save £200 on Zwift Ride in this limited-time indoor cycling deal BikeRadar",
+  "published": "2026-10-15T08:00:00+00:00",
+  "first_seen": "2026-10-21T05:13:33+00:00",
+  "source": "BikeRadar",
+  "found_via": "Google News - BikeRadar",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.bikeradar.com",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -3202,7 +3387,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Gravel"
+   "Gravel",
+   "Crashes and Safety"
   ],
   "regions": [
    "International"
@@ -3263,7 +3449,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Doping"
   ],
   "regions": []
  },
@@ -3322,7 +3509,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Maintenance"
+  ],
   "regions": [
    "International"
   ]
@@ -3363,7 +3552,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Doping"
   ],
   "regions": [
    "International"
@@ -3407,6 +3597,7 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
+   "MTB and Trails",
    "Gravel"
   ],
   "regions": [
@@ -3490,6 +3681,7 @@
   "search_tags": [],
   "tags": [
    "Racing",
+   "Maintenance",
    "Australian"
   ],
   "regions": []
@@ -3552,7 +3744,8 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
-   "MTB and Trails"
+   "MTB and Trails",
+   "Gear and Tech"
   ],
   "regions": [
    "International"
@@ -3593,7 +3786,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Training and Health"
+  ],
   "regions": [
    "International"
   ]
@@ -3612,7 +3807,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Maintenance",
+   "Training and Health"
+  ],
   "regions": [
    "International"
   ]
@@ -3651,7 +3849,8 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
-   "E-bikes"
+   "E-bikes",
+   "Industry"
   ],
   "regions": [
    "International"
@@ -3672,6 +3871,7 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
+   "MTB and Trails",
    "Gear and Tech"
   ],
   "regions": [
@@ -3693,6 +3893,7 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
+   "Racing",
    "Gravel",
    "Australian"
   ],
@@ -3715,7 +3916,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -3755,8 +3958,8 @@
   "search_tags": [],
   "tags": [
    "Racing",
-   "Events",
-   "Australian"
+   "Australian",
+   "Events"
   ],
   "regions": []
  },
@@ -3794,6 +3997,27 @@
   "fixed_region": "International",
   "publisher_site": "",
   "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
+  "regions": [
+   "International"
+  ]
+ },
+ {
+  "title": "Inaugural Rouvy Fest kickstarts indoor cycling season with Wout van Aert, Victor Campenaerts, Andrew Feather and others",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfdl9KRjREaXhqQy1xQ1RnLUJUNjdqeF9OYmxTN2ZNVHZjVWMxdGlJYXZEU2cxU1VXM1RsWUhWWkVHQTNlTEVVTHZha1VheHp6WE56VVNGTXhGZw?oc=5",
+  "summary": "Inaugural Rouvy Fest kickstarts indoor cycling season with Wout van Aert, Victor Campenaerts, Andrew Feather and others BikeRadar",
+  "published": "2026-10-12T13:50:02+00:00",
+  "first_seen": "2026-10-21T05:13:33+00:00",
+  "source": "BikeRadar",
+  "found_via": "Google News - BikeRadar",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.bikeradar.com",
+  "google_news": true,
   "search_tags": [],
   "tags": [],
   "regions": [
@@ -3839,6 +4063,25 @@
    "Racing",
    "Gear and Tech"
   ],
+  "regions": [
+   "International"
+  ]
+ },
+ {
+  "title": "MAAP opens LaB concept store in London's Soho, only moments away from Rapha",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtVWRUM19QWkozMTJCbnR6d1E5OU5OTmZNcldwcE5FM1pCSmFZTUhfdW1adUQxbmJ3blVnOEh2djhtQ3pQYmE2VHNSQU5zeHV2SkxOVTFGUWlYZ3NqLVFmTm9IcFBtRVE3WEZ4c3lXOGRXME5X?oc=5",
+  "summary": "MAAP opens LaB concept store in London's Soho, only moments away from Rapha BikeRadar",
+  "published": "2026-10-12T12:00:00+00:00",
+  "first_seen": "2026-10-21T05:13:33+00:00",
+  "source": "BikeRadar",
+  "found_via": "Google News - BikeRadar",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.bikeradar.com",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [],
   "regions": [
    "International"
   ]
@@ -4000,6 +4243,7 @@
   "tags": [
    "Racing",
    "Track and Cross",
+   "Riders",
    "Australian"
   ],
   "regions": []
@@ -4099,7 +4343,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Industry"
+  ],
   "regions": [
    "International"
   ]
@@ -4201,6 +4447,7 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
+   "Racing",
    "Australian"
   ],
   "regions": []
@@ -4219,7 +4466,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -4238,7 +4487,10 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Maintenance"
+  ],
   "regions": [
    "International"
   ]
@@ -4283,6 +4535,46 @@
    "Australian"
   ],
   "regions": []
+ },
+ {
+  "title": "I test bikes all year round and these are my tips for cycling in the winter, after years of surviving the wet and cold",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMDc0Y202R0VRTlJkaks0ZUxTcUozMDYydUx3N2xFTnlYRU5RTmY0am83WVMxOVp4SndmZmE1VVN1WHdFbzlqaVE0el9XOFY3N1ZEV0VUckdTb2pOOGNSSDZfWHZFRlJOdHZPZHZGSVVwOWhvd2piU1ZBeGlraWNoVW5tRlR0ZkxIOVVFSVFoaGlzQVNXNlBTd3ZLWWgxdmZSM3ltMGFuNGdsdjE5WW9hQUhSVFU?oc=5",
+  "summary": "I test bikes all year round and these are my tips for cycling in the winter, after years of surviving the wet and cold BikeRadar",
+  "published": "2026-10-09T07:00:00+00:00",
+  "first_seen": "2026-10-21T05:13:33+00:00",
+  "source": "BikeRadar",
+  "found_via": "Google News - BikeRadar",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.bikeradar.com",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [],
+  "regions": [
+   "International"
+  ]
+ },
+ {
+  "title": "Save 10% on Zwift Ride V2 and the Wahoo KICKR CORE 2",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObml4VWtjNkhpeVRueUFTTS1nNHJXVkFRYmhSakpIVENuYTNuekE4VXYwWElKemlMdWpWT2FQRlZQNWdXaWhSQS1zNHFmbGZIbjd6bU9WUkhOZWx6SUZiblpGZXlmc2I2NnJIMUxJakRiMmFtX0V3Nlp1SmUyemk2Tzh5UXA5anRfeUs3Z2lIOHdNQ1JSQXp2bUdPdEhOSXhLN0VqU3ZjeklweXFTZmFKVzNzUGk?oc=5",
+  "summary": "Save 10% on Zwift Ride V2 and the Wahoo KICKR CORE 2 BikeRadar",
+  "published": "2026-10-09T07:00:00+00:00",
+  "first_seen": "2026-10-21T05:13:33+00:00",
+  "source": "BikeRadar",
+  "found_via": "Google News - BikeRadar",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.bikeradar.com",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
+  "regions": [
+   "International"
+  ]
  },
  {
   "title": "Ride with Annie Ford on the Thule Road to Sea Otter",
@@ -4484,7 +4776,9 @@
   "search_tags": [],
   "tags": [
    "Racing",
-   "MTB and Trails"
+   "MTB and Trails",
+   "Gear and Tech",
+   "Industry"
   ],
   "regions": [
    "International"
@@ -4526,7 +4820,8 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
-   "MTB and Trails"
+   "MTB and Trails",
+   "Gear and Tech"
   ],
   "regions": [
    "International"
@@ -4547,6 +4842,7 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
+   "Gear and Tech",
    "Australian"
   ],
   "regions": []
@@ -4590,6 +4886,89 @@
   "regions": []
  },
  {
+  "title": "Most cycling kit leaves me cold, but this Northern Irish brand has the solution for all my outdoor pursuits",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWjhaSjR5bFA0YUhmNGRSelRRSDRSdW5Pc0VnRmtXWDRHZ2NTaGNpa0FaVWZMZHV2WU43OFRKVEs2c0N2MzRMVVY5T3hEcXJkcHhDanA3YVlxVENDNHRKU290a3c3Mi1mYThfQWtEUnY3cFpaRGVBYWNDNEc3THM3cjltdGFNR3c?oc=5",
+  "summary": "Most cycling kit leaves me cold, but this Northern Irish brand has the solution for all my outdoor pursuits BikeRadar",
+  "published": "2026-10-08T07:00:00+00:00",
+  "first_seen": "2026-10-21T05:13:33+00:00",
+  "source": "BikeRadar",
+  "found_via": "Google News - BikeRadar",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.bikeradar.com",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [
+   "Industry"
+  ],
+  "regions": [
+   "International"
+  ]
+ },
+ {
+  "title": "“We want our pro riders to have options” – Ridley’s Falcn RS 2.0 is a lighter, climbing-focused alternative to the Noah Fast",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91UDRZRFpNUmhUWVlIOHRXcUNaWGRlNlNOU1Z2S3ZDeG1ESkt6Ym84NEpfS2pvN0pOU0JWdnBZeDBQaEczMTRiWm5uNS0tNzFzOHJZWWVzaVg3WkhfRU1CSWJJcw?oc=5",
+  "summary": "“We want our pro riders to have options” – Ridley’s Falcn RS 2.0 is a lighter, climbing-focused alternative to the Noah Fast BikeRadar",
+  "published": "2026-10-08T07:00:00+00:00",
+  "first_seen": "2026-10-21T05:13:33+00:00",
+  "source": "BikeRadar",
+  "found_via": "Google News - BikeRadar",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.bikeradar.com",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [],
+  "regions": [
+   "International"
+  ]
+ },
+ {
+  "title": "Hunt reveals 5AM Gravel Limitless wheels with huge, 45mm-wide front rim and carbon spokes",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wdnNLWU95ZHpsRUV5Rk9SZzRUT0JuNUJKal9vUV9kYmNLdno3MUdOLXVVSndmYWhteVFPeG1uSmdtRk1KeTlwRWgxY2VPWElpS3RfYjJyZVBhVHFTaGZmazZpQVZJc3FSV3dxQXNYaFY?oc=5",
+  "summary": "Hunt reveals 5AM Gravel Limitless wheels with huge, 45mm-wide front rim and carbon spokes BikeRadar",
+  "published": "2026-10-08T07:00:00+00:00",
+  "first_seen": "2026-10-21T05:13:33+00:00",
+  "source": "BikeRadar",
+  "found_via": "Google News - BikeRadar",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.bikeradar.com",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [
+   "Gravel",
+   "Gear and Tech"
+  ],
+  "regions": [
+   "International"
+  ]
+ },
+ {
+  "title": "Now you can get more aero on Zwift Ride with Profile Design’s clip-on extensions",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOemc2SWxnZWNEZmlVSzQ0RnNnWTNfQm1RYlVfdlhWZkpXYzhKNDhQRVlMRU5jWHdFc2lHUTJueUFaN25mdWxmTGh5LXB6X3QyTnRMOWEzWUhPamFnTU4xeDR6b1ZVMU9tRjFyemdoalNuSG10M1ZMNzljV3FwQnA0Zw?oc=5",
+  "summary": "Now you can get more aero on Zwift Ride with Profile Design’s clip-on extensions BikeRadar",
+  "published": "2026-10-08T07:00:00+00:00",
+  "first_seen": "2026-10-21T05:13:33+00:00",
+  "source": "BikeRadar",
+  "found_via": "Google News - BikeRadar",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.bikeradar.com",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
+  "regions": [
+   "International"
+  ]
+ },
+ {
   "title": "2027 Surf Coast Classic & Cadel Evans Great Ocean Road Race",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGtLb3lhOXV1djRtMklObFF6SjJVSU1kSUFvd0M5U01NXzg5VVhwV3pjazFXTWVOVHdUWVBhWFV5eTRWTHpsV1ZuUjF5MmxycUdCTlNYZXE3NkxyR3NPczVEVkV1S09URF96SVROR2l6VFpMWFlrbTNXRmhaOFFPOXRPT1lWcU5JNExtVXRwVEtoZEJn?oc=5",
   "summary": "2027 Surf Coast Classic & Cadel Evans Great Ocean Road Race AusCycling",
@@ -4624,7 +5003,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Gear and Tech"
+   "Gear and Tech",
+   "Deals"
   ],
   "regions": [
    "International"
@@ -4644,7 +5024,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -4663,7 +5045,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Crashes and Safety"
+  ],
   "regions": [
    "International"
   ]
@@ -4683,7 +5067,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Gravel"
+   "Gravel",
+   "Gear and Tech"
   ],
   "regions": [
    "International"
@@ -4727,7 +5112,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Gravel"
+   "Gravel",
+   "Gear and Tech"
   ],
   "regions": [
    "International"
@@ -4770,7 +5156,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Gear and Tech"
+   "Gear and Tech",
+   "Deals"
   ],
   "regions": [
    "International"
@@ -4791,7 +5178,51 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
-   "MTB and Trails"
+   "MTB and Trails",
+   "Gear and Tech"
+  ],
+  "regions": [
+   "International"
+  ]
+ },
+ {
+  "title": "Stargazing and bikepacking in Arizona was one of the best cycling experiences I've ever had",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRTVIQUQyZkFzb3JTSFAwYnVwbHlTc2JtWFNZQ0dpUEJQTFcxVVpRejAyN24zamtFbXhwWTh4bFRIRl95Q1dwSFNGSWoycURjWXNhODlyemczUXpwb0hHeFZ1N2Ezb3BFTm5MSllRdlJ3OFZTRnNlUjF3M3NZNDlsTkM4MC1PTlRwRjBGZGpPTFA?oc=5",
+  "summary": "Stargazing and bikepacking in Arizona was one of the best cycling experiences I've ever had BikeRadar",
+  "published": "2026-10-07T07:00:00+00:00",
+  "first_seen": "2026-10-21T05:13:33+00:00",
+  "source": "BikeRadar",
+  "found_via": "Google News - BikeRadar",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.bikeradar.com",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [
+   "Bike Culture"
+  ],
+  "regions": [
+   "International"
+  ]
+ },
+ {
+  "title": "Cadex’s first mountain bike wheels weigh 1,248g with bonded carbon spokes and buckets of lateral stiffness",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TR0Zqd00tQ0JFWGlmNlRvbWlCWG9qNjlHUEVzeWRPTHE2OG05cjZfa0p0bkNDTkczb2V5dUVCdXJ5Ry14RWdZdlRvdkp4SEdtZl9wYlgyLVJGV0dTcHNjelplQVQyUQ?oc=5",
+  "summary": "Cadex’s first mountain bike wheels weigh 1,248g with bonded carbon spokes and buckets of lateral stiffness BikeRadar",
+  "published": "2026-10-07T07:00:00+00:00",
+  "first_seen": "2026-10-21T05:13:33+00:00",
+  "source": "BikeRadar",
+  "found_via": "Google News - BikeRadar",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.bikeradar.com",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [
+   "MTB and Trails",
+   "Gear and Tech"
   ],
   "regions": [
    "International"
@@ -4855,6 +5286,8 @@
   "search_tags": [],
   "tags": [
    "Racing",
+   "Gear and Tech",
+   "Riders",
    "Australian"
   ],
   "regions": []
@@ -4875,7 +5308,8 @@
   "search_tags": [],
   "tags": [
    "Gravel",
-   "Gear and Tech"
+   "Gear and Tech",
+   "Industry"
   ],
   "regions": []
  },
@@ -4956,7 +5390,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -4975,7 +5411,11 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Deals",
+   "Training and Health"
+  ],
   "regions": [
    "International"
   ]
@@ -4996,7 +5436,8 @@
   "search_tags": [],
   "tags": [
    "Racing",
-   "Riders"
+   "Riders",
+   "Bike Culture"
   ],
   "regions": [
    "International"
@@ -5038,7 +5479,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Crashes and Safety",
+   "Training and Health"
+  ],
   "regions": [
    "International"
   ]
@@ -5057,7 +5501,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Crashes and Safety",
+   "Training and Health"
+  ],
   "regions": [
    "International"
   ]
@@ -5076,7 +5523,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -5095,7 +5544,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -5114,7 +5565,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -5134,6 +5587,7 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
+   "MTB and Trails",
    "Gravel",
    "Gear and Tech"
   ],
@@ -5155,7 +5609,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -5193,7 +5649,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -5212,7 +5670,12 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Deals",
+   "Industry",
+   "Crashes and Safety"
+  ],
   "regions": [
    "International"
   ]
@@ -5233,7 +5696,8 @@
   "search_tags": [],
   "tags": [
    "Racing",
-   "Gravel"
+   "Gravel",
+   "Industry"
   ],
   "regions": [
    "International"
@@ -5297,7 +5761,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -5338,7 +5804,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -5357,7 +5826,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -5440,7 +5911,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -5459,7 +5932,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -5499,7 +5975,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -5561,7 +6040,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -5582,6 +6063,8 @@
   "search_tags": [],
   "tags": [
    "Racing",
+   "Gear and Tech",
+   "Riders",
    "Australian"
   ],
   "regions": [
@@ -5602,7 +6085,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -5664,7 +6150,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Crashes and Safety"
+  ],
   "regions": [
    "International"
   ]
@@ -5683,7 +6171,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -5724,7 +6214,9 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "E-bikes"
+   "Gear and Tech",
+   "E-bikes",
+   "Deals"
   ],
   "regions": [
    "International"
@@ -5744,7 +6236,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -5763,7 +6258,10 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -5804,7 +6302,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -5823,7 +6324,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -5842,7 +6345,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -5948,7 +6454,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Events"
+  ],
   "regions": []
  },
  {
@@ -5965,7 +6473,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -5984,7 +6494,11 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Deals",
+   "Industry"
+  ],
   "regions": [
    "International"
   ]
@@ -6024,7 +6538,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -6064,7 +6580,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -6125,7 +6643,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -6165,7 +6685,9 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Gear and Tech",
+   "Crashes and Safety"
   ],
   "regions": [
    "International"
@@ -6186,7 +6708,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "MTB and Trails"
+   "MTB and Trails",
+   "Gear and Tech"
   ],
   "regions": []
  },
@@ -6204,7 +6727,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing",
+   "Crashes and Safety"
+  ],
   "regions": [
    "International"
   ]
@@ -6223,7 +6749,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -6284,7 +6812,11 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Industry",
+   "Crashes and Safety"
+  ],
   "regions": [
    "International"
   ]
@@ -6304,7 +6836,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Crashes and Safety"
   ],
   "regions": [
    "International"
@@ -6345,7 +6878,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -6364,7 +6900,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -6404,7 +6942,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing",
+   "Riders"
+  ],
   "regions": [
    "International"
   ]
@@ -6444,7 +6985,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Training and Health"
+  ],
   "regions": [
    "International"
   ]
@@ -6506,7 +7049,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Riders"
+  ],
   "regions": [
    "International"
   ]
@@ -6525,7 +7070,10 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing",
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -6545,6 +7093,7 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
+   "Racing",
    "Gravel"
   ],
   "regions": [
@@ -6565,7 +7114,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Industry"
+  ],
   "regions": [
    "International"
   ]
@@ -6626,7 +7178,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -6645,7 +7199,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -6686,6 +7242,7 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
+   "Racing",
    "Riders"
   ],
   "regions": [
@@ -6809,7 +7366,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing",
+   "Crashes and Safety"
+  ],
   "regions": [
    "International"
   ]
@@ -6889,7 +7449,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -6929,7 +7491,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -6948,7 +7512,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -6986,7 +7552,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Training and Health"
+  ],
   "regions": [
    "International"
   ]
@@ -7005,7 +7573,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -7025,7 +7595,9 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Gear and Tech"
+   "Gear and Tech",
+   "Training and Health",
+   "Bike Culture"
   ],
   "regions": [
    "International"
@@ -7111,7 +7683,12 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing",
+   "Gear and Tech",
+   "Training and Health",
+   "Bike Culture"
+  ],
   "regions": [
    "International"
   ]
@@ -7151,7 +7728,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Industry"
+  ],
   "regions": [
    "International"
   ]
@@ -7172,6 +7751,7 @@
   "search_tags": [],
   "tags": [
    "Racing",
+   "Gear and Tech",
    "Australian"
   ],
   "regions": [
@@ -7192,7 +7772,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing",
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -7213,7 +7796,8 @@
   "search_tags": [],
   "tags": [
    "Gravel",
-   "Gear and Tech"
+   "Gear and Tech",
+   "Industry"
   ],
   "regions": [
    "International"
@@ -7233,7 +7817,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Maintenance"
+  ],
   "regions": [
    "International"
   ]
@@ -7252,7 +7838,10 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing",
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -7314,7 +7903,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Maintenance",
+   "Industry"
+  ],
   "regions": [
    "International"
   ]
@@ -7334,6 +7926,7 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
+   "Racing",
    "Women"
   ],
   "regions": [
@@ -7357,7 +7950,8 @@
    "Racing"
   ],
   "tags": [
-   "Racing"
+   "Racing",
+   "Gear and Tech"
   ],
   "regions": []
  },
@@ -7375,7 +7969,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing",
+   "Training and Health"
+  ],
   "regions": [
    "International"
   ]
@@ -7414,6 +8011,7 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
+   "Racing",
    "Gravel"
   ],
   "regions": []
@@ -7489,7 +8087,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "MTB and Trails"
+  ],
   "regions": [
    "International"
   ]
@@ -7508,7 +8108,10 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing",
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -7527,7 +8130,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing",
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -7588,7 +8194,8 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
-   "Track and Cross"
+   "Track and Cross",
+   "Gear and Tech"
   ],
   "regions": [
    "International"
@@ -7608,7 +8215,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Training and Health"
+  ],
   "regions": [
    "International"
   ]
@@ -7627,7 +8236,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Events"
+  ],
   "regions": [
    "International"
   ]
@@ -7694,6 +8305,27 @@
   ]
  },
  {
+  "title": "Dynamic's new bike light range delivers the optimal combination of weight, performance and battery life",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZW9YTUdWYVlqWlhiSXVXN0Jqd0RXNzJVZ2doYWlmS3MwMVVaZl9zdkhwRlg3OGVsY082VlVSdm9Vdk5rRUkxNEo0YWFrWGptcXBCbTlLTHljXy1iaF9MTTdRUkJFaDVmYnRVQmlqazI3TndoLXhfTGg4XzdSRmdpZQ?oc=5",
+  "summary": "Dynamic's new bike light range delivers the optimal combination of weight, performance and battery life BikeRadar",
+  "published": "2026-10-01T07:00:00+00:00",
+  "first_seen": "2026-10-21T05:13:33+00:00",
+  "source": "BikeRadar",
+  "found_via": "Google News - BikeRadar",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.bikeradar.com",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
+  "regions": [
+   "International"
+  ]
+ },
+ {
   "title": "$290 AVASTA Fixie: Flip-Flop Hub Fixed-Gear Bike Deal",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM25FaW5GR3BwelBTQ2VvbjdOZExNdDZKZUdxMzlMVFhSSl9RdU1ZeEVWOEZWQmJKb0ZyNFBIU0NnaUlibEQ3Zk5rUkJITTVlM05IMUZWbVY4NG94UXNuYnVqSWlBc0hSQUJKVUE2Z2pGNDhaTXlraEtkQjVESjB0S0ROV2Nxd3ZCRTQ0QVVBUFQ1WUpaYW5kQnpJeXl6Rnl6WnhFQ2VQYUNjN191QkpVZUVPdVE?oc=5",
   "summary": "$290 AVASTA Fixie: Flip-Flop Hub Fixed-Gear Bike Deal The Inventory",
@@ -7710,6 +8342,7 @@
    "Odd and Urban"
   ],
   "tags": [
+   "Deals",
    "Odd and Urban"
   ],
   "regions": []
@@ -7749,7 +8382,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Maintenance"
+  ],
   "regions": [
    "International"
   ]
@@ -7790,7 +8425,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Gravel"
+   "Gravel",
+   "Deals"
   ],
   "regions": [
    "International"
@@ -7811,7 +8447,8 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
-   "Gear and Tech"
+   "Gear and Tech",
+   "Maintenance"
   ],
   "regions": [
    "International"
@@ -7876,7 +8513,8 @@
   "tags": [
    "Racing",
    "Gravel",
-   "Gear and Tech"
+   "Gear and Tech",
+   "Industry"
   ],
   "regions": [
    "International"
@@ -7896,7 +8534,10 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Maintenance",
+   "Training and Health"
+  ],
   "regions": [
    "International"
   ]
@@ -7958,7 +8599,8 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
-   "MTB and Trails"
+   "MTB and Trails",
+   "Gear and Tech"
   ],
   "regions": [
    "International"
@@ -7979,7 +8621,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Gear and Tech"
+   "Gear and Tech",
+   "Deals"
   ],
   "regions": [
    "International"
@@ -8041,6 +8684,7 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
+   "Racing",
    "Gravel",
    "Australian"
   ],
@@ -8083,7 +8727,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing",
+   "Events"
+  ],
   "regions": [
    "International"
   ]
@@ -8144,6 +8791,8 @@
   "search_tags": [],
   "tags": [
    "Racing",
+   "Gear and Tech",
+   "Industry",
    "Australian"
   ],
   "regions": [
@@ -8164,7 +8813,9 @@
   "publisher_site": "https://www.miragenews.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "WA"
   ]
@@ -8184,6 +8835,7 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
+   "Industry",
    "Australian"
   ],
   "regions": [
@@ -8204,7 +8856,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -8223,7 +8877,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -8285,7 +8941,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Gear and Tech"
   ],
   "regions": []
  },
@@ -8323,7 +8980,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": []
  },
  {
@@ -8471,7 +9130,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Training and Health"
+  ],
   "regions": [
    "International"
   ]
@@ -8512,7 +9174,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": []
  },
  {
@@ -8550,7 +9214,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Industry"
+  ],
   "regions": [
    "International"
   ]
@@ -8569,7 +9235,10 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Industry"
+  ],
   "regions": [
    "International"
   ]
@@ -8673,7 +9342,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing"
+  ],
   "regions": [
    "International"
   ]
@@ -8733,7 +9404,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Gear and Tech"
   ],
   "regions": [
    "International"
@@ -8754,7 +9426,8 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Doping"
   ],
   "regions": [
    "International"
@@ -8774,7 +9447,10 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Industry",
+   "Training and Health"
+  ],
   "regions": [
    "International"
   ]
@@ -8833,7 +9509,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -8876,7 +9554,9 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Gear and Tech",
+   "Industry"
   ],
   "regions": []
  },
@@ -8894,7 +9574,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Industry"
+  ],
   "regions": [
    "International"
   ]
@@ -8934,7 +9616,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Industry"
+  ],
   "regions": [
    "International"
   ]
@@ -8954,7 +9638,9 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Gear and Tech",
+   "Doping"
   ],
   "regions": [
    "International"
@@ -8998,6 +9684,27 @@
   ],
   "tags": [
    "Racing"
+  ],
+  "regions": [
+   "International"
+  ]
+ },
+ {
+  "title": "It's Zwift's Big Weekend and prices have been slashed on the Ride with KICKR CORE 2",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lbWxDZHdsOFpub28xUDJkUkIxNmhQOTFSeUJ0ZEVkR25vSXJ2SXJhc3VDc3NuTXRZRmlfbmNIcHlQdExobi1weURFWU5kRmlvdVlQM2J3a1pKVGNfZ3p3VHdKOTRJaUFfWXlqb3FXZ2oyd2pFN0lhV21QUQ?oc=5",
+  "summary": "It's Zwift's Big Weekend and prices have been slashed on the Ride with KICKR CORE 2 BikeRadar",
+  "published": "2026-09-25T07:00:00+00:00",
+  "first_seen": "2026-10-21T05:13:33+00:00",
+  "source": "BikeRadar",
+  "found_via": "Google News - BikeRadar",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.bikeradar.com",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [
+   "Gear and Tech"
   ],
   "regions": [
    "International"
@@ -9098,6 +9805,7 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
+   "Industry",
    "Bike Culture"
   ],
   "regions": [
@@ -9140,7 +9848,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -9159,7 +9869,10 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -9178,7 +9891,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -9199,6 +9914,7 @@
   "search_tags": [],
   "tags": [
    "MTB and Trails",
+   "Gear and Tech",
    "Australian"
   ],
   "regions": []
@@ -9404,7 +10120,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Training and Health"
   ],
   "regions": []
  },
@@ -9462,7 +10179,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Industry"
+  ],
   "regions": [
    "International"
   ]
@@ -9481,7 +10200,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Para-cycling"
+  ],
   "regions": [
    "International"
   ]
@@ -9500,7 +10221,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Industry"
+  ],
   "regions": [
    "International"
   ]
@@ -9520,7 +10243,8 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Training and Health"
   ],
   "regions": [
    "International"
@@ -9540,7 +10264,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -9606,7 +10332,8 @@
    "Racing"
   ],
   "tags": [
-   "Racing"
+   "Racing",
+   "Crashes and Safety"
   ],
   "regions": []
  },
@@ -9624,7 +10351,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -9708,7 +10437,8 @@
   "search_tags": [],
   "tags": [
    "Racing",
-   "Gravel"
+   "Gravel",
+   "Gear and Tech"
   ],
   "regions": [
    "International"
@@ -9768,7 +10498,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Bike Culture"
+  ],
   "regions": [
    "International"
   ]
@@ -9787,7 +10519,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -9909,7 +10643,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Bike Culture"
+  ],
   "regions": [
    "International"
   ]
@@ -9929,7 +10665,8 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
-   "Gear and Tech"
+   "Gear and Tech",
+   "Industry"
   ],
   "regions": [
    "International"
@@ -9968,7 +10705,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Industry"
+  ],
   "regions": [
    "International"
   ]
@@ -10009,7 +10748,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Bike Culture"
   ],
   "regions": []
  },
@@ -10028,7 +10768,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Bike Culture"
   ],
   "regions": []
  },
@@ -10046,7 +10787,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Deals"
+  ],
   "regions": [
    "International"
   ]
@@ -10065,7 +10808,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -10107,7 +10852,8 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "MTB and Trails"
   ],
   "regions": [
    "International"
@@ -10127,7 +10873,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -10168,7 +10916,8 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
-   "Gear and Tech"
+   "Gear and Tech",
+   "Industry"
   ],
   "regions": [
    "International"
@@ -10232,7 +10981,9 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "MTB and Trails",
+   "Gear and Tech"
   ],
   "regions": [
    "International"
@@ -10252,7 +11003,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -10271,7 +11024,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -10373,7 +11128,9 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Industry",
+   "Riders"
   ],
   "regions": []
  },
@@ -10392,6 +11149,7 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
+   "Racing",
    "Gear and Tech"
   ],
   "regions": [
@@ -10412,7 +11170,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -10431,7 +11191,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -10451,7 +11213,8 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
-   "Gear and Tech"
+   "Gear and Tech",
+   "Industry"
   ],
   "regions": [
    "International"
@@ -10471,7 +11234,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -10552,7 +11317,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Training and Health"
+  ],
   "regions": [
    "International"
   ]
@@ -10614,6 +11381,7 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
+   "Gear and Tech",
    "Maintenance"
   ],
   "regions": [
@@ -10674,7 +11442,10 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "MTB and Trails",
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -10693,7 +11464,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Bike Culture"
+  ],
   "regions": [
    "International"
   ]
@@ -10712,7 +11485,9 @@
   "publisher_site": "https://www.sunshinecoastnews.com.au",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Crashes and Safety"
+  ],
   "regions": [
    "QLD"
   ]
@@ -10773,7 +11548,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -10813,7 +11590,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "MTB and Trails"
+  ],
   "regions": [
    "International"
   ]
@@ -10832,7 +11611,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "E-bikes"
+  ],
   "regions": []
  },
  {
@@ -10849,7 +11630,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -10888,7 +11671,8 @@
   "google_news": true,
   "search_tags": [],
   "tags": [
-   "Gear and Tech"
+   "Gear and Tech",
+   "E-bikes"
   ],
   "regions": [
    "International"
@@ -10931,7 +11715,9 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Industry",
+   "Bike Culture"
   ],
   "regions": []
  },
@@ -10970,7 +11756,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -10989,7 +11777,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -11008,7 +11798,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -11027,7 +11819,9 @@
   "publisher_site": "https://www.bikeradar.com",
   "google_news": true,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": [
    "International"
   ]
@@ -11067,7 +11861,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Industry"
   ],
   "regions": []
  },
@@ -11086,7 +11881,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Industry"
   ],
   "regions": []
  },
@@ -11126,7 +11922,8 @@
   "search_tags": [],
   "tags": [
    "Racing",
-   "Riders"
+   "Riders",
+   "Crashes and Safety"
   ],
   "regions": []
  },
@@ -11145,7 +11942,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "MTB and Trails"
+   "MTB and Trails",
+   "Gear and Tech"
   ],
   "regions": []
  },
@@ -11165,6 +11963,7 @@
   "search_tags": [],
   "tags": [
    "MTB and Trails",
+   "Gear and Tech",
    "E-bikes",
    "Australian"
   ],
@@ -11185,7 +11984,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "MTB and Trails"
+   "MTB and Trails",
+   "Industry"
   ],
   "regions": [
    "NSW"
@@ -11291,7 +12091,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Industry"
+  ],
   "regions": []
  },
  {
@@ -11333,7 +12136,9 @@
   "search_tags": [],
   "tags": [
    "MTB and Trails",
-   "Australian"
+   "Gear and Tech",
+   "Australian",
+   "Bike Culture"
   ],
   "regions": []
  },
@@ -11352,6 +12157,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
+   "Gear and Tech",
+   "Industry",
    "Australian"
   ],
   "regions": []
@@ -11372,6 +12179,7 @@
   "search_tags": [],
   "tags": [
    "MTB and Trails",
+   "Gear and Tech",
    "E-bikes",
    "Australian"
   ],
@@ -11392,7 +12200,9 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Gear and Tech",
+   "Industry"
   ],
   "regions": []
  },
@@ -11475,7 +12285,9 @@
   "search_tags": [],
   "tags": [
    "MTB and Trails",
-   "E-bikes"
+   "Gear and Tech",
+   "E-bikes",
+   "Industry"
   ],
   "regions": []
  },
@@ -11515,6 +12327,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
+   "MTB and Trails",
+   "Gear and Tech",
    "E-bikes",
    "Riders"
   ],
@@ -11534,7 +12348,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "E-bikes"
+  ],
   "regions": []
  },
  {
@@ -11551,7 +12368,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "MTB and Trails",
+   "Gear and Tech"
+  ],
   "regions": []
  },
  {
@@ -11611,7 +12431,9 @@
   "search_tags": [],
   "tags": [
    "Racing",
-   "Gravel"
+   "Gravel",
+   "Gear and Tech",
+   "Industry"
   ],
   "regions": []
  },
@@ -11629,7 +12451,11 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing",
+   "Gear and Tech",
+   "Australian"
+  ],
   "regions": [
    "International"
   ]
@@ -11669,7 +12495,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Racing",
+   "Bike Culture"
+  ],
   "regions": []
  },
  {
@@ -11686,7 +12515,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Bike Culture"
+  ],
   "regions": []
  },
  {
@@ -11703,7 +12534,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Bike Culture"
+  ],
   "regions": []
  },
  {
@@ -11722,7 +12555,8 @@
   "search_tags": [],
   "tags": [
    "MTB and Trails",
-   "Gear and Tech"
+   "Gear and Tech",
+   "Industry"
   ],
   "regions": []
  },
@@ -11740,7 +12574,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "MTB and Trails",
+   "Gear and Tech"
+  ],
   "regions": []
  },
  {
@@ -11776,7 +12613,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Bike Culture"
+  ],
   "regions": []
  },
  {
@@ -11794,7 +12633,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Bike Culture"
   ],
   "regions": []
  },
@@ -11813,7 +12653,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Riders"
+   "Riders",
+   "Crashes and Safety"
   ],
   "regions": []
  },
@@ -11931,7 +12772,8 @@
   "search_tags": [],
   "tags": [
    "MTB and Trails",
-   "Gear and Tech"
+   "Gear and Tech",
+   "Industry"
   ],
   "regions": []
  },
@@ -11968,7 +12810,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Industry"
+  ],
   "regions": []
  },
  {
@@ -12005,6 +12850,9 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
+   "Gear and Tech",
+   "Maintenance",
+   "Industry",
    "Australian"
   ],
   "regions": [
@@ -12063,7 +12911,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "E-bikes"
+  ],
   "regions": []
  },
  {
@@ -12100,7 +12951,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": []
  },
  {
@@ -12119,7 +12972,9 @@
   "search_tags": [],
   "tags": [
    "MTB and Trails",
-   "E-bikes"
+   "Gear and Tech",
+   "E-bikes",
+   "Industry"
   ],
   "regions": []
  },
@@ -12140,6 +12995,7 @@
   "tags": [
    "Racing",
    "Gravel",
+   "Gear and Tech",
    "Australian"
   ],
   "regions": [
@@ -12162,6 +13018,7 @@
   "search_tags": [],
   "tags": [
    "MTB and Trails",
+   "Gear and Tech",
    "E-bikes"
   ],
   "regions": []
@@ -12180,7 +13037,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "E-bikes"
+  ],
   "regions": []
  },
  {
@@ -12199,6 +13059,7 @@
   "search_tags": [],
   "tags": [
    "MTB and Trails",
+   "Gear and Tech",
    "E-bikes"
   ],
   "regions": []
@@ -12217,7 +13078,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "Industry"
+  ],
   "regions": []
  },
  {
@@ -12236,7 +13100,8 @@
   "search_tags": [],
   "tags": [
    "MTB and Trails",
-   "E-bikes"
+   "E-bikes",
+   "Industry"
   ],
   "regions": []
  },
@@ -12254,7 +13119,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech"
+  ],
   "regions": []
  },
  {
@@ -12272,6 +13139,7 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
+   "MTB and Trails",
    "Gear and Tech",
    "Maintenance"
   ],
@@ -12310,7 +13178,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "E-bikes"
+  ],
   "regions": []
  },
  {
@@ -12329,7 +13200,9 @@
   "search_tags": [],
   "tags": [
    "MTB and Trails",
-   "E-bikes"
+   "Gear and Tech",
+   "E-bikes",
+   "Industry"
   ],
   "regions": []
  },
@@ -12347,7 +13220,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "E-bikes"
+  ],
   "regions": []
  },
  {
@@ -12366,7 +13242,9 @@
   "search_tags": [],
   "tags": [
    "MTB and Trails",
-   "E-bikes"
+   "Gear and Tech",
+   "E-bikes",
+   "Industry"
   ],
   "regions": []
  },
@@ -12384,7 +13262,11 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "Gear and Tech",
+   "E-bikes",
+   "Industry"
+  ],
   "regions": []
  },
  {
@@ -12422,7 +13304,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "MTB and Trails",
+   "Gear and Tech"
+  ],
   "regions": []
  },
  {
@@ -12440,7 +13325,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "MTB and Trails"
+   "MTB and Trails",
+   "Gear and Tech"
   ],
   "regions": []
  },
@@ -12458,7 +13344,10 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "MTB and Trails",
+   "Gear and Tech"
+  ],
   "regions": []
  },
  {
@@ -12477,7 +13366,8 @@
   "search_tags": [],
   "tags": [
    "Gravel",
-   "Gear and Tech"
+   "Gear and Tech",
+   "Industry"
   ],
   "regions": []
  },
@@ -12496,7 +13386,8 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "MTB and Trails"
+   "MTB and Trails",
+   "Gear and Tech"
   ],
   "regions": []
  },
@@ -12515,7 +13406,9 @@
   "google_news": false,
   "search_tags": [],
   "tags": [
-   "Racing"
+   "Racing",
+   "Gear and Tech",
+   "Industry"
   ],
   "regions": []
  },
@@ -12554,7 +13447,9 @@
   "search_tags": [],
   "tags": [
    "MTB and Trails",
-   "E-bikes"
+   "Gear and Tech",
+   "E-bikes",
+   "Industry"
   ],
   "regions": []
  },
@@ -12572,7 +13467,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "E-bikes"
+  ],
   "regions": []
  },
  {
@@ -12651,6 +13548,7 @@
   "tags": [
    "Racing",
    "MTB and Trails",
+   "Industry",
    "Events"
   ],
   "regions": [
@@ -12694,7 +13592,8 @@
   "search_tags": [],
   "tags": [
    "MTB and Trails",
-   "Gravel"
+   "Gravel",
+   "Gear and Tech"
   ],
   "regions": []
  },
@@ -12733,7 +13632,9 @@
   "publisher_site": "",
   "google_news": false,
   "search_tags": [],
-  "tags": [],
+  "tags": [
+   "MTB and Trails"
+  ],
   "regions": [
    "TAS"
   ]
