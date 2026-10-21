@@ -534,7 +534,48 @@
         white-space: nowrap;
       }
 
+      /* ---------- Eject: a break from the news ---------- */
+      .eject {
+        position: fixed;
+        right: 1.25rem;
+        bottom: 1.25rem;
+        z-index: 10;
+        width: 4.75rem;
+        height: 4.75rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 0.4rem;
+        border: 3px solid var(--panel);
+        border-radius: 50%;
+        background: var(--pink);
+        color: var(--panel);
+        font-family: var(--pixel);
+        font-size: 0.6rem;
+        text-decoration: none;
+        box-shadow: 4px 4px 0 0 rgba(8, 12, 32, 0.7);
+      }
+      .eject:hover {
+        background: var(--yellow);
+      }
+      .eject svg {
+        width: 1.3rem;
+        height: 1.3rem;
+      }
+      /* Room at the bottom so the button never hides the footer */
+      .wrap {
+        padding-bottom: 7rem;
+      }
+
       @media (max-width: 600px) {
+        .eject {
+          right: 1rem;
+          bottom: 1rem;
+          width: 4rem;
+          height: 4rem;
+          font-size: 0.55rem;
+        }
         .marquee {
           padding: 1.25rem;
         }
@@ -618,6 +659,23 @@
         </div>
       </footer>
     </div>
+
+    <a class="eject" href="escape.html">
+      <svg viewBox="0 0 7 8" shape-rendering="crispEdges" aria-hidden="true">
+        <rect x="3" y="0" width="1" height="1" fill="currentColor" />
+        <rect x="2" y="1" width="3" height="4" fill="currentColor" />
+        <rect x="3" y="2" width="1" height="1" fill="#fff1e8" />
+        <rect x="1" y="4" width="5" height="1" fill="currentColor" />
+        <rect x="0" y="5" width="1" height="2" fill="currentColor" />
+        <rect x="2" y="5" width="3" height="1" fill="currentColor" />
+        <rect x="6" y="5" width="1" height="2" fill="currentColor" />
+        <rect x="2" y="6" width="1" height="1" fill="#ff004d" />
+        <rect x="4" y="6" width="1" height="1" fill="#ff004d" />
+        <rect x="3" y="7" width="1" height="1" fill="#ffa300" />
+      </svg>
+      EJECT
+      <span class="visually-hidden">: take a break in the Escape Pod</span>
+    </a>
     <script>
       const PAGE_SIZE = 60;
       const NEW_HOURS = 48;

@@ -4,6 +4,7 @@ import calendar
 import html
 import json
 import re
+import sys
 import textwrap
 from collections import Counter
 from datetime import datetime, timedelta, timezone
@@ -142,6 +143,10 @@ def process_stories(stories, settings):
     extra_domains = settings.get("australian_sources", {}).get("extra_domains", [])
     publisher_regions = settings.get("publisher_regions", {})
     blocked = [b.lower() for b in settings.get("blocked_publishers", [])]
+    australian_only = settings["site"].get("australian_only", True)
+    # Searches with must_mention, keyed by the name their stories record
+    must_mention = {f"Google News - {s['name']}": s["must_mention"]
+                    for s in settings.get("google_news", []) if s.get("must_mention")}
 
     seen_links, seen_titles = {}, {}   # link/title -> story already kept
     kept = []
@@ -158,7 +163,7 @@ def process_stories(stories, settings):
             removed["too old"] += 1
             continue
 
-        if story["google_news"] and not is_australian(host, extra_domains):
+        if australian_only and story["google_news"] and not is_australian(host, extra_domains):
             removed["not Australian"] += 1
             removed_publishers[f"{story['source']} ({host})"] += 1
             continue
@@ -169,6 +174,12 @@ def process_stories(stories, settings):
 
         if find_matches(text, settings["exclude_keywords"]):
             removed["excluded word"] += 1
+            continue
+
+        # Some searches only keep stories whose headline uses certain words
+        words = must_mention.get(story["found_via"])
+        if words and not find_matches(story["title"], words):
+            removed["headline off topic"] += 1
             continue
 
         if story["filter"] and not find_matches(text, settings["relevance_keywords"]):
@@ -284,7 +295,8 @@ def export_site(stories, settings):
         "regions": list(settings["regions"]),
         "stories": items,
     }
-    (SITE_DIR / "stories.json").write_text(
+    data_file = settings["site"].get("data_file", "stories.json")
+    (SITE_DIR / data_file).write_text(
         json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
     # Tells GitHub Pages to serve the files as they are
@@ -294,7 +306,15 @@ def export_site(stories, settings):
 # ---------- Run ----------
 
 def main():
-    settings = load_settings()
+    global HISTORY_FILE
+
+    # Settings file: python build.py sport.yaml (default feeds.yaml)
+    settings_file = sys.argv[1] if len(sys.argv) > 1 else "feeds.yaml"
+    settings = load_settings(settings_file)
+    print(f"Settings: {settings_file}")
+
+    # Each settings file can name its own archive
+    HISTORY_FILE = Path(settings["site"].get("history_file", "data/stories.json"))
 
     history = load_history()
     old_links = {s["link"] for s in history}

@@ -1,0 +1,295 @@
+# Kerbside Sport - settings
+# Same format as feeds.yaml. Build it with:  python build.py sport.yaml
+
+site:
+  title: Kerbside Sport
+  keep_days: 365 # remove saved stories older than this
+  max_items: 5000 # maximum stories kept in the archive
+  google_news_days: 30 # Google News searches only return stories this recent
+  history_file: data/sport.json # its own archive, separate from the main site
+  data_file: sport.json # the file docs/sport.html reads
+  australian_only: false # international cycling media is welcome here
+
+# ---------------------------------------------------------------
+# DIRECT FEEDS
+# All of these are cycling sites, so filter: false keeps every story.
+# region -> optional; always tag stories from this feed with this region
+# ---------------------------------------------------------------
+feeds:
+  # ----- Australian -----
+  - name: RIDE Media
+    url: https://www.ridemedia.com.au/feed/
+    source_type: News
+    filter: false
+
+  - name: The Detour
+    url: https://www.thedetour.online/blog-feed.xml
+    source_type: News
+    filter: false
+
+  - name: Bicycling Australia
+    url: https://bicyclingaustralia.com.au/feed/
+    source_type: News
+    filter: false
+
+  - name: Australian Mountain Bike
+    url: https://www.ambmag.com.au/feed/
+    source_type: News
+    filter: false
+
+  - name: Flow Mountain Bike
+    url: https://flowmountainbike.com/feed/
+    source_type: News
+    filter: false
+
+  # ----- International -----
+  - name: Cyclingnews
+    url: https://www.cyclingnews.com/feeds.xml
+    source_type: News
+    filter: false
+    region: International
+
+  - name: Escape Collective
+    url: https://escapecollective.com/feed/
+    source_type: News
+    filter: false
+    region: International
+
+  - name: Cycling Weekly
+    url: https://www.cyclingweekly.com/feeds.xml
+    source_type: News
+    filter: false
+    region: International
+
+  - name: Velo
+    url: https://velo.outsideonline.com/feed/
+    source_type: News
+    filter: false
+    region: International
+
+# ---------------------------------------------------------------
+# GOOGLE NEWS SEARCHES
+# Write queries as you would in Google News. The script builds the feed link.
+# tag -> every story found by this search gets this topic tag.
+# must_mention -> optional; only keep stories whose headline uses one of
+#                 these words (Google matches loosely, so this cuts noise)
+# ---------------------------------------------------------------
+google_news:
+  # ----- Sites without their own feed -----
+  - name: Global Cycling Network
+    query: "site:globalcyclingnetwork.com"
+  - name: BikeRadar
+    query: "site:bikeradar.com"
+  # Catches AusCycling's own news and coverage that mentions them
+  - name: AusCycling
+    query: "AusCycling"
+
+  # ----- Grassroots and urban riding -----
+  # "alley cat" with a space catches events like the Purrth Alley Cat
+  - name: Alleycats
+    query: '("alleycat" OR "alley cat") (race OR bike OR cycling)'
+    tag: Odd and Urban
+    must_mention: [alleycat, alleycats, alley cat race, alley cat ride, Purrth]
+  - name: Bike polo
+    query: '"bike polo" OR "bicycle polo"'
+    tag: Odd and Urban
+    must_mention: [polo]
+  - name: Fixed gear
+    query: '"fixed gear" (bike OR bicycle OR fixie)'
+    tag: Odd and Urban
+    must_mention: [fixed gear, fixed-gear, fixie, fixies]
+  - name: Cargo bike racing
+    query: '"cargo bike" (race OR racing)'
+    tag: Odd and Urban
+    must_mention:
+      [
+        cargo bike race,
+        cargo bike races,
+        cargo bike racing,
+        cargo bike racers,
+        cargo bike championships,
+        cargo bike grand prix,
+      ]
+  - name: Criteriums
+    query: "criterium"
+    tag: Racing
+    must_mention: [criterium, criteriums, crit, crits]
+
+# Stories from these publishers are always tagged with that region
+publisher_regions:
+  International:
+    [
+      globalcyclingnetwork.com,
+      bikeradar.com,
+      cyclingnews.com,
+      cyclingweekly.com,
+      escapecollective.com,
+      outsideonline.com,
+    ]
+
+# Stories from publishers whose name contains any of these are always dropped
+# (horse racing and share market sites also use the word "criterium")
+blocked_publishers:
+  - Kalkine
+  - At The Races
+  - Racing TV
+  - Betfair
+
+# ---------------------------------------------------------------
+# FILTERING
+# ---------------------------------------------------------------
+
+# Only used by feeds marked filter: true (none at the moment)
+relevance_keywords:
+  - cycling
+  - cyclist
+  - bike
+  - bicycle
+  - race
+  - racing
+
+# Stories mentioning any of these are dropped from every source
+exclude_keywords:
+  # Motor sport and gym bikes
+  - motorcycle
+  - motorbike
+  - dirt bike
+  - motocross
+  - spin class
+  # Not cycling: a gas company, a Paris horse racecourse and a ski race
+  - Criterium Energy
+  - Longchamp
+  - Première Neige
+
+# ---------------------------------------------------------------
+# TAGS
+# A story gets a tag if it mentions any listed word.
+# Starting point only: check the tag counts after each build and adjust.
+# ---------------------------------------------------------------
+tag_groups:
+  Racing:
+    Racing:
+      [race, races, racing, criterium, crit, wins, win, victory, sprint,
+       breakaway, stage, stage race, podium, title, titles, Worlds,
+       championships, championship, world champion, rainbow stripes,
+       grand tour, time trial, TTT, relay, photo finish, peloton, UCI,
+       WorldTour, Tour de France, Giro, Vuelta, Tour Down Under,
+       Grand Prix, classics, monument, yellow jersey, start line]
+    Track and Cross:
+      [track cycling, velodrome, keirin, madison, omnium,
+       individual pursuit, team pursuit, cyclocross, cross race]
+    MTB and Trails:
+      [mountain bike, mountain biking, MTB, enduro, downhill, singletrack,
+       trail network, bike park, cross-country, hardtail, trail bike,
+       fork, forks, damper, dropper, Hardline, gravity, freeride]
+    Gravel: [gravel, gravel race, gravel racing, gravel bike, Unbound]
+
+  Bikes and gear:
+    Gear and Tech:
+      [review, reviewed, bike review, first ride, first look, on test,
+       tested, launches, launched, unveils, reveals, releases, updates,
+       new bike, groupset, drivetrain, wheels, wheelset, tyre, tyres,
+       tires, tyre clearance, frame, frames, frameset, road bike, helmet,
+       power meter, bike computer, bike computers, head unit, Garmin,
+       Wahoo, Hammerhead, pedals, shoes, bike light, bike lights,
+       front light, rear light, smart trainer, turbo trainer,
+       indoor trainer, smart bike, Zwift, Shimano, SRAM, Dura-Ace, Di2,
+       32in, 32-inch, aero, jacket, jackets, upgrade, upgrades, recall]
+    E-bikes:
+      [e-bike, e-bikes, ebike, eMTB, e-MTB, electric bike, motor, motors,
+       Bosch, Avinox, Levo]
+    Maintenance:
+      [maintenance, servicing, puncture, repair, repairs, bike shop,
+       mechanic, mechanics, how to]
+    Deals:
+      [deal, deals, Prime Day, Big Deal Days, discount, discounts,
+       discount code, sale, lowest price, half price]
+    Industry:
+      [bike industry, industry, CEO, brand, brands, company, companies,
+       administration, staff cuts, price war, hiring]
+
+  Riders and teams:
+    Riders:
+      [joins, signs, signs with, signs for, re-signs, signing, signings,
+       quits, switch, sponsor, sponsors, partnership, hangs up, contract,
+       transfer, transfers, retires, retirement, comeback, interview,
+       debut, neo-pro, development squad]
+    Crashes and Safety:
+      [crash, crashes, crashed, collision, collide, injury, injuries,
+       injured, hospital, intensive care, fractured, broken collarbone,
+       paralysis, killed, died, dies, road safety, red light, red lights,
+       road rules, road closures, police]
+    Doping: [doping, anti-doping, whereabouts, suspended, ban, banned]
+    Women:
+      [women's, womens, women's peloton, Women's WorldTour, female riders]
+    Para-cycling:
+      [para-cycling, paracycling, para-cyclist, handcycle, Paralympic,
+       Paralympian, Paralympics, tandem]
+    Australian:
+      [Australia, Australian, Australians, Aussie, Aussies, AusCycling]
+
+  Training and health:
+    Training and Health:
+      [training, nutrition, diet, FTP, fitness, strength training,
+       recovery, supplements, knee pain, bike fit, exercises, workout,
+       intervals, heat training, breathing, testosterone, ageing,
+       anti-ageing, over 50, wellness, health]
+
+  Culture and events:
+    Events:
+      [sportive, gran fondo, charity ride, bunch ride, fun ride, festival,
+       Around the Bay, bike week, audax, brevet, Bowral Classic, charity,
+       raised, tickets, ticket sales, ultra-cyclist, ultra-cycling,
+       bikepacking race]
+    Bike Culture:
+      [bike culture, cycling culture, critical mass, bike bus, bike co-op,
+       bike kitchen, cycling club, group ride, slow ride, commuting,
+       bikepacking, podcast, newsletter, history, vintage, retro, greatest,
+       ranked, auction, collectible, tribute]
+    Odd and Urban:
+      [alleycat, alley cat, bike polo, bicycle polo, cargo bike race,
+       cargo bike racing, fixed gear, fixie, goldsprint, goldsprints,
+       bike messenger, bike messengers, bike courier, trackstand,
+       Brompton World Championship, tweed ride, penny farthing, unicycle,
+       bike jousting, cycle speedway]
+
+# ---------------------------------------------------------------
+# REGIONS
+# Stories are tagged with any region whose places they mention.
+# ---------------------------------------------------------------
+regions:
+  NSW: [New South Wales, NSW, Sydney, Newcastle, Wollongong, Thredbo]
+  VIC: [Victoria, Melbourne, Geelong, Ballarat, Bendigo, Mount Buller]
+  QLD:
+    [Queensland, QLD, Brisbane, Gold Coast, Sunshine Coast, Cairns, Toowoomba]
+  WA:
+    [
+      Western Australia,
+      WA,
+      Perth,
+      Purrth,
+      Fremantle,
+      Margaret River,
+      Kalamunda,
+    ]
+  SA: [South Australia, Adelaide, Willunga]
+  TAS: [Tasmania, Hobart, Launceston, Blue Derby, Maydena]
+  ACT: [Canberra, Australian Capital Territory, Stromlo]
+  NT: [Northern Territory, Darwin, Alice Springs]
+  International:
+    [
+      France,
+      Belgium,
+      Netherlands,
+      Italy,
+      Spain,
+      Switzerland,
+      United Kingdom,
+      England,
+      Scotland,
+      Europe,
+      United States,
+      Canada,
+      New Zealand,
+      Japan,
+    ]

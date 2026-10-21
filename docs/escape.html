@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="dark" />
+    <title>Kerbside Escape Pod</title>
+    <meta
+      name="description"
+      content="A break from the news: an endless scroll of street patterns, bike parts, shapes and colours."
+    />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' shape-rendering='crispEdges'><rect width='8' height='8' fill='%231D2B53'/><rect x='1' y='1' width='3' height='3' fill='%23FF77A8'/><rect x='4' y='1' width='3' height='3' fill='%2300E436'/><rect x='1' y='4' width='3' height='3' fill='%2329ADFF'/><rect x='4' y='4' width='3' height='3' fill='%23FFEC27'/></svg>"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Nunito:wght@400;600;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        /* Same 8-bit console palette as the news pages */
+        --night: #1d2b53;
+        --panel: #111a38;
+        --ink: #fff1e8;
+        --line: #83769c;
+        --yellow: #ffec27;
+        --red: #ff004d;
+
+        --pixel: "Press Start 2P", "Courier New", monospace;
+        --sans: "Nunito", ui-rounded, "Segoe UI", system-ui, sans-serif;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        background: var(--night);
+      }
+      body {
+        margin: 0;
+        color: var(--ink);
+        font-family: var(--sans);
+        background: radial-gradient(
+              circle,
+              rgba(255, 241, 232, 0.05) 1px,
+              transparent 1.6px
+            )
+            0 0 / 10px 10px,
+          var(--night);
+      }
+
+      :focus-visible {
+        outline: 3px solid var(--yellow);
+        outline-offset: 3px;
+      }
+
+      /* ---------- Top bar: stays in view while you scroll ---------- */
+      .bar {
+        position: sticky;
+        top: 0;
+        z-index: 5;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        gap: 0.75rem 1rem;
+        padding: 0.75rem 1.25rem;
+        background: var(--panel);
+        border-bottom: 2px solid var(--line);
+      }
+      .bar h1 {
+        margin: 0;
+        font-family: var(--pixel);
+        font-weight: 400;
+        font-size: clamp(0.8rem, 2.2vw, 1.1rem);
+        line-height: 1.6;
+        color: var(--yellow);
+        text-shadow: 2px 2px 0 var(--red);
+      }
+      .controls {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+      }
+      .pill {
+        font-family: var(--pixel);
+        font-size: 0.6rem;
+        line-height: 1.6;
+        color: var(--ink);
+        background: var(--night);
+        border: 2px solid var(--line);
+        border-radius: 999px;
+        padding: 0.5rem 0.8rem;
+        cursor: pointer;
+        text-decoration: none;
+        box-shadow: 3px 3px 0 0 rgba(8, 12, 32, 0.55);
+      }
+      .pill:hover {
+        border-color: var(--yellow);
+      }
+      .pill[aria-pressed="true"] {
+        background: var(--yellow);
+        border-color: var(--yellow);
+        color: var(--panel);
+      }
+
+      /* ---------- The tiles ---------- */
+      .wrap {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 1.5rem 1.25rem 3rem;
+      }
+      .tiles {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+        gap: 14px;
+      }
+      .tile {
+        display: block;
+        width: 100%;
+        aspect-ratio: 1;
+        padding: 0;
+        border: 0;
+        border-radius: 14px;
+        overflow: hidden;
+        cursor: pointer;
+        /* Shows the tile's main colour while its pattern is being drawn */
+        background: var(--a, var(--panel));
+        box-shadow: 5px 5px 0 0 rgba(8, 12, 32, 0.55);
+        transition: background-color 0.7s ease;
+      }
+      .tile svg {
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+
+      /* Each tile has three colours: a (background), b and c */
+      .a { fill: var(--a); }
+      .b { fill: var(--b); }
+      .c { fill: var(--c); }
+      .sb { fill: none; stroke: var(--b); }
+      .sc { fill: none; stroke: var(--c); }
+      .a, .b, .c { transition: fill 0.7s ease; }
+      .sb, .sc { transition: stroke 0.7s ease; }
+
+      /* Gentle motion on a few patterns */
+      .d24 { animation: d24 9s linear infinite; }
+      .d20 { animation: d20 8s linear infinite; }
+      .spin { animation: spin 40s linear infinite; transform-origin: 50px 50px; }
+      @keyframes d24 { to { transform: translateX(24px); } }
+      @keyframes d20 { to { transform: translateX(20px); } }
+      @keyframes spin { to { transform: rotate(360deg); } }
+
+      /* A little squish when you tap a tile */
+      .boop { animation: boop 0.35s ease; }
+      @keyframes boop { 40% { transform: scale(0.93); } }
+
+      /* No motion at all if the device asks for less motion */
+      @media (prefers-reduced-motion: reduce) {
+        .d24, .d20, .spin, .boop { animation: none; }
+        .tile, .a, .b, .c, .sb, .sc { transition-duration: 0.2s; }
+      }
+
+      .visually-hidden {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+        clip: rect(0 0 0 0);
+        white-space: nowrap;
+      }
+
+      @media (max-width: 600px) {
+        .bar { padding: 0.6rem 1rem; }
+        .wrap { padding: 1rem 1rem 3rem; }
+        .tiles { gap: 12px; }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="bar">
+      <h1>Escape Pod</h1>
+      <div class="controls">
+        <button class="pill" id="arcade" type="button" aria-pressed="true">
+          Arcade
+        </button>
+        <button class="pill" id="soft" type="button" aria-pressed="false">
+          Soft
+        </button>
+        <a class="pill" id="back" href="./">Back to the news</a>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <p class="visually-hidden">
+        An endless scroll of street patterns and bike parts. Tap any tile to
+        change its colours.
+      </p>
+      <div class="tiles" id="tiles"></div>
+      <div id="end"></div>
+      <noscript><p>The Escape Pod needs JavaScript to draw its patterns.</p></noscript>
+    </main>
+
+    <script>
+      // ---------- Settings ----------
+      const BATCH = 24; // tiles added each time you get near the bottom
+      const BIKE_CHANCE = 1 / 6; // how often a bike part appears
+
+      // Two colour sets: the Kerbside 8-bit palette, and a softer version.
+      // Each tile uses one dark colour and two light ones.
+      const PALETTES = {
+        arcade: {
+          dark: ["#1D2B53", "#7E2553", "#008751", "#5F574F", "#111A38", "#AB5236"],
+          light: ["#FF004D", "#FFA300", "#FFEC27", "#00E436", "#29ADFF",
+                  "#83769C", "#FF77A8", "#FFCCAA", "#FFF1E8", "#C2C3C7"],
+        },
+        soft: {
+          dark: ["#2A3356", "#4B3550", "#2E4A45", "#4A4542", "#232A44", "#5A4038"],
+          light: ["#E89BA8", "#F0C08A", "#EEE0A0", "#9FD6AE", "#9CC7E6",
+                  "#B6AACB", "#F2B8C9", "#F3D5C2", "#EDE6DD", "#C9CBD0"],
+        },
+      };
+
+      // ---------- Helpers ----------
+
+      // A random number generator that repeats from a seed, so a tile
+      // looks the same when it scrolls back into view
+      function seeded(seed) {
+        return function () {
+          seed = (seed + 0x6d2b79f5) | 0;
+          let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+          t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+          return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+        };
+      }
+      const between = (rand, a, b) => a + rand() * (b - a);
+      const f1 = (v) => v.toFixed(1);
+      const around = (r, angle) =>
+        `${f1(50 + r * Math.cos(angle))},${f1(50 + r * Math.sin(angle))}`;
+
+      // A toothed ring, used for the chainring and the cassette
+      function gear(outer, inner, teeth, cls) {
+        const points = [];
+        const root = (Math.PI / teeth) * 0.55;
+        const tip = (Math.PI / teeth) * 0.3;
+        for (let i = 0; i < teeth; i++) {
+          const a = (i / teeth) * Math.PI * 2;
+          points.push(around(inner, a - root), around(outer, a - tip),
+                      around(outer, a + tip), around(inner, a + root));
+        }
+        return `<polygon class="${cls}" points="${points.join(" ")}"/>`;
+      }
+
+      // ---------- Patterns ----------
+      // Each pattern draws inside a 100 x 100 square.
+      // turn: true means it can be rotated for extra variety.
+
+      const STREET = [
+        {
+          name: "Tactile paving",
+          draw() {
+            let s = "";
+            for (let i = 0; i < 5; i++)
+              for (let j = 0; j < 5; j++) {
+                const x = 14 + 18 * i, y = 14 + 18 * j;
+                s += `<circle class="b" cx="${x}" cy="${y}" r="6.5"/>` +
+                     `<circle class="c" cx="${x - 1.8}" cy="${y - 1.8}" r="2.2"/>`;
+              }
+            return s;
+          },
+        },
+        {
+          name: "Zebra crossing",
+          turn: true,
+          draw() {
+            let s = '<g class="d24">';
+            for (let x = -24; x < 124; x += 24)
+              s += `<rect class="b" x="${x}" y="14" width="12" height="72"/>`;
+            return s + '</g><rect class="c" x="0" y="5" width="100" height="4"/>' +
+                       '<rect class="c" x="0" y="91" width="100" height="4"/>';
+          },
+        },
+        {
+          name: "Curved paths",
+          draw(rand) {
+            let s = "";
+            const r = 12.5;
+            for (let i = 0; i < 4; i++)
+              for (let j = 0; j < 4; j++) {
+                const x = i * 25, y = j * 25;
+                const d = rand() < 0.5
+                  ? `M${x + r} ${y}A${r} ${r} 0 0 1 ${x} ${y + r}M${x + 25} ${y + r}A${r} ${r} 0 0 0 ${x + r} ${y + 25}`
+                  : `M${x + r} ${y}A${r} ${r} 0 0 0 ${x + 25} ${y + r}M${x} ${y + r}A${r} ${r} 0 0 1 ${x + r} ${y + 25}`;
+                s += `<path class="sb" stroke-width="5" stroke-linecap="round" d="${d}"/>`;
+              }
+            return s;
+          },
+        },
+        {
+          name: "Brick bond",
+          turn: true,
+          draw(rand) {
+            let s = "";
+            for (let row = 0; row < 8; row++) {
+              const offset = row % 2 ? -12.5 : 0;
+              for (let x = offset; x < 100; x += 25)
+                s += `<rect class="${rand() < 0.18 ? "c" : "b"}" x="${x + 1}" y="${row * 12.5 + 1}" width="23" height="10.5" rx="1.5"/>`;
+            }
+            return s;
+          },
+        },
+        {
+          name: "Manhole cover",
+          draw() {
+            let s = '<circle class="b" cx="50" cy="50" r="45"/>' +
+                    '<circle class="a" cx="50" cy="50" r="39.5"/>' +
+                    '<circle class="b" cx="50" cy="50" r="36"/>';
+            for (let gx = -30; gx <= 30; gx += 8.5)
+              for (let gy = -30; gy <= 30; gy += 8.5)
+                if (Math.hypot(gx, gy) < 28) {
+                  const cx = 50 + gx, cy = 50 + gy;
+                  s += `<rect class="c" x="${cx - 2.5}" y="${cy - 2.5}" width="5" height="5" rx="1" transform="rotate(45 ${cx} ${cy})"/>`;
+                }
+            for (let k = 0; k < 16; k++) {
+              const t = (k / 16) * Math.PI * 2;
+              s += `<circle class="a" cx="${f1(50 + 42.2 * Math.cos(t))}" cy="${f1(50 + 42.2 * Math.sin(t))}" r="1.5"/>`;
+            }
+            return s;
+          },
+        },
+        {
+          name: "Kerb stripes",
+          turn: true,
+          draw() {
+            let s = '<g transform="rotate(45 50 50)"><g class="d20">';
+            for (let x = -100; x < 200; x += 20)
+              s += `<rect class="b" x="${x}" y="-50" width="10" height="200"/>`;
+            return s + "</g></g>";
+          },
+        },
+        {
+          name: "Terrazzo",
+          draw(rand) {
+            let s = "";
+            for (let k = 0; k < 34; k++) {
+              const cx = between(rand, 0, 100), cy = between(rand, 0, 100);
+              const size = between(rand, 2, 7);
+              const corners = 3 + Math.floor(rand() * 3);
+              const start = between(rand, 0, 6.28);
+              const pts = [];
+              for (let q = 0; q < corners; q++) {
+                const t = start + (q / corners) * 6.28 + between(rand, -0.4, 0.4);
+                const rr = size * between(rand, 0.6, 1.1);
+                pts.push(`${f1(cx + rr * Math.cos(t))},${f1(cy + rr * Math.sin(t))}`);
+              }
+              s += `<polygon class="${rand() < 0.65 ? "b" : "c"}" points="${pts.join(" ")}"/>`;
+            }
+            for (let k = 0; k < 30; k++)
+              s += `<circle class="c" cx="${f1(between(rand, 0, 100))}" cy="${f1(between(rand, 0, 100))}" r="${f1(between(rand, 0.8, 1.6))}"/>`;
+            return s;
+          },
+        },
+        {
+          name: "Give way markings",
+          turn: true,
+          draw() {
+            let s = "";
+            for (const y of [16, 46, 76]) {
+              s += `<rect class="c" x="0" y="${y - 8}" width="100" height="3"/>`;
+              for (let k = 0; k < 5; k++) {
+                const x = 1 + k * 20;
+                s += `<polygon class="b" points="${x},${y} ${x + 18},${y} ${x + 9},${y + 16}"/>`;
+              }
+            }
+            return s;
+          },
+        },
+        {
+          name: "Tree grate",
+          draw() {
+            let s = '<circle class="b" cx="50" cy="50" r="46"/>' +
+                    '<circle class="c" cx="50" cy="50" r="13"/>';
+            for (const [r, n] of [[21, 12], [30, 18], [39, 24]])
+              for (let k = 0; k < n; k++)
+                s += `<rect class="a" x="48.5" y="${50 - r - 4}" width="3" height="8" rx="1.5" transform="rotate(${f1((360 / n) * k + (r % 2 ? 7 : 0))} 50 50)"/>`;
+            return s;
+          },
+        },
+        {
+          name: "Cobbles",
+          draw(rand) {
+            let s = "";
+            const cell = 100 / 7;
+            for (let i = 0; i < 7; i++)
+              for (let j = 0; j < 7; j++)
+                s += `<rect class="${rand() < 0.12 ? "c" : "b"}" x="${f1(i * cell + 1.5 + between(rand, -0.8, 0.8))}" y="${f1(j * cell + 1.5 + between(rand, -0.8, 0.8))}" width="${f1(cell - 3)}" height="${f1(cell - 3)}" rx="3"/>`;
+            return s;
+          },
+        },
+        {
+          name: "Drain grate",
+          turn: true,
+          draw() {
+            let s = '<rect class="b" x="6" y="6" width="88" height="88" rx="6"/>';
+            for (let i = 0; i < 7; i++)
+              s += `<rect class="a" x="${15 + i * 11}" y="16" width="5" height="68" rx="2.5"/>`;
+            for (const [x, y] of [[11, 11], [89, 11], [11, 89], [89, 89]])
+              s += `<circle class="c" cx="${x}" cy="${y}" r="2.5"/>`;
+            return s;
+          },
+        },
+        {
+          name: "Ripples",
+          draw() {
+            let s = "";
+            let i = 0;
+            for (let r = 46; r > 0; r -= 8)
+              s += `<circle class="${i++ % 2 ? "c" : "b"}" cx="50" cy="50" r="${r}"/>`;
+            return s;
+          },
+        },
+      ];
+
+      const BIKE = [
+        {
+          name: "Bike wheel",
+          draw() {
+            let s = '<g class="spin"><circle class="b" cx="50" cy="50" r="46"/>' +
+                    '<circle class="a" cx="50" cy="50" r="41.5"/>' +
+                    '<circle class="sc" cx="50" cy="50" r="38.5" stroke-width="2.5"/>';
+            for (let k = 0; k < 32; k++) {
+              const t = (k / 32) * Math.PI * 2;
+              const rim = t + (k % 2 ? 0.6 : -0.6);
+              s += `<line class="sc" stroke-width="0.9" x1="${f1(50 + 6 * Math.cos(t))}" y1="${f1(50 + 6 * Math.sin(t))}" x2="${f1(50 + 37 * Math.cos(rim))}" y2="${f1(50 + 37 * Math.sin(rim))}"/>`;
+            }
+            return s + '<circle class="c" cx="50" cy="50" r="6.5"/>' +
+                       '<circle class="a" cx="50" cy="50" r="2.5"/>' +
+                       '<rect class="c" x="48.5" y="5" width="3" height="5" rx="1"/></g>';
+          },
+        },
+        {
+          name: "Chainring",
+          draw() {
+            let s = gear(45, 39.5, 30, "b") + '<circle class="a" cx="50" cy="50" r="33.5"/>';
+            for (let k = 0; k < 5; k++)
+              s += `<rect class="b" x="46" y="18" width="8" height="34" rx="4" transform="rotate(${k * 72} 50 50)"/>` +
+                   `<circle class="c" cx="50" cy="21.5" r="2" transform="rotate(${k * 72} 50 50)"/>`;
+            return s + '<circle class="b" cx="50" cy="50" r="12"/><circle class="c" cx="50" cy="50" r="5"/>';
+          },
+        },
+        {
+          name: "Bike chain",
+          turn: true,
+          draw() {
+            let s = "";
+            for (const y of [22, 50, 78]) {
+              s += '<g class="d20">';
+              for (let x = -40; x < 120; x += 20)
+                s += `<rect class="${(x / 20) % 2 ? "c" : "b"}" x="${x}" y="${y - 7}" width="24" height="14" rx="7"/>` +
+                     `<circle class="a" cx="${x + 6}" cy="${y}" r="2.6"/>` +
+                     `<circle class="a" cx="${x + 18}" cy="${y}" r="2.6"/>`;
+              s += "</g>";
+            }
+            return s;
+          },
+        },
+        {
+          name: "Cassette",
+          draw() {
+            let s = "";
+            let i = 0;
+            for (const [outer, teeth] of [[46, 34], [37.5, 28], [29.5, 22], [21.5, 16]])
+              s += gear(outer, outer - 4.5, teeth, i++ % 2 ? "c" : "b") +
+                   `<circle class="a" cx="50" cy="50" r="${outer - 6.5}"/>`;
+            return s + '<circle class="b" cx="50" cy="50" r="10"/><circle class="a" cx="50" cy="50" r="5"/>';
+          },
+        },
+      ];
+
+      // ---------- Colours ----------
+      let mode = "arcade";
+      try {
+        if (localStorage.getItem("escape-mode") === "soft") mode = "soft";
+      } catch (e) {}
+
+      const pickIndex = (n) => Math.floor(Math.random() * n);
+
+      // Choose a dark colour and two different light ones (sometimes swapped)
+      function pickColours() {
+        const b = pickIndex(10);
+        let c = pickIndex(10);
+        while (c === b) c = pickIndex(10);
+        return { a: pickIndex(6), b, c, swap: Math.random() < 0.25 };
+      }
+
+      function paint(tile) {
+        const set = PALETTES[mode];
+        const k = tile.colours;
+        const dark = set.dark[k.a], one = set.light[k.b], two = set.light[k.c];
+        const [a, b, c] = k.swap ? [one, dark, two] : [dark, one, two];
+        tile.style.setProperty("--a", a);
+        tile.style.setProperty("--b", b);
+        tile.style.setProperty("--c", c);
+      }
+
+      // ---------- Tiles ----------
+      const tiles = document.getElementById("tiles");
+      const recent = []; // last few patterns, so neighbours don't repeat
+
+      function choosePattern() {
+        const list = Math.random() < BIKE_CHANCE ? BIKE : STREET;
+        let pattern;
+        do pattern = list[pickIndex(list.length)];
+        while (recent.includes(pattern));
+        recent.push(pattern);
+        if (recent.length > 3) recent.shift();
+        return pattern;
+      }
+
+      // Draw a tile's pattern (only done when it's near the screen)
+      function draw(tile) {
+        if (tile.firstChild) return;
+        const p = tile.pattern;
+        const inner = p.draw(seeded(tile.seed));
+        const turned = tile.turn ? `<g transform="rotate(${tile.turn} 50 50)">${inner}</g>` : inner;
+        tile.innerHTML = `<svg viewBox="0 0 100 100" aria-hidden="true"><rect class="a" width="100" height="100"/>${turned}</svg>`;
+      }
+
+      // Remove a pattern that's far off screen, to keep the page light
+      function undraw(tile) {
+        tile.textContent = "";
+      }
+
+      const nearScreen = new IntersectionObserver(
+        (entries) => {
+          for (const e of entries) (e.isIntersecting ? draw : undraw)(e.target);
+        },
+        { rootMargin: "800px 0px" }
+      );
+
+      function addTile() {
+        const tile = document.createElement("button");
+        tile.type = "button";
+        tile.className = "tile";
+        tile.pattern = choosePattern();
+        tile.seed = pickIndex(1e9);
+        tile.turn = tile.pattern.turn ? 90 * pickIndex(4) : 0;
+        tile.colours = pickColours();
+        tile.setAttribute("aria-label", `${tile.pattern.name}. Tap to change its colours`);
+        paint(tile);
+        tiles.appendChild(tile);
+        nearScreen.observe(tile);
+      }
+
+      // Tap a tile: new colours and a little squish
+      tiles.addEventListener("click", (event) => {
+        const tile = event.target.closest(".tile");
+        if (!tile) return;
+        tile.colours = pickColours();
+        paint(tile);
+        tile.classList.remove("boop");
+        void tile.offsetWidth; // restarts the squish animation
+        tile.classList.add("boop");
+      });
+
+      // ---------- Endless scrolling ----------
+      const end = document.getElementById("end");
+
+      function fillScreen() {
+        // Keep adding tiles until there's plenty below the screen
+        let added = 0;
+        while (end.getBoundingClientRect().top < window.innerHeight + 1200 && added < 240) {
+          for (let i = 0; i < BATCH; i++) addTile();
+          added += BATCH;
+        }
+      }
+
+      new IntersectionObserver(
+        (entries) => {
+          if (entries[0].isIntersecting) fillScreen();
+        },
+        { rootMargin: "1200px 0px" }
+      ).observe(end);
+      fillScreen();
+
+      // ---------- Arcade and Soft ----------
+      const buttons = {
+        arcade: document.getElementById("arcade"),
+        soft: document.getElementById("soft"),
+      };
+
+      function setMode(newMode) {
+        mode = newMode;
+        for (const [name, button] of Object.entries(buttons))
+          button.setAttribute("aria-pressed", name === mode);
+        for (const tile of tiles.children) paint(tile);
+        try {
+          localStorage.setItem("escape-mode", mode);
+        } catch (e) {}
+      }
+      buttons.arcade.addEventListener("click", () => setMode("arcade"));
+      buttons.soft.addEventListener("click", () => setMode("soft"));
+      setMode(mode);
+
+      // ---------- Back to the news ----------
+      // escape.html?from=sport goes back to the sport page; anything else
+      // goes to the main page
+      const back = document.getElementById("back");
+      const from = new URLSearchParams(location.search).get("from");
+      back.href = from === "sport" ? "sport.html" : "./";
+
+      // If you came from a Kerbside page, step back instead, so your
+      // filters and scroll position are still there
+      back.addEventListener("click", (event) => {
+        try {
+          const ref = document.referrer && new URL(document.referrer);
+          if (ref && ref.origin === location.origin && history.length > 1) {
+            event.preventDefault();
+            history.back();
+          }
+        } catch (e) {}
+      });
+    </script>
+  </body>
+</html>
