@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-AU">
+<html lang="en-AU" data-scheme="night">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -21,16 +21,56 @@
     />
     <style>
       :root {
-        /* Same 8-bit console palette as the news pages */
-        --night: #1d2b53;
-        --panel: #111a38;
-        --ink: #fff1e8;
-        --line: #83769c;
-        --yellow: #ffec27;
-        --red: #ff004d;
-
         --pixel: "Press Start 2P", "Courier New", monospace;
         --sans: "Nunito", ui-rounded, "Segoe UI", system-ui, sans-serif;
+      }
+
+      /* ---------- Colour schemes for the page itself ----------
+         The tile colours for each scheme are in the script below. */
+      html[data-scheme="night"] {
+        --page: #07070f;
+        --dots: rgba(255, 255, 255, 0.06);
+        --panel: #0e0e1c;
+        --ink: #f4f4ff;
+        --line: #7a7ac2;
+        --pill: #1c1c38;
+        --on: #00f0ff;
+        --on-edge: #00f0ff;
+        --on-ink: #07070f;
+        --title: #ff2e88;
+        --title-shadow: #00f0ff;
+        --focus: #ffe500;
+        --tile-shadow: none; /* tiles glow instead (set in the script) */
+      }
+      html[data-scheme="day"] {
+        --page: #fff7e6;
+        --dots: rgba(26, 26, 46, 0.09);
+        --panel: #ffffff;
+        --ink: #1a1a2e;
+        --line: #1a1a2e;
+        --pill: #ffffff;
+        --on: #ff2e88;
+        --on-edge: #1a1a2e;
+        --on-ink: #1a1a2e;
+        --title: #d6005f;
+        --title-shadow: #1a1a2e;
+        --focus: #1a1a2e;
+        --tile-shadow: 5px 5px 0 0 #1a1a2e;
+      }
+      html[data-scheme="pastel"] {
+        --page: #fbf6ef;
+        --dots: rgba(110, 115, 168, 0.12);
+        --panel: #ffffff;
+        --ink: #3f4370;
+        --line: #8f8ac4;
+        --pill: #ffffff;
+        --on: #c3a6e6;
+        --on-edge: #6a5fc4;
+        --on-ink: #2e3160;
+        --title: #6a5fc4;
+        --title-shadow: #f7c6d9;
+        --focus: #3f4370;
+        --tile-shadow: 5px 5px 0 0 rgba(110, 115, 168, 0.35);
       }
 
       * {
@@ -38,7 +78,7 @@
       }
 
       html {
-        background: var(--night);
+        background: var(--page);
       }
       body {
         margin: 0;
@@ -46,15 +86,16 @@
         font-family: var(--sans);
         background: radial-gradient(
               circle,
-              rgba(255, 241, 232, 0.05) 1px,
+              var(--dots) 1px,
               transparent 1.6px
             )
             0 0 / 10px 10px,
-          var(--night);
+          var(--page);
+        transition: background-color 0.6s ease;
       }
 
       :focus-visible {
-        outline: 3px solid var(--yellow);
+        outline: 3px solid var(--focus);
         outline-offset: 3px;
       }
 
@@ -66,20 +107,19 @@
         display: flex;
         flex-wrap: wrap;
         align-items: center;
-        justify-content: space-between;
-        gap: 0.75rem 1rem;
+        gap: 0.6rem 1rem;
         padding: 0.75rem 1.25rem;
         background: var(--panel);
         border-bottom: 2px solid var(--line);
       }
       .bar h1 {
-        margin: 0;
+        margin: 0 auto 0 0;
         font-family: var(--pixel);
         font-weight: 400;
         font-size: clamp(0.8rem, 2.2vw, 1.1rem);
         line-height: 1.6;
-        color: var(--yellow);
-        text-shadow: 2px 2px 0 var(--red);
+        color: var(--title);
+        text-shadow: 2px 2px 0 var(--title-shadow);
       }
       .controls {
         display: flex;
@@ -91,21 +131,20 @@
         font-size: 0.6rem;
         line-height: 1.6;
         color: var(--ink);
-        background: var(--night);
+        background: var(--pill);
         border: 2px solid var(--line);
         border-radius: 999px;
         padding: 0.5rem 0.8rem;
         cursor: pointer;
         text-decoration: none;
-        box-shadow: 3px 3px 0 0 rgba(8, 12, 32, 0.55);
       }
       .pill:hover {
-        border-color: var(--yellow);
+        border-color: var(--on);
       }
       .pill[aria-pressed="true"] {
-        background: var(--yellow);
-        border-color: var(--yellow);
-        color: var(--panel);
+        background: var(--on);
+        border-color: var(--on-edge);
+        color: var(--on-ink);
       }
 
       /* ---------- The tiles ---------- */
@@ -130,8 +169,8 @@
         cursor: pointer;
         /* Shows the tile's main colour while its pattern is being drawn */
         background: var(--a, var(--panel));
-        box-shadow: 5px 5px 0 0 rgba(8, 12, 32, 0.55);
-        transition: background-color 0.7s ease;
+        box-shadow: var(--tile-shadow);
+        transition: background-color 0.7s ease, box-shadow 0.7s ease;
       }
       .tile svg {
         display: block;
@@ -160,9 +199,19 @@
       .boop { animation: boop 0.35s ease; }
       @keyframes boop { 40% { transform: scale(0.93); } }
 
+      /* Bubble wrap: each dot on a tactile paving tile can be pressed down */
+      .dome { transform-box: fill-box; transform-origin: center; transition: transform 0.15s ease, opacity 0.15s ease; }
+      .dome .shine { transition: opacity 0.15s ease; }
+      .dome.popped { transform: scale(0.7); opacity: 0.45; }
+      .dome.popped .shine { opacity: 0; }
+      .dome.pop { animation: pop 0.2s ease; }
+      .dome.grow { animation: grow 0.35s ease; }
+      @keyframes pop { 50% { transform: scale(0.5); } }
+      @keyframes grow { 0% { transform: scale(0.7); opacity: 0.45; } 70% { transform: scale(1.1); opacity: 1; } }
+
       /* No motion at all if the device asks for less motion */
       @media (prefers-reduced-motion: reduce) {
-        .d24, .d20, .spin, .boop { animation: none; }
+        .d24, .d20, .spin, .boop, .dome.pop, .dome.grow { animation: none; }
         .tile, .a, .b, .c, .sb, .sc { transition-duration: 0.2s; }
       }
 
@@ -177,6 +226,10 @@
 
       @media (max-width: 600px) {
         .bar { padding: 0.6rem 1rem; }
+        /* Phones: title and Back on the first row, schemes on the second */
+        #back { order: 2; }
+        .controls { order: 3; flex-basis: 100%; }
+        .pill { font-size: 0.55rem; padding: 0.45rem 0.7rem; }
         .wrap { padding: 1rem 1rem 3rem; }
         .tiles { gap: 12px; }
       }
@@ -185,21 +238,25 @@
   <body>
     <header class="bar">
       <h1>Escape Pod</h1>
-      <div class="controls">
-        <button class="pill" id="arcade" type="button" aria-pressed="true">
-          Arcade
+      <div class="controls" role="group" aria-label="Colour scheme">
+        <button class="pill" data-scheme="night" type="button" aria-pressed="true">
+          Neon Night
         </button>
-        <button class="pill" id="soft" type="button" aria-pressed="false">
-          Soft
+        <button class="pill" data-scheme="day" type="button" aria-pressed="false">
+          Neon Day
         </button>
-        <a class="pill" id="back" href="./">Back to the news</a>
+        <button class="pill" data-scheme="pastel" type="button" aria-pressed="false">
+          Pastel
+        </button>
       </div>
+      <a class="pill" id="back" href="./">Back to the news</a>
     </header>
 
     <main class="wrap">
       <p class="visually-hidden">
         An endless scroll of street patterns and bike parts. Tap any tile to
-        change its colours.
+        change its colours. Tactile paving tiles are bubble wrap: tap them to
+        pop a bubble.
       </p>
       <div class="tiles" id="tiles"></div>
       <div id="end"></div>
@@ -211,18 +268,28 @@
       const BATCH = 24; // tiles added each time you get near the bottom
       const BIKE_CHANCE = 1 / 6; // how often a bike part appears
 
-      // Two colour sets: the Kerbside 8-bit palette, and a softer version.
-      // Each tile uses one dark colour and two light ones.
-      const PALETTES = {
-        arcade: {
-          dark: ["#1D2B53", "#7E2553", "#008751", "#5F574F", "#111A38", "#AB5236"],
-          light: ["#FF004D", "#FFA300", "#FFEC27", "#00E436", "#29ADFF",
-                  "#83769C", "#FF77A8", "#FFCCAA", "#FFF1E8", "#C2C3C7"],
+      // Tile colours for each scheme. Each tile gets one background colour
+      // and two pattern colours. swap: how often background and pattern
+      // trade places. glow: tiles glow in their pattern colour.
+      const SCHEMES = {
+        night: {
+          backgrounds: ["#0B0B1A", "#14002E", "#001A22", "#1F0016", "#0A1A00", "#101024"],
+          patterns: ["#FF2E88", "#00F0FF", "#B6FF00", "#FFE500", "#FF7A00",
+                     "#A64BFF", "#39FF14", "#FF3B3B"],
+          swap: 0.12,
+          glow: true,
         },
-        soft: {
-          dark: ["#2A3356", "#4B3550", "#2E4A45", "#4A4542", "#232A44", "#5A4038"],
-          light: ["#E89BA8", "#F0C08A", "#EEE0A0", "#9FD6AE", "#9CC7E6",
-                  "#B6AACB", "#F2B8C9", "#F3D5C2", "#EDE6DD", "#C9CBD0"],
+        day: {
+          backgrounds: ["#FF2E88", "#B6FF00", "#00E5FF", "#FFE500", "#FF7A00", "#A64BFF"],
+          patterns: ["#FFFFFF", "#1A1A2E", "#FF2E88", "#00E5FF", "#FFE500",
+                     "#B6FF00", "#FF7A00", "#A64BFF"],
+          swap: 0.2,
+        },
+        pastel: {
+          backgrounds: ["#FDE2E4", "#E2F0EA", "#FFF1E0", "#E0E8FD", "#EFE6F7", "#FFF8D6"],
+          patterns: ["#F4A6B8", "#8FD3BD", "#FFC48C", "#9DB4F0", "#C3A6E6",
+                     "#F3DC7A", "#6E73A8", "#FFFFFF"],
+          swap: 0.2,
         },
       };
 
@@ -262,14 +329,16 @@
 
       const STREET = [
         {
+          // Bubble wrap: 25 dots in a 5 x 5 grid, numbered row by row
           name: "Tactile paving",
+          bubble: true,
           draw() {
             let s = "";
-            for (let i = 0; i < 5; i++)
-              for (let j = 0; j < 5; j++) {
+            for (let j = 0; j < 5; j++)
+              for (let i = 0; i < 5; i++) {
                 const x = 14 + 18 * i, y = 14 + 18 * j;
-                s += `<circle class="b" cx="${x}" cy="${y}" r="6.5"/>` +
-                     `<circle class="c" cx="${x - 1.8}" cy="${y - 1.8}" r="2.2"/>`;
+                s += `<g class="dome"><circle class="b" cx="${x}" cy="${y}" r="6.5"/>` +
+                     `<circle class="c shine" cx="${x - 1.8}" cy="${y - 1.8}" r="2.2"/></g>`;
               }
             return s;
           },
@@ -483,29 +552,34 @@
       ];
 
       // ---------- Colours ----------
-      let mode = "arcade";
+      let scheme = "night";
       try {
-        if (localStorage.getItem("escape-mode") === "soft") mode = "soft";
+        const saved = localStorage.getItem("escape-scheme");
+        if (saved in SCHEMES) scheme = saved;
       } catch (e) {}
 
       const pickIndex = (n) => Math.floor(Math.random() * n);
 
-      // Choose a dark colour and two different light ones (sometimes swapped)
+      // Random numbers that work in any scheme, so a tile keeps its "slot"
+      // when you switch schemes
       function pickColours() {
-        const b = pickIndex(10);
-        let c = pickIndex(10);
-        while (c === b) c = pickIndex(10);
-        return { a: pickIndex(6), b, c, swap: Math.random() < 0.25 };
+        return { a: pickIndex(60), b: pickIndex(60), c: pickIndex(60), swap: Math.random() };
       }
 
       function paint(tile) {
-        const set = PALETTES[mode];
+        const set = SCHEMES[scheme];
         const k = tile.colours;
-        const dark = set.dark[k.a], one = set.light[k.b], two = set.light[k.c];
-        const [a, b, c] = k.swap ? [one, dark, two] : [dark, one, two];
+        const bg = set.backgrounds[k.a % set.backgrounds.length];
+        // Pattern colours are never the same as the background or each other
+        let choices = set.patterns.filter((c) => c !== bg);
+        const one = choices[k.b % choices.length];
+        choices = choices.filter((c) => c !== one);
+        const two = choices[k.c % choices.length];
+        const [a, b, c] = k.swap < set.swap ? [one, bg, two] : [bg, one, two];
         tile.style.setProperty("--a", a);
         tile.style.setProperty("--b", b);
         tile.style.setProperty("--c", c);
+        tile.style.boxShadow = set.glow ? `0 0 16px -3px ${b}` : "";
       }
 
       // ---------- Tiles ----------
@@ -529,6 +603,9 @@
         const inner = p.draw(seeded(tile.seed));
         const turned = tile.turn ? `<g transform="rotate(${tile.turn} 50 50)">${inner}</g>` : inner;
         tile.innerHTML = `<svg viewBox="0 0 100 100" aria-hidden="true"><rect class="a" width="100" height="100"/>${turned}</svg>`;
+        // Bubble wrap remembers which bubbles were popped
+        if (tile.popped)
+          tile.querySelectorAll(".dome").forEach((d, i) => d.classList.toggle("popped", tile.popped.has(i)));
       }
 
       // Remove a pattern that's far off screen, to keep the page light
@@ -551,21 +628,102 @@
         tile.seed = pickIndex(1e9);
         tile.turn = tile.pattern.turn ? 90 * pickIndex(4) : 0;
         tile.colours = pickColours();
-        tile.setAttribute("aria-label", `${tile.pattern.name}. Tap to change its colours`);
+        if (tile.pattern.bubble) {
+          tile.popped = new Set();
+          tile.setAttribute("aria-label", "Bubble wrap. Tap to pop a bubble");
+        } else {
+          tile.setAttribute("aria-label", `${tile.pattern.name}. Tap to change its colours`);
+        }
         paint(tile);
         tiles.appendChild(tile);
         nearScreen.observe(tile);
       }
 
-      // Tap a tile: new colours and a little squish
+      // Restart a CSS animation on an element
+      function restart(el, name) {
+        el.classList.remove(name);
+        void el.getBoundingClientRect();
+        el.classList.add(name);
+      }
+
+      // ---------- Bubble wrap ----------
+
+      // Which bubble is under the pointer (0 to 24)
+      function bubbleAt(tile, event) {
+        const box = tile.getBoundingClientRect();
+        const x = ((event.clientX - box.left) / box.width) * 100;
+        const y = ((event.clientY - box.top) / box.height) * 100;
+        const col = Math.min(4, Math.max(0, Math.round((x - 14) / 18)));
+        const row = Math.min(4, Math.max(0, Math.round((y - 14) / 18)));
+        return row * 5 + col;
+      }
+
+      function pop(tile, i) {
+        if (tile.refilling || i < 0 || tile.popped.has(i)) return;
+        tile.popped.add(i);
+        const dome = tile.querySelectorAll(".dome")[i];
+        if (dome) {
+          dome.classList.add("popped");
+          restart(dome, "pop");
+        }
+        if (tile.popped.size === 25) refill(tile);
+      }
+
+      // When every bubble is popped, refill with new colours
+      function refill(tile) {
+        tile.refilling = true;
+        setTimeout(() => {
+          tile.popped.clear();
+          tile.colours = pickColours();
+          paint(tile);
+          tile.querySelectorAll(".dome").forEach((dome, i) =>
+            setTimeout(() => {
+              dome.classList.remove("popped", "pop");
+              restart(dome, "grow");
+            }, i * 40)
+          );
+          setTimeout(() => (tile.refilling = false), 25 * 40);
+        }, 900);
+      }
+
+      // With a mouse, bubbles pop as soon as you press, and you can drag
+      // across to pop a row. On touch screens they pop when you tap, so
+      // swiping still scrolls the page.
+      let lastPointer = "";
+      tiles.addEventListener("pointerdown", (event) => {
+        lastPointer = event.pointerType;
+        const tile = event.target.closest(".tile");
+        if (tile && tile.pattern.bubble && event.pointerType === "mouse" && event.button === 0)
+          pop(tile, bubbleAt(tile, event));
+      });
+      tiles.addEventListener("pointermove", (event) => {
+        if (event.pointerType !== "mouse" || event.buttons !== 1) return;
+        const tile = event.target.closest(".tile");
+        if (tile && tile.pattern.bubble) pop(tile, bubbleAt(tile, event));
+      });
+
+      // ---------- Tapping tiles ----------
       tiles.addEventListener("click", (event) => {
         const tile = event.target.closest(".tile");
         if (!tile) return;
+
+        if (tile.pattern.bubble) {
+          if (event.detail === 0) {
+            // Keyboard (Enter or Space): pop the next bubble
+            let next = 0;
+            while (tile.popped.has(next)) next++;
+            pop(tile, next);
+          } else if (lastPointer !== "mouse") {
+            pop(tile, bubbleAt(tile, event));
+            try { navigator.vibrate && navigator.vibrate(8); } catch (e) {}
+          }
+          return;
+        }
+
+        // Any other tile: new colours and a little squish
         tile.colours = pickColours();
         paint(tile);
-        tile.classList.remove("boop");
-        void tile.offsetWidth; // restarts the squish animation
-        tile.classList.add("boop");
+        restart(tile, "boop");
       });
 
       // ---------- Endless scrolling ----------
@@ -588,24 +746,24 @@
       ).observe(end);
       fillScreen();
 
-      // ---------- Arcade and Soft ----------
-      const buttons = {
-        arcade: document.getElementById("arcade"),
-        soft: document.getElementById("soft"),
-      };
+      // ---------- Neon Night, Neon Day and Pastel ----------
+      const schemeButtons = document.querySelectorAll(".pill[data-scheme]");
+      const colorMeta = document.querySelector('meta[name="color-scheme"]');
 
-      function setMode(newMode) {
-        mode = newMode;
-        for (const [name, button] of Object.entries(buttons))
-          button.setAttribute("aria-pressed", name === mode);
+      function setScheme(name) {
+        scheme = name;
+        document.documentElement.dataset.scheme = name;
+        colorMeta.content = name === "night" ? "dark" : "light";
+        for (const button of schemeButtons)
+          button.setAttribute("aria-pressed", button.dataset.scheme === name);
         for (const tile of tiles.children) paint(tile);
         try {
-          localStorage.setItem("escape-mode", mode);
+          localStorage.setItem("escape-scheme", name);
         } catch (e) {}
       }
-      buttons.arcade.addEventListener("click", () => setMode("arcade"));
-      buttons.soft.addEventListener("click", () => setMode("soft"));
-      setMode(mode);
+      for (const button of schemeButtons)
+        button.addEventListener("click", () => setScheme(button.dataset.scheme));
+      setScheme(scheme);
 
       // ---------- Back to the news ----------
       // escape.html?from=sport goes back to the sport page; anything else
