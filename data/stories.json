@@ -1,5 +1,49 @@
 [
  {
+  "title": "Where to park in Canberra city centre - Our Canberra",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTkZZNWpGYk9ubVhOOWx6X1BxczBEYjBueEpGWDhPMjdLNG1Da2V2V2pZcDVMVGZVWmRrZHFtXzhIbVNCamRVY09wNWFGNlROSnFrNmxnQnhSZlJ1a1VZUVZWSjJYWnZMSHJiaV9SSUlHZ19xTnVhYVkwZlBIUnBKUVBKcTltS1p6SkhNMEFQZ1VveXVkbUstYm5CZnQ5Yk0?oc=5",
+  "summary": "Where to park in Canberra city centre - Our Canberra ACT Government",
+  "published": "2026-10-28T11:55:00+00:00",
+  "first_seen": "2026-10-28T14:51:13+00:00",
+  "source": "ACT Government",
+  "found_via": "Google News - Public transport",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.act.gov.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Transport"
+  ],
+  "tags": [
+   "Public Transport"
+  ],
+  "regions": [
+   "ACT"
+  ]
+ },
+ {
+  "title": "Community consultation open for local planning scheme draft",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMWpiOTVYNy1OcDlkcnhsMklvYWIzS0xic0phd2JxbER6LS1zR1gtdk43M3BtUlJ4RzdkNTdDRXlLSUFOYW51WFcyTnJKWVBCYVJEYTR5REg3NmFVYUY3VmtoQWxkN1VjdXBxcm5DM1NRVVNFVUhLSy1XSUhncFJaWnNJbnlpM2pvanNiTUtkd1ZBRUN0akJ3NENDTUZ0TWowQW55VkdNemp1MGpKay00ZVFyQjJUbm43Z201QzZybWQ5T2U3OHd4YVU3RjZDYnRuUjI3N3RWZExCa3oycHFRdnpn?oc=5",
+  "summary": "Community consultation open for local planning scheme draft Busselton-Dunsborough Times",
+  "published": "2026-10-28T08:56:53+00:00",
+  "first_seen": "2026-10-28T14:51:18+00:00",
+  "source": "Busselton-Dunsborough Times",
+  "found_via": "Google News - Planning",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.bdtimes.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Planning"
+  ],
+  "tags": [
+   "Planning"
+  ],
+  "regions": []
+ },
+ {
   "title": "Sharks at North Gong? These international stars feared fins, snakes and surf ahead of Cup",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOGRNeWtzNGZRdlY5VUJpaGM5TXpfeEo4VVVEeUlYblA5ajlpVlFuUE5BR3BBWVhPenlyR2QwaXpqNFRDX3hMZVRoUTZMbzF4VThDdkktSjRMaHdheGs0U05MLUZwQU5OaDhRY3Y2QWhpLWk3Ynkza3pQNVRDYUU1M2dna2xPamxXeWNIODhqZVY4MERpTk9PaWdEa1RhSW5WelhCRi1lbFNqLVdBWk53?oc=5",
   "summary": "Sharks at North Gong? These international stars feared fins, snakes and surf ahead of Cup Illawarra Mercury",
@@ -319,6 +363,27 @@
   ]
  },
  {
+  "title": "Wheelaroos prepare for Wheelchair Rugby League World Cup",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcUdYanB0cm55VGNBbjJFcDJnel9sQ0doZ2M1R2x5aW1JQ1BHd0ZXN1lPWWZ5OXZYbHVkMXJ3dWtrZW8tTUo3dWIwNWVJeEdZQmxHbnh3NXBKa3RVcWVxa1gtX3doY0tUMHNlUnY5NnFhLU92RFJXTDdIaGpKb0lQMG5MdW9oeHk2VGNOLW1GWlRrUUlNZHZ3eVlDM3l1d3BmNzk3ZW5qT2dSblplSm9WNlF2QjRTM2c?oc=5",
+  "summary": "Wheelaroos prepare for Wheelchair Rugby League World Cup ABC News & Headlines – Australian Broadcasting Corporation",
+  "published": "2026-10-28T01:00:00+00:00",
+  "first_seen": "2026-10-28T14:51:21+00:00",
+  "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+  "found_via": "Google News - Accessibility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.abc.net.au",
+  "google_news": true,
+  "search_tags": [
+   "Accessibility"
+  ],
+  "tags": [
+   "Accessibility"
+  ],
+  "regions": []
+ },
+ {
   "title": "Our cars are safer than ever… yet Australia’s road death toll is headed for a 15-year high",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUhLbGtjQkI0Qkl2ZnMxRll4bXNEZ3lKeDJlYThudXZ6TG9mWG9zTjk1clJjZm52bDRZMG1lbU16dW8yXzByUVZfaFN4bE9oaGUxNk1HeS1qNThIZllKcUVBNDNJaFpSQW1FOFpwZGdTM0UwUG1DbUpOYWdtaUpzRkpZc01zSnNHSGQ3WjlGY3N6d1FHdllqbWVMUmFMejNvX3czYnp3?oc=5",
   "summary": "Our cars are safer than ever… yet Australia’s road death toll is headed for a 15-year high WhichCar",
@@ -380,6 +445,29 @@
    "Housing"
   ],
   "regions": []
+ },
+ {
+  "title": "NSW’s 2031 Road Safety Action Plan aims to halve fatalities",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3hlS2NLbHJMSnRpY1RueHRvLWo5RzRNenoyOWktRmYteG5wdnV2TWR3Vkg5cnhvMmUwTDJfNnI5RDRFdzVUSzNMNGE3SEhpcGFIbmdVMFA4bHBrY0Z2VkJidEI0NThmSjhHZ0cwTzFseEdvRFlrUTFyTG56RzQ5Y3RxV1lGdFFQczBqTmRtMjV3TGI5?oc=5",
+  "summary": "NSW’s 2031 Road Safety Action Plan aims to halve fatalities www.fullyloaded.com.au",
+  "published": "2026-10-27T23:49:34+00:00",
+  "first_seen": "2026-10-28T14:51:13+00:00",
+  "source": "www.fullyloaded.com.au",
+  "found_via": "Google News - Road safety",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.fullyloaded.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Road Safety"
+  ],
+  "tags": [
+   "Road Safety"
+  ],
+  "regions": [
+   "NSW"
+  ]
  },
  {
   "title": "Super-sized stoush: Macca’s takes on SA ‘slow town’ with $8.5m plan",
