@@ -1,5 +1,53 @@
 [
  {
+  "title": "Teen fights for life after Moolap e-bike crash",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT3dwcFNsNmlqMXZ0NUI4T0o1SlpJSkwyTmlPb3gyZkk1UzloNGNsb2IxRVlWSHc3alhWVFdCMXk4SEFJZ3MzdGRqUDdDN1pULVVrMlBHbklCcDlvT0RJMjV4eWNtZThPS1dZMUduRjZBN1ktU3JUckdqa1ctMDhFU3dzamg2Q0hxOE1HcldxNXlibmQ0M2k1aDlDNmROcGtIOWpOVUdDaC1FR0VhMU94NmZDcC1tYUNjZzVRODBOR2R1YUU5ZVdUODZGSERWLWZ0UUx1Rjd0S2RLNGc?oc=5",
+  "summary": "Teen fights for life after Moolap e-bike crash Geelong Advertiser",
+  "published": "2026-10-31T12:01:39+00:00",
+  "first_seen": "2026-10-31T14:28:41+00:00",
+  "source": "Geelong Advertiser",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.geelongadvertiser.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility",
+   "Road Safety"
+  ],
+  "regions": [
+   "VIC"
+  ]
+ },
+ {
+  "title": "Teen e-scooter passenger in hospital fighting for life",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSS16cHpfeTlyQXZBVkgtcVR5T2pzUWJuZWRQNzUzRFZRLWIyaDFEU3FPWU01NmNRNzh4b25MSS05dzVBUG9Mc2NIMHFOYWctam1PN2F6STBNa2RITmE4cDB0TXBKYXhjc0ZwNEZoR2xXOW1QR2dsSUJiR2NQNUJkMEdza2VYV2xEUkhiN1ppcFYtUllFbm5tZzFNU0h3eEU?oc=5",
+  "summary": "Teen e-scooter passenger in hospital fighting for life Geelong Independent",
+  "published": "2026-10-31T08:53:10+00:00",
+  "first_seen": "2026-10-31T14:28:41+00:00",
+  "source": "Geelong Independent",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://geelongindy.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Micromobility"
+  ],
+  "regions": [
+   "VIC"
+  ]
+ },
+ {
   "title": "Ballan Road Speed Limit Slashed",
   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wRkhnV1JsbEQxclE4Q2hVZTFJUnNZSUpBZk4tTVg5cGN4M2JXbXZ4ZU02XzMzRGQwckZVOGhxZW5oYjZTYUxnR1JrU1dKNnZUa2t5YzZoWUpYVy1Qb0NlUjdRb2xvTENWWjBsek13?oc=5",
   "summary": "Ballan Road Speed Limit Slashed Wyndham TV",
@@ -933,6 +981,28 @@
   ],
   "tags": [
    "Public Transport"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Yarriambiack targets safer roads with $78,500 funding boost",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcHRzdnMwM1p6SjZreVhEUWdqb3N2MU1WQzl3TFhRMnUxR05FbF8xSGNJVEMzZ0J4UGM4enhOb29ES2tXNGZDbHdZRGx0TEVFbEI0aFJlaFBIZWQ0cGhDWUFCXzhKNkthOUM0a0pQMUo1a3E1UEFma0wtSmlRTFQ5SWMyS1FWeFRSWVhYcGxVNTlIbFctajF2RHZEeE9NU3FhSTVTY0xGZHFPSzU2Rmc?oc=5",
+  "summary": "Yarriambiack targets safer roads with $78,500 funding boost Wimmera Mallee News",
+  "published": "2026-10-29T19:00:00+00:00",
+  "first_seen": "2026-10-31T14:28:43+00:00",
+  "source": "Wimmera Mallee News",
+  "found_via": "Google News - Road safety",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.wimmeramalleenews.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Road Safety"
+  ],
+  "tags": [
+   "Funding",
+   "Road Safety"
   ],
   "regions": []
  },
