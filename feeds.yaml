@@ -201,6 +201,9 @@ google_news:
   - name: Accessibility
     query: '"disability access" OR wheelchair OR "universal design" OR "age-friendly"'
     tag: Accessibility
+  - name: Iranian bricks
+    query: '"Iranian brick" OR "Persian brick" OR "Persian brickwork" OR "Iranian brickwork"'
+    tag: Iranian Bricks
   - name: Geospatial
     query: '(geospatial OR "digital twin" OR "spatial data" OR GIS OR LiDAR) (urban OR city OR council OR planning OR transport)'
     tag: Geospatial
@@ -502,6 +505,15 @@ tag_groups:
         age-friendly,
         older pedestrians,
         mobility scooter,
+      ]
+    Iranian Bricks:
+      [
+        Iranian brick,
+        Iranian bricks,
+        Iranian brickwork,
+        Persian brick,
+        Persian bricks,
+        Persian brickwork,
       ]
 
   Development:
