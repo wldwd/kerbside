@@ -1,5 +1,26 @@
 [
  {
+  "title": "New planning scheme for Morayfield South",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU3ZkaV9qOXBkQl84aHdHZENJbTBjTjZ2R2xza2cxRlVjU3NaZjZFZW5XOFhEdERLNFJTOGE3bk9OZkNGWTlNT3FpUnZKanJIaVNWVXExSFhtNGgzMTZPYnU5Y1hXRVlXSHVhNGwtYU5xU2VEYmFfdlhfT1VYV2ZnSTlVa2R1RXM?oc=5",
+  "summary": "New planning scheme for Morayfield South https://www.somersetsentinel.com.au/",
+  "published": "2026-11-07T02:05:10+00:00",
+  "first_seen": "2026-11-07T08:18:48+00:00",
+  "source": "https://www.somersetsentinel.com.au/",
+  "found_via": "Google News - Planning",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.sentinelnews.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Planning"
+  ],
+  "tags": [
+   "Planning"
+  ],
+  "regions": []
+ },
+ {
   "title": "Everett Transit to Merge with Community Transit, Bringing New Era of Bus Service",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbDVEdTJXSDNfNXU0NDRiQk5hQ1Q5bDZKN2Nvd1ZYY0lSdS1xeHh3NmdqRl9pLXlZZ1Z5SlBBTmhzd0ttdVFSdWdvLXdjOUZ4empiT18wSkdXVnV6LXlvVEYyT0lHU0dGVUx5Q01BeUE2OGlacEgwb01CSDdLMXFHdkJ2OHRxUUVzSzVjQUctVFJIMHNNRGFwVXNiNGFETUZQT0ZOeHFCRmNwNFBB?oc=5",
   "summary": "Everett Transit to Merge with Community Transit, Bringing New Era of Bus Service The Urbanist",
@@ -171,11 +192,13 @@
   "publisher_site": "https://www.smh.com.au",
   "google_news": true,
   "search_tags": [
-   "Micromobility"
+   "Micromobility",
+   "Walking"
   ],
   "tags": [
    "Cycling",
-   "Micromobility"
+   "Micromobility",
+   "Walking"
   ],
   "regions": [
    "NSW"
@@ -358,6 +381,29 @@
   "search_tags": [],
   "tags": [],
   "regions": []
+ },
+ {
+  "title": "What the Wheelchair Rugby League World Cup revealed about Wollongong’s hotel shortage",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50OFBUZThtTy1Ra0wyMzgteGwxWUhfSzZ5T0wxZ01FVlB0NDFXRkxoQzRiaWxvUWhudHFxYjBjUE0tWUJVVU8xUWtxRVZFSnlXY2xRczhZRGI0M2ZQczZrLXpfTjdnRDJpNnc?oc=5",
+  "summary": "What the Wheelchair Rugby League World Cup revealed about Wollongong’s hotel shortage The Pulse Illawarra",
+  "published": "2026-11-06T04:01:04+00:00",
+  "first_seen": "2026-11-07T08:18:50+00:00",
+  "source": "The Pulse Illawarra",
+  "found_via": "Google News - Accessibility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.pulseillawarra.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Accessibility"
+  ],
+  "tags": [
+   "Accessibility"
+  ],
+  "regions": [
+   "NSW"
+  ]
  },
  {
   "title": "Perth neighbourhoods could look very different by 2040",
@@ -11524,6 +11570,25 @@
    "Zoning"
   ],
   "regions": []
+ },
+ {
+  "title": "The XIV Ibero-American Biennial Comes to Brasília Under the Theme “Caring for Life”",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSjZsYTMtdkt6NzJENEU5aG5HOVVyMV91NjUtR3J1SlNEYXlGaGFoMnl6SG45dTVreXE0NGRXNXF2M0dzcUVHUFlRM21GUmNXaThiNkZPck40bjI5cEZrVk9PVTM3WjlfN1NYMUVUbW80QUlDcURCd2l2UTJfcmhtaXZINzdQMkdsZXZzR2pFYVpXbzhTVnRRbWpNVjdWY2J5ZHJadGZWWmEwejdRd1JRV0RwdlQ3ODllVW9MXw?oc=5",
+  "summary": "The XIV Ibero-American Biennial Comes to Brasília Under the Theme “Caring for Life” ArchDaily",
+  "published": "2026-10-21T07:00:00+00:00",
+  "first_seen": "2026-11-07T08:18:53+00:00",
+  "source": "ArchDaily",
+  "found_via": "Google News - Urbanism",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.archdaily.com",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [],
+  "regions": [
+   "International"
+  ]
  },
  {
   "title": "Father of two identified as cyclist killed in hit-and-run as police hunt driver",
