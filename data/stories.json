@@ -1,5 +1,491 @@
 [
  {
+  "title": "WA proposes new planning reform to unlock more homes in suburbs",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzFWbGhmcngwc2JrTDF0ZUlMVUxLNGpCUHFpYmJmdG0tam83RnltVnNoT0hEZ1JraVNpa0doTy1ockNHYjM2UjItcUp5MnJYNEJ3YjVzWHpUa1hHbXNJUEM3RTFYSWUzR3VSVmhqcWdhbGxra2FBaEpkVm9KQ1poNjNvblNIdVFOUGFoTHZNTHl0VVZpZk9Kd3FhMWV0b2ROSHQ0TXN0OFF2cXNpS1JPSg?oc=5",
+  "summary": "WA proposes new planning reform to unlock more homes in suburbs Build Australia",
+  "published": "2026-11-11T08:26:29+00:00",
+  "first_seen": "2026-11-11T08:50:38+00:00",
+  "source": "Build Australia",
+  "found_via": "Google News - Planning",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.buildaustralia.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Planning"
+  ],
+  "tags": [
+   "Planning",
+   "Policy"
+  ],
+  "regions": [
+   "WA"
+  ]
+ },
+ {
+  "title": "Sydney family terrorised after alleged violent home invasion and e-bike brawl",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSTlSQllVaHFTMEtwNEFQYV9CQW15NDB6RjdwSXUwbklYVUxRbGRoSko0RnJwaERuT0t1Rm1VZ0ktNlJMcHR4Z0xubWVFRk9RbmlwcUNPTUdfUGEzNFBfc3hhTzh2QmVYRnVzdVRXNi1IVFd1QXExR3A0VEl3UUxiR21odTJ3WFRkd3ZHeA?oc=5",
+  "summary": "Sydney family terrorised after alleged violent home invasion and e-bike brawl 9Now",
+  "published": "2026-11-11T08:01:34+00:00",
+  "first_seen": "2026-11-11T08:50:34+00:00",
+  "source": "9Now",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.9now.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "Driver 'shocked' after killing three pedestrians in LA",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaVdxSHVGRU12MW01cmctNU1iR0dGd0tNcWpJWmJCVmNIeVYtWWRvZEhvX1BvVUdsdmNfMzM1cDhHU2xfcGt4eEZLaWhtZ3NraUdpSGY1QXBfWUNaSldPWGFTVFNabS1qVG5CVUZRYlJ4U0praHZXMndhQ2ZUV0FyS2hLcnBYS29hdDBPenROQWkxY0YxbFBhQ2x4WTU3TzFXd3c?oc=5",
+  "summary": "Driver 'shocked' after killing three pedestrians in LA The Canberra Times",
+  "published": "2026-11-11T07:27:07+00:00",
+  "first_seen": "2026-11-11T08:50:33+00:00",
+  "source": "The Canberra Times",
+  "found_via": "Google News - Walking",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.canberratimes.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Walking"
+  ],
+  "tags": [
+   "Walking"
+  ],
+  "regions": [
+   "ACT"
+  ]
+ },
+ {
+  "title": "Fireball erupts from e-bike battery explosion",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaE9KclFfdlpUZjc4UktVeWtPUE9qbzd1OXdmdVcxWmhybnZrYml0Z2pIZktVckwxaFBOb0d3Q2xjWXhlYzVsb3VDU29obnhERFdmUlI2ejRrUmNQMnlvcWFyWG5PNEZQSXA2ckdja05LWG9iMTlpN01KSFR1dW0tSnJqMVFuNFlhUHcydnZZYUc0NUt2VC1PSWFoWHlPa1ViMTBpdHRCajJzcW55R2g5RjlhNFQtdWJRU1lyV0l0V2xCX3c?oc=5",
+  "summary": "Fireball erupts from e-bike battery explosion Adelaide Now",
+  "published": "2026-11-11T06:57:49+00:00",
+  "first_seen": "2026-11-11T08:50:34+00:00",
+  "source": "Adelaide Now",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.adelaidenow.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": [
+   "SA"
+  ]
+ },
+ {
+  "title": "Couple's 12-year battle wins safe crossing for train commuters",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVVBZRmEzRGVDbzhkek1sSFh6b0NOajVSX3BtdWZlN0tLdHdzSlppSEl6YXRNbTJmNjlWN192bWY4SnA4WWZOTjd4M3QxZ1NzbXk5VlNvZE1hSlMtT0cwMVpWTXdIRVk0Y3kxbUJEQUtTUXZmT0FUWTUxVDhIaTNJNGtZT2xueG1PMndiOHMwUXk5YUwyWXlWcjR5LVRIaHNNalU2NjJTaEpsdw?oc=5",
+  "summary": "Couple's 12-year battle wins safe crossing for train commuters St George & Sutherland Shire Leader",
+  "published": "2026-11-11T06:05:15+00:00",
+  "first_seen": "2026-11-11T08:50:33+00:00",
+  "source": "St George & Sutherland Shire Leader",
+  "found_via": "Google News - Walking",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theleader.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Walking"
+  ],
+  "tags": [
+   "Walking"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Race to pay up: 11 Western Downs homes listed for online auction over overdue council rates",
+  "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORjNmQkhhUmZIRzlqQWdSZlBKWC1UR2RTdUx3NlJQQldQOE14YXBSbnhxZHZOOFZSUzh3Y3B0S1l0bmFNX21YNG5aVVVvM19mRVU3U2dPMDdwLXQ3anBtY1dOazdhRXh6UXhDOC1wNmhDOEZfZjhEOTlPVTU5RmwzaV9lOFR2dlI1V01JaG05OE1SX0JCdWh5NXpxQnoyWFotX0xTbkVsSXBUbU5xZVBDY1JQckRRYW9aSUJkMXRLQkJfaE03YXR2Q3ZwTkwzR2ZYS21hNlBZUVFxRnJLLXlRSkxrM1lvZDUta1pES2VkQzlqcE5tbXBfYXFnWTF2UVlkM2FN?oc=5",
+  "summary": "Race to pay up: 11 Western Downs homes listed for online auction over overdue council rates The Courier Mail",
+  "published": "2026-11-11T05:15:33+00:00",
+  "first_seen": "2026-11-11T08:50:40+00:00",
+  "source": "The Courier Mail",
+  "found_via": "Google News - Council finance",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.couriermail.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Council Finance"
+  ],
+  "tags": [
+   "Council Finance"
+  ],
+  "regions": [
+   "QLD"
+  ]
+ },
+ {
+  "title": "Bus ‘game changer’",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PN1B2TU5PWFZ3TU40N0tfOWFOSHJ1bzBUdkJIcmgzdXFsUlI0NXRoMDdqZTNHUk5qd3NMWjZURktCX1dWb1JkR3plR2pTcFZ1Y2dZWWpuY25jNUVfTkFiOHlMWV9QMFpKVTl5MjREWlI3Zw?oc=5",
+  "summary": "Bus ‘game changer’ Melton & Moorabool | Star Weekly",
+  "published": "2026-11-11T05:14:06+00:00",
+  "first_seen": "2026-11-11T08:50:34+00:00",
+  "source": "Melton & Moorabool | Star Weekly",
+  "found_via": "Google News - Public transport",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://meltonmoorabool.starweekly.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Transport"
+  ],
+  "tags": [
+   "Public Transport"
+  ],
+  "regions": []
+ },
+ {
+  "title": "NSW Police Association advises officers to stop chasing e-bikes, motorbikes over legal risks",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdU5VWEZCZ2puQjU0cl8ydF90Zzdqd1pZTXdFb2dSZlNWWkFnSHBNN0dPa21BdHdlemFVVlA4QkFXMjgtRTVpVDlTem5JMGcxQXJfUllPbExmSEx3OC1xbHlmSl9PNTBEN2MwR2Jab0lOS2ZFNkVGTkRYUWdGeGNHbnhlZmhEQVVCdFJpVWZYRkhxYk9ETFBHSThrbl9QcVVpdWloVkZ6aTVycEFNUjRxTzV1WGtvX3NwcUI3MHgxLV82S0JjSFk1bHRaa1ctOXZ0dkZldWRn0gHbAUFVX3lxTE4zTHU1NGJ6ZFppSHkxbTdSczBNcWRlTFZTNzlsZHpuMTJ4TU83bGxFa1pZZWExd2gxV20ySURUUWUtYXRkRXMxYjE2V2RRWGE1aEZXSWJZaEpNb3l0MXJkODlKVlpGMVhrbkQwMk1Ybzl2cUlMM0E4dkx3VTZuZlM3U2RFN01lLXNSY2IyTHhRSDdSbFkxR25pQnBTRVVZLVAxbHotQ1dYalpkYl8tWXpkcmprejVzN1E0Q0FSOTRlSkxHTGtqVmxxU2RNZjN5Qnk1dWFpbHpFTTNmaw?oc=5",
+  "summary": "NSW Police Association advises officers to stop chasing e-bikes, motorbikes over legal risks 7NEWS",
+  "published": "2026-11-11T05:13:00+00:00",
+  "first_seen": "2026-11-11T08:50:34+00:00",
+  "source": "7NEWS",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://7news.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "Police commissioner stares down union over e-bike pursuit boycott",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ2txNUIyUnlrejFfN2JlTzhid3ZHQ0JreHBHb2VEN0RMc041c3didTFyZ3RFRmROenZxdFRJNnEzOVp6WFEtTURtaHNHNlVibTlCbUIwLUFnWU96QVJFSXRlOWNWU0JFOHhzYk13Y0ZVR1ZabWl3QXh2TXF0bWk0b0tmNmxNZTBtMWhGVWRsdzVfQ3lnSVhMNnNfa1Z6Nk9Sdm9FVkU1R3lHNm9FRkswUUdSd3RHLTlmWFZCa2VlQQ?oc=5",
+  "summary": "Police commissioner stares down union over e-bike pursuit boycott SMH.com.au",
+  "published": "2026-11-11T04:53:06+00:00",
+  "first_seen": "2026-11-11T08:50:34+00:00",
+  "source": "SMH.com.au",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.smh.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "Car ploughs into pedestrians in Los Angeles, killing three",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLXBfOVZadTVoTHY4VGFyeHRJLURLbG96aElWRzZVR0VkNjNnZFJwUGpibGR1Q19CNXNCNmt0S1lQLWtZeGstWUYzQ3BFUjAyUXFhMDc2Umt1QVdEa3BsV3ZhOVpvbkNRQzRlbDRtWlZwZ3hiMEE2THZZckhwdjd5S0ZmU2pacDFhRWV4V1hzeUp2UVZKUGI3OGIwYm8?oc=5",
+  "summary": "Car ploughs into pedestrians in Los Angeles, killing three The Nightly",
+  "published": "2026-11-11T04:34:02+00:00",
+  "first_seen": "2026-11-11T08:50:33+00:00",
+  "source": "The Nightly",
+  "found_via": "Google News - Walking",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://thenightly.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Walking"
+  ],
+  "tags": [
+   "Walking"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Cops given no promises after ban on e-bike pursuits",
+  "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPOG1sR0FIZzRMS1hXcjNfaEJYekJsMjJBZ2tLQU4zNEFnRGF4RkdvekFhMHh6S28yY0tmbGFESDZHdC15YV83MG1zdXJ0VFljamJkNnZpaGFfMHoteTB5WHRKanB5TE5pX1N3MVotbHh6NzM2Uk1NdE5BU1BIOEdURlM1UTVneVdaQm1RS0dodG1HS0xPMHE3X1ZoUG5NVmlsYkIzWUpXaFloYTNUaDI3U28yM1J5OFdiNFJ0UnkwMXM3NTVvck9lTVZrWTFQVTBxN1VTRWNxTlRzY3UzWnowQTZFbDlvRUpVc2Q5SEpaTzBWWFpSWE4tbUk3WDRudw?oc=5",
+  "summary": "Cops given no promises after ban on e-bike pursuits The Daily Telegraph",
+  "published": "2026-11-11T04:25:07+00:00",
+  "first_seen": "2026-11-11T08:50:34+00:00",
+  "source": "The Daily Telegraph",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.dailytelegraph.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "Tram works on Footscray route",
+  "link": "https://bicyclenetwork.com.au/newsroom/2026/11/11/tram-works-on-footscray-route/",
+  "summary": "Initially, disruption of bike riders using the street will be limited, but in January next year the works will be more impactful. The post Tram works on Footscray route appeared first on Bicycle Network .",
+  "published": "2026-11-11T04:18:06+00:00",
+  "first_seen": "2026-11-11T08:50:23+00:00",
+  "source": "Bicycle Network",
+  "found_via": "Bicycle Network",
+  "source_type": "Advocacy",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Cycling",
+   "Public Transport"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Wheelchair rugby league star charged with sexual abuse",
+  "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPYjRWb2p1RVd4RDU4RkdUVHdMUFp0dTZCenlSc1F2QjE0NlhScVVHWjBSYVROYTlXckdadGM3N3B6el9NLW14a21zSGxzU1U5YWQ2dDh4TURBRk9RbnQySWJhbUVReUFjdjdyQzNiY0RXS29ucldORmpRQlJBZVlheV80NGxwV1htN3l6ajVPZDJsUDdrV0NvQ3BoZDdFUlhVYkJmQTJKRGEteHhXOE1BUWdsN2NlUi03TExFdnJCWmVCSGFHSnhzWENaVDhxNzBfMlJpcFV0OVNOR1I0Z002bERaVmpEbzhRbDY2dHYtekpDbUcyaDZYajlOeDBhdVFqcTFadUpuNXlNLWhXeWpObm9Ccw?oc=5",
+  "summary": "Wheelchair rugby league star charged with sexual abuse The Daily Telegraph",
+  "published": "2026-11-11T04:10:07+00:00",
+  "first_seen": "2026-11-11T08:50:41+00:00",
+  "source": "The Daily Telegraph",
+  "found_via": "Google News - Accessibility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.dailytelegraph.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Accessibility"
+  ],
+  "tags": [
+   "Accessibility"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "Teen taken to hospital after e-bike crash at Teralba",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaURoSG5MdkcwdFVzb3BXNXJ2bkVRazZFM29zekkxazdWaEpUS3FqWHRiT0RqQkxkXzJVWEs3Sk9vQnBVdkQ1aFpEN0d0YTdfVTg0SGR4YVBwT1lZZ1E2SnNWc0hEMVZuUDBwcTh2V2JjSXIxTXdlQThQNWduNWpqUDZYbm9ZWXFJNlk0Mg?oc=5",
+  "summary": "Teen taken to hospital after e-bike crash at Teralba Newcastle Weekly",
+  "published": "2026-11-11T04:00:00+00:00",
+  "first_seen": "2026-11-11T08:50:34+00:00",
+  "source": "Newcastle Weekly",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://newcastleweekly.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility",
+   "Road Safety"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "Cracking handlebars recalled",
+  "link": "https://bicyclenetwork.com.au/newsroom/2026/11/11/cracking-handlebars-recalled/",
+  "summary": "The products involved are the Roost Titanium 30mm Riser Handlebars: 9, 12 and 15 degree backsweep. The post Cracking handlebars recalled appeared first on Bicycle Network .",
+  "published": "2026-11-11T03:37:03+00:00",
+  "first_seen": "2026-11-11T08:50:23+00:00",
+  "source": "Bicycle Network",
+  "found_via": "Bicycle Network",
+  "source_type": "Advocacy",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Cycling"
+  ],
+  "regions": []
+ },
+ {
+  "title": "The Everyday Feature Buyers Say Make a New Estate More Appealing",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRHFvOVFjUFNoLUFLUHRVY3BNMEhmbEg2U0w2N3RmUU1iV2xPTjBER2J3SzRPZjBibFpzWkVQdEI3OUV1eHpVaU5Va3ZrZ1RObElWZHgtOVQ2RUVzS3d4ZkluUHhYOHBUSjBYYnIwaVZwcDdsX1EwVXBmckZhZXAycHFJYjFfR0Z0LUhIeGMwWnBGSXF6eWE5OU9tNElMVHBkaXc?oc=5",
+  "summary": "The Everyday Feature Buyers Say Make a New Estate More Appealing Real Estate",
+  "published": "2026-11-11T03:24:05+00:00",
+  "first_seen": "2026-11-11T08:50:37+00:00",
+  "source": "Real Estate",
+  "found_via": "Google News - High streets",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.realestate.com.au",
+  "google_news": true,
+  "search_tags": [
+   "High Streets"
+  ],
+  "tags": [
+   "Urban Growth",
+   "High Streets"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Three dead in Los Angeles after driver crashes into pedestrians, officials say",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNcUtRT1p3NVl6TGpaN3VHbmlJVmpqZEVXaWgtLUlGVE9vSzBONmFFN0tyanhERzgxWGdLU2hfU09TdVdVQk9fWDVLazNFTDRTZjNYMkNYeW5WYTlWTmRKcnp5RDE2RXFhb0FXeTB3bkhzaFNPdjl6LVJvVlU1dw?oc=5",
+  "summary": "Three dead in Los Angeles after driver crashes into pedestrians, officials say The Guardian",
+  "published": "2026-11-11T03:10:00+00:00",
+  "first_seen": "2026-11-11T08:50:33+00:00",
+  "source": "The Guardian",
+  "found_via": "Google News - Walking",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theguardian.com",
+  "google_news": true,
+  "search_tags": [
+   "Walking"
+  ],
+  "tags": [
+   "Walking"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Terrifying moment e-bike battery explodes, burning family home in minutes",
+  "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQelF4U3lXdWw1bVNKM0c0aHVsNXF6bmZJQlFYUEVaX3QwZDQyMzQyTl9iSXYyQ1dKYXpxZThjbGM5RXcxRlFZOXYyR3FqVEg5bHlWYVVlcUNIMTJKRkRFcnhhTG4tOUZIakJWODVOcnhDV29wQnhwNWFRNFlSZWVySkZ0dVdsbmxDM2dHWllYWUxiTXdmNGkyR3RZWGhjWjlkOXJjck8xZWFBc3ROMy1STWp4VnYzaWpuZkZxWUZTVnB6TTZJM1Y5anRTODI3aTNJV1dXeVRHME9Nb2tqNGVrWVlLUndxQzVHbkp0RVJmeDNLZ0E?oc=5",
+  "summary": "Terrifying moment e-bike battery explodes, burning family home in minutes Toowoomba Chronicle",
+  "published": "2026-11-11T02:39:36+00:00",
+  "first_seen": "2026-11-11T08:50:34+00:00",
+  "source": "Toowoomba Chronicle",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.thechronicle.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Shire Letters: Park 'too dangerous'; Reckless e-bike riders; Heathcote clearway",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRm1OVXRSTnY1MkxHNm9BLUVVdkdhdVE0ckdmSEZlaFdTQWc5TC11ZWxpN2p5dGdEZ1BQRE9rblJ4LU9UZ1d2R3NBeG1XVkdlZWtqbWJxNnJYYVE2WE9EZXNHeFZ3bGs3czI5QmNyMEdPTWl0Z2d2OGdBcUJHVnY0eE4tTUlhU1VOUXk1QTlGUWIyejlYbndqdEZCLWNGLXQ2WndN?oc=5",
+  "summary": "Shire Letters: Park 'too dangerous'; Reckless e-bike riders; Heathcote clearway St George & Sutherland Shire Leader",
+  "published": "2026-11-11T02:12:33+00:00",
+  "first_seen": "2026-11-11T08:50:34+00:00",
+  "source": "St George & Sutherland Shire Leader",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theleader.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Mother’s plea for improved road safety following tragic loss of her son",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0t0XzVEZklCTHloT3hpdDg4ZF9hVHUzZkZiendwNW4zNFhtQzNlUUNWY1p1eXJXMmhMMHdmYjdUN0phQXVpbUlKQ2JOc2lNcTlTdFJZVmx2Y3Nla000aEt1dXROY1NCZnpmTExJaUQ1NmJ3QjlWVzRyWldneUlKUGIzTF9HbnNMUjBrcU5kQXliT0xHS1VaeUxmNkJyMGRBNl9SS2hNaFY?oc=5",
+  "summary": "Mother’s plea for improved road safety following tragic loss of her son Big Rigs",
+  "published": "2026-11-11T01:59:36+00:00",
+  "first_seen": "2026-11-11T08:50:35+00:00",
+  "source": "Big Rigs",
+  "found_via": "Google News - Road safety",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://bigrigs.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Road Safety"
+  ],
+  "tags": [
+   "Road Safety"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Free social rides across Tasmania",
+  "link": "https://bicyclenetwork.com.au/newsroom/2026/11/11/free-social-rides-across-tasmania/",
+  "summary": "We’ve got a great spread of social rides in the coming weeks, with several Hobart rides, a ride exploring the Channel, Shearwater to Squeaking point in the north-west and the usual Wednesday morning and Thursday evening rides in the north The post Free social rides across Tasmania appeared first on…",
+  "published": "2026-11-11T00:53:39+00:00",
+  "first_seen": "2026-11-11T08:50:23+00:00",
+  "source": "Bicycle Network",
+  "found_via": "Bicycle Network",
+  "source_type": "Advocacy",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [],
+  "regions": [
+   "TAS"
+  ]
+ },
+ {
+  "title": "Taskforce Spells Out Need for Cabinet-Level Housing Agency in Washington",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZUl0NjFsci02M1NDMFpVMXhETUVMVDA2VURPTGhqVnV4VGdfbEljd0FKZ3l6eTZiLUk2S1dkVFgyVzBUVjQ0V3pyMWVObFNLeVpLb1FaSm5STnRRd3J1czN2djk5bU5NNGhjaWM2MU94YV9oNk5ZcWVqYVhJZF9RM1Y2aUhWZjFQckU3OFNQV1ZwbVNZRXBFM2dBN0YxQjctdGQ0?oc=5",
+  "summary": "Taskforce Spells Out Need for Cabinet-Level Housing Agency in Washington The Urbanist",
+  "published": "2026-11-11T00:39:04+00:00",
+  "first_seen": "2026-11-11T08:50:43+00:00",
+  "source": "The Urbanist",
+  "found_via": "Google News - Urbanism",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theurbanist.org",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [],
+  "regions": [
+   "International"
+  ]
+ },
+ {
   "title": "Disabled people in England ‘have to wait up to two years for wheelchairs’",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcG1GTW14LXNWdGZjMzNTQVlCNWhiYXJ1TWgxN2hRZVAyZndqSkZ2V0pWcWNCb20taURvakw1dG9KcDA3aTlHc19WS21UVUdMbVNOTjlleEQwVEJDclcxU2RLRGk2eHpvVmVOd1c2NnRFUDFxSGNSbmhVZER1dDdLcjEyR0xpUG5hX2tfX0FFdmFwSlJHbm1iQngwanVWQ282WjFoaU1CZ0ZrbDJ0MzJnbjd4UHM4N05uOHV3?oc=5",
   "summary": "Disabled people in England ‘have to wait up to two years for wheelchairs’ The Guardian",
