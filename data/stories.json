@@ -1,5 +1,341 @@
 [
  {
+  "title": "Town centre revamp nears with one-way street, dining option",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUzhkVW5obllidmJ1aDh3SmVYLWcxRllCSERaalFGcmo5aGxraE9iaDdNTUJKVzBpNGw0aU5xbEwzMWEtc1hST29oYXdjXzF6Vjg2emhqOW9ieDZwUG4yWHgzR1dOd0RwTS15aUxSeXp3MEY2OWlYMGFsaW5GdkhwUnpXRXNvQk5sb1R4dTRxb1Z1LXMxOXBydFB4Wk5qSWpXX2h5RV8zeDRpTFU?oc=5",
+  "summary": "Town centre revamp nears with one-way street, dining option Sunshine Coast News",
+  "published": "2026-11-26T18:00:51+00:00",
+  "first_seen": "2026-11-26T18:07:48+00:00",
+  "source": "Sunshine Coast News",
+  "found_via": "Google News - High streets",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.sunshinecoastnews.com.au",
+  "google_news": true,
+  "search_tags": [
+   "High Streets"
+  ],
+  "tags": [
+   "High Streets"
+  ],
+  "regions": [
+   "QLD"
+  ]
+ },
+ {
+  "title": "On the back of Labor spending, fortunes are turning for Angus Taylor",
+  "link": "https://www.watoday.com.au/politics/federal/on-the-back-of-labor-spending-fortunes-are-turning-for-angus-taylor-20261127-p61h5j.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+  "summary": "Labor has spent this year cycling through various explanations for our inflation woes, but now it has to concede.",
+  "published": "2026-11-26T18:00:00+00:00",
+  "first_seen": "2026-11-26T18:07:28+00:00",
+  "source": "WAtoday",
+  "found_via": "WAtoday",
+  "source_type": "News",
+  "filter": true,
+  "fixed_region": "WA",
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [
+   "Cycling"
+  ],
+  "regions": [
+   "WA"
+  ]
+ },
+ {
+  "title": "Eric Abetz posts AI video demolishing controversial Hobart bike lane",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVUwMzFZWTBXZnZoR0VHWk5mbGdpRm90YnRYTFcxbU1mbUhNOW8xS0dyLWVaUkdaSzBXRDdvMndZZWFaTXVZNHg0YWpkU3Y2ZkZRRTJGSVIwazN2bnVGZ0VBbndVS2U5UVV2NEl5ZU9lWW52d0RwWlktU2xDdUw4UXdrLU4zazc0V2JtZHB6dUsyT3R2Zjk2VXNTRk5qQzVESWwyY21n?oc=5",
+  "summary": "Eric Abetz posts AI video demolishing controversial Hobart bike lane Pulse Tasmania",
+  "published": "2026-11-26T18:00:00+00:00",
+  "first_seen": "2026-11-26T18:07:43+00:00",
+  "source": "Pulse Tasmania",
+  "found_via": "Google News - Cycling",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://pulsetasmania.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Cycling"
+  ],
+  "tags": [
+   "Cycling"
+  ],
+  "regions": [
+   "TAS"
+  ]
+ },
+ {
+  "title": "Parking restrictions rolling out in popular coastal suburb",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZDNrS0ZDM0dRbF9udXhDbEEzU3JkeDJaNXI3R05FbjhSWlZUOHVvRE83VU01YlJaRERWYU9FWGxfeUVLcEF1a3Z4SW5UWl90Tkp5SVZWYjJibVFiWmxSV1FGVmRWS253bTUxN0dSbEViZ25sbG9BNUhtNGZodGJXRGNEOURwMUhzVS1PWnRwOHhhcTZUSkFITUNWRnBHTWJSZHNDYTRnTEhOUlJGV0pqYWYxeW9ZeVduMEI5N25TQkZkcGhFQnFWUDRseVpmbkJrYnZrZjZ4SlRmdnlwTmFYaGczckk0WGcwLWc?oc=5",
+  "summary": "Parking restrictions rolling out in popular coastal suburb PerthNow",
+  "published": "2026-11-26T18:00:00+00:00",
+  "first_seen": "2026-11-26T18:07:48+00:00",
+  "source": "PerthNow",
+  "found_via": "Google News - High streets",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.perthnow.com.au",
+  "google_news": true,
+  "search_tags": [
+   "High Streets"
+  ],
+  "tags": [
+   "Parking",
+   "High Streets"
+  ],
+  "regions": [
+   "WA"
+  ]
+ },
+ {
+  "title": "Mexican chain opens in town centre, flags another site",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGRSczBpdC1RSDgxSk5DTk45Ukd2S3ZRSW9ZbVBoSU9zR1FGbEJOcnVlUE1WUmJSY1o0WVM4azhQbHhqYVprblZVS2t5VGs5cmR4a2lFNXQ4bFNaQ3Nwc01pQlZxVXowNk96UFIzQ29nVXlTbzltMHR4dDIteHFyYjJ2Ql84TzIzSFBfaUxLRnhCdm1VZS1aRTVzb3Rjd0pxYWRRYQ?oc=5",
+  "summary": "Mexican chain opens in town centre, flags another site Sunshine Coast News",
+  "published": "2026-11-26T17:59:34+00:00",
+  "first_seen": "2026-11-26T18:07:48+00:00",
+  "source": "Sunshine Coast News",
+  "found_via": "Google News - High streets",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.sunshinecoastnews.com.au",
+  "google_news": true,
+  "search_tags": [
+   "High Streets"
+  ],
+  "tags": [
+   "High Streets"
+  ],
+  "regions": [
+   "QLD"
+  ]
+ },
+ {
+  "title": "New Woolworths opens in Armstrong Creek Town Centre",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVkpfYlBJdUM1bUZtVC1kNzNlNEl6QVR0LUpzS0xKZnlMNVlIX0FtbFN1d195Sm84WExORUlqNE9PNk5XZkhzXy1XdzcyQ1dCc3hCNGxrOGtENzA5MU5kWTR1Z1h2T09iOE1fbk1QSFN5X2E3SE9rQ3NILXFTTGxNQzFjMUZzSjFmTnlTckRuVnRLVkt5c1ktTWNKYUE1dTVGS3c?oc=5",
+  "summary": "New Woolworths opens in Armstrong Creek Town Centre Times News Group",
+  "published": "2026-11-26T17:03:51+00:00",
+  "first_seen": "2026-11-26T18:07:48+00:00",
+  "source": "Times News Group",
+  "found_via": "Google News - High streets",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://timesnewsgroup.com.au",
+  "google_news": true,
+  "search_tags": [
+   "High Streets"
+  ],
+  "tags": [
+   "High Streets"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Yule regret it: Police warn parents over illegal e-bike gifts",
+  "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNVA5TnVsakl0RXNKRHpfQ0JXY1VlOE9RSy1DN1BXR25ZdUxUVFNyTm5DUmJqRmpvb25Ubmd2YjRjcUkxb0xLaG15QUVjdmNqbkpKRUE2T1B4bW92SC1RWkFJQ0tiQWZ0cDlnOWl6aUtfdDN1dlNoaGJaVjJRN21DUE9ycjdBdzFDM28xRVR5SFM2cXFtNWpwWl9sRERISkFfQlpMMk94OEJMRXFkdGhqcnVwbXdTV05helM5QklxdmJQQk4xZ1gwVUdsRW5Ea2c2dC1UNnlJdjU3NzBnbm94Wm5PRFFjSC10QVl0Vy1GR3NTUmRZWmVvdkRxSDdXc3diS0VfWG1zYXhPdw?oc=5",
+  "summary": "Yule regret it: Police warn parents over illegal e-bike gifts Geelong Advertiser",
+  "published": "2026-11-26T17:02:46+00:00",
+  "first_seen": "2026-11-26T18:07:43+00:00",
+  "source": "Geelong Advertiser",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.geelongadvertiser.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": [
+   "VIC"
+  ]
+ },
+ {
+  "title": "Wheelchair Football: Round 1",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS00wdlIwbWFKdHM0RnJnUWhoUnRHcFA1N28td1RORFoySWR4bFpyT2R1SlQwdFBjOEpTczZGMVdGaFFFNGdBU3pvTVVvcm11OGF1c1BvUlNwLTc1RUVnWXVTNU1BY0hSdVBmWnFGRU9uV0Fnak1xeTlHRFNxRTdoNlRLWk9uSTZUeEFkdU5XalBvZklmVFJLZzBJdXhNemtKM0JiRjBacDZpaUZEZkwtZmx6NjE4elc4U05IUjRtZXBVX1k3cGFyWmZwRVYwNXR0OGc?oc=5",
+  "summary": "Wheelchair Football: Round 1 westcoasteagles.com.au",
+  "published": "2026-11-26T14:12:10+00:00",
+  "first_seen": "2026-11-26T18:07:53+00:00",
+  "source": "westcoasteagles.com.au",
+  "found_via": "Google News - Accessibility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.westcoasteagles.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Accessibility"
+  ],
+  "tags": [
+   "Accessibility"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Premierships on the line in WA Wheelchair Football League Grand Finals",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOWJSMExvLUI1aVEwRjVmREV6MHhqdEluQmZscTg1WmVKZldiWFpkUjFUY2w1elVsc1RaMHV6b2QtZE0ydGJMMVlweVpYd0VIcVVsaHFCTThicVJkcmxpOVE0SFR6RFh2S1V6cGwxVXhsOUlQOXRyaDVvVkVvNDN6QmducDg1MUJJV1JlbEtrc21FWUFfZTZ2MXpFbUVKU3EyOTY1bg?oc=5",
+  "summary": "Premierships on the line in WA Wheelchair Football League Grand Finals WA Football",
+  "published": "2026-11-26T06:09:57+00:00",
+  "first_seen": "2026-11-26T18:07:53+00:00",
+  "source": "WA Football",
+  "found_via": "Google News - Accessibility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://wafootball.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Accessibility"
+  ],
+  "tags": [
+   "Accessibility"
+  ],
+  "regions": [
+   "WA"
+  ]
+ },
+ {
+  "title": "Australia’s Road Safety Report: When do most car accidents happen?",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOFcwTHBjQkYwM2NyenFoQk1kTFVMLWpPTFUwbXhsVFNZQjdwVWdmRFNzTjNuQXJxQnkyaDJ4RFNsN1AtdUdabG90YkZVaGJ4bVdRa2daMVlHaG9NQ0RobzFWQkdWelE4aVVaZ1Rsb3hrRVdTeEo4TDM1ZnNITjYyT0REVk54bnJnOFhRelFJUWpkdG8?oc=5",
+  "summary": "Australia’s Road Safety Report: When do most car accidents happen? Compare the Market",
+  "published": "2026-11-26T05:55:26+00:00",
+  "first_seen": "2026-11-26T18:07:45+00:00",
+  "source": "Compare the Market",
+  "found_via": "Google News - Road safety",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.comparethemarket.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Road Safety"
+  ],
+  "tags": [
+   "Road Safety"
+  ],
+  "regions": []
+ },
+ {
+  "title": "WA invites architects to help shape state’s medium-density building designs",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSU4xTXItWEMyemRqRkxQZlZYd3RaelBxU3pHd1VKa3A3aG9nbjhsQzhOaE1yUU40UUMzc0FQb2ZpOUVzaHF0akNDS2ZENllpaHAtaU04NG1waXlvMENJY3hXSmViTHBPTE1rc1JDTk1HMzVLRjVaVzlSdGRiUFdYckUySmRScDI0R2tlMS14a3JVQlpuTWpCc3llMWRJNy1kQWliY3ltamg1ZVdodnRJdWNiLTljdWZ4QUtfenNYMA?oc=5",
+  "summary": "WA invites architects to help shape state’s medium-density building designs Build Australia",
+  "published": "2026-11-26T05:34:37+00:00",
+  "first_seen": "2026-11-26T18:07:51+00:00",
+  "source": "Build Australia",
+  "found_via": "Google News - Housing",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.buildaustralia.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Housing"
+  ],
+  "tags": [
+   "Housing"
+  ],
+  "regions": [
+   "WA"
+  ]
+ },
+ {
+  "title": "Hunter riders warned illegal e-bikes can be seized and crushed",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0hRandWZVhOeWhiQjhkaFVGbDB0cjNLOVBWbUJUTWhiLWEtZWhFbmdvTUo5S25pa0Y4cHlLYi05LXpiY1dVNC1STWxIWWxlSjNOWnFtcjNHX1lfSWxmU2I1TmZsQXJUSUp1UzF3U25jUTBXeDNWdjYtSFdVRHlKNWtBUFp2VmVybmFFLWd5ejVfSXI2OEU0S0ln?oc=5",
+  "summary": "Hunter riders warned illegal e-bikes can be seized and crushed Newcastle Weekly",
+  "published": "2026-11-26T04:31:06+00:00",
+  "first_seen": "2026-11-26T18:07:43+00:00",
+  "source": "Newcastle Weekly",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://newcastleweekly.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
+  "title": "ALGA welcomes council financial sustainability inquiry findings",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVZqckxmbkRCUmdnR2pQZzFZeUtTa0M0dHF6b1dqOG9fTmh1LVowLThsMHBrV29zbHRTUzdCOElYWXlNczd2UW5lWHVLQVpGOEFGeGY2M1BkOGZ0alZabTRmQVFJZzNFR3RHTDNjM0RBX3lqUXd0bXpvOEZ5a2xQc0kxQkZUcUJ2NmlEejhKcUQ4bzVlRWRWM3czeTBYc2RsUEdr?oc=5",
+  "summary": "ALGA welcomes council financial sustainability inquiry findings Inside Local Government",
+  "published": "2026-11-26T03:54:49+00:00",
+  "first_seen": "2026-11-26T18:07:52+00:00",
+  "source": "Inside Local Government",
+  "found_via": "Google News - Council finance",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://insidelocalgovernment.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Council Finance"
+  ],
+  "tags": [
+   "Council Finance",
+   "Policy"
+  ],
+  "regions": []
+ },
+ {
+  "title": "WestCycle AGM: year of growth highlighted by active transport expansion",
+  "link": "https://westcycle.org.au/westcycle-agm-year-of-growth-highlighted-by-active-transport-expansion/",
+  "summary": "WestCycle hosted its AGM this week; an opportunity to reflect on progress across riding domains in Western Australia and to acknowledge the members, volunteers, clubs, event organisers, partners and advocates who make that progress possible. The post WestCycle AGM: year of growth highlighted by…",
+  "published": "2026-11-26T03:48:49+00:00",
+  "first_seen": "2026-11-26T18:07:30+00:00",
+  "source": "WestCycle",
+  "found_via": "WestCycle",
+  "source_type": "Advocacy",
+  "filter": false,
+  "fixed_region": "WA",
+  "publisher_site": "",
+  "google_news": false,
+  "search_tags": [],
+  "tags": [],
+  "regions": [
+   "WA"
+  ]
+ },
+ {
+  "title": "‘Don’t have it’: Fresh warning on Aus e-bikes",
+  "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUENtSHp0UFc5Z18xWnFRVkFiTzZQZkNyaXRLV1Zscm5uYVpUQmtDQ2RtcTNzQ25sVHByaV9FY2ZGWEoxUW43OVdNRy1VbG1RLVlHSXZTaDU3aGdtSE56dkltb21EUy1LdF8yMDVhR0x4OUU2Qlk2a09UaFd1X2k3TkQ5MnMydzJsZVZIa2locnQzT1ZiclpkcDY4MzVUbWdWMXc4alJScUhBMTF6aHlGdGRVS2xkWGxnbGRfWVJ1aGZTSG5DMlZ6Z0dNTTFHTmJ2eXctbVdkeldjR3dEVk1vRXAtRkJpeVRkSnF2ZW5VbVJoR0x1NWprZW9ZS0FZdjkwdzNWMm1QUU5tdw?oc=5",
+  "summary": "‘Don’t have it’: Fresh warning on Aus e-bikes The Daily Telegraph",
+  "published": "2026-11-26T03:10:49+00:00",
+  "first_seen": "2026-11-26T18:07:43+00:00",
+  "source": "The Daily Telegraph",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.dailytelegraph.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": [
+   "NSW"
+  ]
+ },
+ {
   "title": "Sunshine Coast students leading the way in riding their way to healthier futures",
   "link": "https://www.weride.org.au/community/sunshine-coast-students-leading-the-way-in-riding-their-way-to-healthier-futures/",
   "summary": "Students from fourteen Queensland’s Sunshine Coast primary schools have been recognised this week for an outstanding year of riding and...",
@@ -57,6 +393,29 @@
   ],
   "tags": [
    "Micromobility"
+  ],
+  "regions": [
+   "QLD"
+  ]
+ },
+ {
+  "title": "QPC EPBC Interim Report: The Cost for Queensland Housing|TGB",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa19MeFNSN25WSzJiUGxWQUpkYWwtaDczZDR5WFQzM1hQb3A1VHkzYnhadUNyM3lpNzhmLTdtRjd6VFo1Y0xITmZQLXZlVGltY1dJMU5GejFxbEhianNwTXdmX0ZaYV9xSHVQZ1lEb3d0UkVTT2RrRDRteXN5SGx6eGt2cXktYlRmT1hYdW1ORzR2dmFRTzlCcGo5ZFNEc0hPM3RnRTJRTEE5ZDRxeDZqblM2QjQ5aXdTekk0X1pNRlY?oc=5",
+  "summary": "QPC EPBC Interim Report: The Cost for Queensland Housing|TGB The Good Builder",
+  "published": "2026-11-26T01:00:53+00:00",
+  "first_seen": "2026-11-26T18:07:52+00:00",
+  "source": "The Good Builder",
+  "found_via": "Google News - Urban growth",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://thegoodbuilder.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Urban Growth"
+  ],
+  "tags": [
+   "Urban Growth"
   ],
   "regions": [
    "QLD"
@@ -557,6 +916,27 @@
   "regions": [
    "WA"
   ]
+ },
+ {
+  "title": "IF we win the AFLW Grand Final, celebrate with us at Arden St!",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS2NteVhlUTQ4bXhaeVN5dThfcGZUdTlSdkVnR0FFd0J0bnZoX2lrVnhoOEVSOGIydllIQ0Qxc3FqQXZLSlhTWG1vUGwtanhsczVCTXplc0pPTHlGcGFuUGNaNU91UUFnaHJWMU1fVXI1aXhMY0FEWU9iYi1JcTVRMXNwd21tZ201eXM4dmpmZkVtN3JpMUtMRA?oc=5",
+  "summary": "IF we win the AFLW Grand Final, celebrate with us at Arden St! nmfc.com.au",
+  "published": "2026-11-25T08:38:00+00:00",
+  "first_seen": "2026-11-26T18:07:44+00:00",
+  "source": "nmfc.com.au",
+  "found_via": "Google News - Public transport",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.nmfc.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Public Transport"
+  ],
+  "tags": [
+   "Public Transport"
+  ],
+  "regions": []
  },
  {
   "title": "Teenager taken to hospital after e-bike crash in East Corrimal",
@@ -1669,6 +2049,27 @@
   "regions": [
    "International"
   ]
+ },
+ {
+  "title": "Wheelchair Paralympian faces court on multiple rape charges",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNlNNMHlqQ2NXZlQwZFpQN3lSNHFid3M0M2pUQUJ6a1RHaVFDcFNXN0pTeW5kdWN5TUVpc2lkeWRKcmZoU0lhWkJvQmFJMU1xYkpiQVNBbU5tSHprZzMtdDNLOTIzd2xUSUg1QVV0VjhuU0h3UDNtMGJaZFZOd3dPVHhpVU8tV1VmQWotQkpVQy03NlVwZWx4VzJ0QUx0X0ZrSndocXQxMlF3RTZpMkNkQXp3?oc=5",
+  "summary": "Wheelchair Paralympian faces court on multiple rape charges The Nightly",
+  "published": "2026-11-23T11:28:34+00:00",
+  "first_seen": "2026-11-26T18:07:53+00:00",
+  "source": "The Nightly",
+  "found_via": "Google News - Accessibility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://thenightly.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Accessibility"
+  ],
+  "tags": [
+   "Accessibility"
+  ],
+  "regions": []
  },
  {
   "title": "Developers set their sights on raising Mullum height limits",
@@ -3897,6 +4298,25 @@
   ]
  },
  {
+  "title": "Pinehurst Station Posts Anemic Ridership in First Full Month",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUTc2TXlyNWpOX1hYbXVtNk52OTdLVjFTTkFvX2dJOE9CNERpeW02Q29yY3VCWE1qM1cxMkp6dHQtdVNrRE9DdVpSdWRxNC10RmJnMF9CSnBlRm9Bb3JSTlcwU19scUM4ak4wVWJ5aHUwX05ybFhkZmpoZm9raFdlOVFZTW9DTkc3M3VRdElwNkduS2c?oc=5",
+  "summary": "Pinehurst Station Posts Anemic Ridership in First Full Month The Urbanist",
+  "published": "2026-11-18T22:25:29+00:00",
+  "first_seen": "2026-11-26T18:07:56+00:00",
+  "source": "The Urbanist",
+  "found_via": "Google News - Urbanism",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theurbanist.org",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [],
+  "regions": [
+   "International"
+  ]
+ },
+ {
   "title": "Productivity through trust",
   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pM0gtbjhNMmw2MmdZQnhFdmJzeUJsY21iOXRONGI0N3AtQUxadGhEcFBZLWtQYzYtRVZ5MTZnMHNkZHB2Tlpmb1VzZF82ZjVyZUtRUHlVdm5wRFJwRXk0dXFmdlh4UlBYa1lGS0hsaGQ4SWc?oc=5",
   "summary": "Productivity through trust Infrastructure Magazine",
@@ -5062,6 +5482,30 @@
   "regions": []
  },
  {
+  "title": "City of Ballarat welcomes signalised pedestrian crossing on Eureka Street funding commitment",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd2w5cDVfaEd1LWlvSTQ2clpfeml1QURDY1J3N0VfclNZckJ4TGR1ek44LU1DSkg4OGlmUmltWDdUcU5KbjBFWEhjTXRVVTNUcTl0R1hsemNPMlkzSk1sOG54N3Fmd1FQWGM3NWdyY29sSXN4RHFRQWlHc0FJVlliOHVzNk5RQ0VNM2hxNldFM2M3TG9vREgzNGlyenlQV1VTXzJja3JTdVRXRE9VbVkzcFA2YnZmbkg2WWVpQlRzTWg?oc=5",
+  "summary": "City of Ballarat welcomes signalised pedestrian crossing on Eureka Street funding commitment City of Ballarat",
+  "published": "2026-11-17T08:00:00+00:00",
+  "first_seen": "2026-11-26T18:07:42+00:00",
+  "source": "City of Ballarat",
+  "found_via": "Google News - Walking",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.ballarat.vic.gov.au",
+  "google_news": true,
+  "search_tags": [
+   "Walking"
+  ],
+  "tags": [
+   "Walking",
+   "Funding"
+  ],
+  "regions": [
+   "VIC"
+  ]
+ },
+ {
   "title": "Police officer faces charge over fatal e-bike pullover",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZnFuQkFoZklCQldlOWsxOVoxaWp3Mk9leHZjUENmWHdRdUE2eFJwVnlWak1MeGEwSGxWYzQzNDlOYVUzN0pYaFR5RTVTbEF2M0I3cldDTlNsVHpFVnVWMlJSY1NVd3dBV3dkYVVBSlAwdV9kOVF4QTBrb0VBa1VWTE9wZDkybFdVS25NV1pLR0VZZ0N0LVNWMnVYVmNSMlN1XzRVeQ?oc=5",
   "summary": "Police officer faces charge over fatal e-bike pullover The Canberra Times",
@@ -5966,6 +6410,28 @@
   "regions": []
  },
  {
+  "title": "E-bike age-limit delay draws criticism as safety concerns continue",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLTdYbi14R1ZtUFlWLUpwams5bVV5b0xyWFlQcy15cU05NTREZE9WbnRoM2hfVWZyekNwNVl3MWQxakxhdURtZ3RxNGdyNENCQkNfNW9HVjZnOXZnUzVQTmV0YVBpcFpHemZoeGZpQ1pETVhBcklBOV94VTNDMUJHOTVXdzdtdFpnM3RVQ1p1ZGM5QzVZX0F3SmRGZnozVVJObG8zMDRXdFMydFYtakhjNmtPSG5vWml0S01SNlVvbVU2UnhGd3VFMlQ2OUlIQQ?oc=5",
+  "summary": "E-bike age-limit delay draws criticism as safety concerns continue The Bugle app",
+  "published": "2026-11-16T08:00:00+00:00",
+  "first_seen": "2026-11-26T18:07:43+00:00",
+  "source": "The Bugle app",
+  "found_via": "Google News - Micromobility",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.thebuglenews.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Micromobility"
+  ],
+  "tags": [
+   "Cycling",
+   "Micromobility"
+  ],
+  "regions": []
+ },
+ {
   "title": "Boorloo City Trails promote Perth exploration by bike and foot",
   "link": "https://westcycle.org.au/boorloo-city-trails-promote-perth-exploration-by-bike-and-foot/",
   "summary": "The Boorloo City Trails network offers 14 ways to discover Perth's iconic riverfronts, parklands, landmarks and cultural attractions by riding, wheeling or walking. The post Boorloo City Trails promote Perth exploration by bike and foot appeared first on WestCycle .",
@@ -6708,6 +7174,27 @@
   ],
   "regions": [
    "NSW"
+  ]
+ },
+ {
+  "title": "Seattle Social Housing Developer Drops Design Director",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRTc4aGJPdVVJdW9UMDVueFF4VlhSTjdxWUJ1d29EMkR4alo5d1lHRFNKeE5DYW1ISUVGM1JUU3ZRMDhaUWhZazJMZ1dSWTR6Mmt1b1JXU3pkZmdXcWFleWxmbDJuNEtiTkRkNmotalVfdlNzemlKdkt6TFJHM0VnWktFdm92UmdLVWhN?oc=5",
+  "summary": "Seattle Social Housing Developer Drops Design Director The Urbanist",
+  "published": "2026-11-15T08:00:00+00:00",
+  "first_seen": "2026-11-26T18:07:56+00:00",
+  "source": "The Urbanist",
+  "found_via": "Google News - Urbanism",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://www.theurbanist.org",
+  "google_news": true,
+  "search_tags": [],
+  "tags": [
+   "Housing"
+  ],
+  "regions": [
+   "International"
   ]
  },
  {
@@ -8187,6 +8674,27 @@
   "filter": false,
   "fixed_region": null,
   "publisher_site": "https://www.insidestategovernment.com.au",
+  "google_news": true,
+  "search_tags": [
+   "Zoning"
+  ],
+  "tags": [
+   "Zoning"
+  ],
+  "regions": []
+ },
+ {
+  "title": "Consultation opens on proposed rezoning for 230 new homes in Tweed Shire",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekl6MmRYMjBJSHVLUkZGQ0RpVkFubkRiV0pqcDBTZ0FIY29IVDlrcWFjc1hvelBfYy1sZG8xS1BOc2RMbDhHYWY0VG1mZ19mUzM4M0ROQ09zSDBjTzNQNWd6Q0wzdEpJTnlMVXZsMnVZVFV4cE1WejU0c0N5VTNJR2Y4YnZxcHFQbzVPT0J2aXRFeDN0M1FQUmdYOUljUmJ2cUh5N2FzdEJGNm8?oc=5",
+  "summary": "Consultation opens on proposed rezoning for 230 new homes in Tweed Shire Inside Local Government",
+  "published": "2026-11-12T04:25:18+00:00",
+  "first_seen": "2026-11-26T18:07:51+00:00",
+  "source": "Inside Local Government",
+  "found_via": "Google News - Zoning",
+  "source_type": "News",
+  "filter": false,
+  "fixed_region": null,
+  "publisher_site": "https://insidelocalgovernment.com.au",
   "google_news": true,
   "search_tags": [
    "Zoning"
